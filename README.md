@@ -4,7 +4,7 @@
 
 ## 当前状态
 
-30 节 HTML 课件和逐节计划已建立初版。研究核验、代码实验、浏览器测试和最终审计仍需继续；不能把“文件存在”视为项目完成。
+30 节 HTML 课件和逐节计划已建立初版。2026-10-10 的结构、来源、可访问性、全课程交互、Edge AX tree、键盘/剪贴板和 390px 自动测试均通过；逐句教学终审、人工视觉/屏幕阅读器/跨浏览器审查和 TabPFN checkpoint 授权实验仍未完成。不能把“文件存在”视为项目完成。
 
 ## 如何阅读
 
@@ -36,6 +36,12 @@ HTML 结构和链接：
 
     python code/check_html_structure.py
     python code/audit_lessons.py
+
+全课程交互与可访问性：
+
+    python code/browser_interaction_audit.py
+    python code/ax_tree_course_audit.py
+    python code/accessibility_audit.py
 
 基础依赖版本记录在 code/requirements.txt。TabPFN 不放入基础依赖，因为其 checkpoint、许可证、硬件和版本需要单独核验。
 
