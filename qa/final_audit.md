@@ -15,6 +15,7 @@
 - R05 PFN 原始论文链接已核正为 arXiv:2112.10510，并保存复核记录 `reports/core_fact_verification_2026-10-10.md`；外链审计重跑通过。
 - TabPFN 官方 Models/README 的版本、行列、类别、CPU 提示和许可边界已追加日期化证据；这些页面事实仍不替代本机 checkpoint 实测。
 - 已生成逐课来源清单：30 个课件、34 个外部链接引用、148 个本地来源链接；该清单明确不替代语义事实核验。
+- 已保存 `reports/paper_claim_verification_2026-10-10.md`：PFN/TabPFN/XGBoost 核心论文主张已到 HTML 章节级，CatBoost 仍保留公式级缺口，FT-Transformer 保留访问缺口。
 
 ## 未通过或未验证
 
