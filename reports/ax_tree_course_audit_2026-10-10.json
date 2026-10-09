@@ -2,12 +2,16 @@
   {
     "page": "01_tabular_learning_intro.html",
     "named_heading_count": 9,
-    "interactive_count": 5,
+    "interactive_count": 6,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
         "role": "link",
         "name": "课程地图"
+      },
+      {
+        "role": "combobox",
+        "name": "分类或回归任务类型"
       },
       {
         "role": "link",
@@ -62,7 +66,7 @@
   {
     "page": "03_metrics.html",
     "named_heading_count": 9,
-    "interactive_count": 6,
+    "interactive_count": 8,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -80,6 +84,14 @@
       {
         "role": "link",
         "name": "下一节：04 →"
+      },
+      {
+        "role": "link",
+        "name": "验证 JSON"
+      },
+      {
+        "role": "link",
+        "name": "code/lesson_03_06_examples.py"
       },
       {
         "role": "link",
@@ -210,7 +222,7 @@
   {
     "page": "06_tree_splits.html",
     "named_heading_count": 9,
-    "interactive_count": 6,
+    "interactive_count": 8,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -228,6 +240,14 @@
       {
         "role": "link",
         "name": "下一节：07 →"
+      },
+      {
+        "role": "link",
+        "name": "验证 JSON"
+      },
+      {
+        "role": "link",
+        "name": "code/lesson_03_06_examples.py"
       },
       {
         "role": "link",
