@@ -16,6 +16,7 @@
 - TabPFN 官方 Models/README 的版本、行列、类别、CPU 提示和许可边界已追加日期化证据；这些页面事实仍不替代本机 checkpoint 实测。
 - 已生成逐课来源清单：30 个课件、34 个外部链接引用、148 个本地来源链接；该清单明确不替代语义事实核验。
 - 已保存 `reports/paper_claim_verification_2026-10-10.md`：PFN/TabPFN/XGBoost 核心论文主张已到 HTML 章节级，CatBoost 仍保留公式级缺口，FT-Transformer 保留访问缺口。
+- 已完成入口页桌面与第 05 节 390px 截图的人工视觉复核；记录了通过项和窄屏目录偏小的非阻断观察，范围不扩展为全课程视觉认证。
 
 ## 未通过或未验证
 
