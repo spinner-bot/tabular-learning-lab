@@ -13,6 +13,7 @@
 - 基础 sklearn、树模型、XGBoost、CatBoost、MLP 和校准 smoke test 有运行记录。
 - 研究计划、事实矩阵、参考文献、版本记录和开放问题已建立。
 - R05 PFN 原始论文链接已核正为 arXiv:2112.10510，并保存复核记录 `reports/core_fact_verification_2026-10-10.md`；外链审计重跑通过。
+- TabPFN 官方 Models/README 的版本、行列、类别、CPU 提示和许可边界已追加日期化证据；这些页面事实仍不替代本机 checkpoint 实测。
 
 ## 未通过或未验证
 
