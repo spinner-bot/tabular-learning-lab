@@ -1,6 +1,6 @@
 # 初始模型比较数据
 
-`initial_results.json` 是由 `code/benchmark_models.py` 生成的合成数据协议检查结果；`real_breast_cancer_results.json` 是由 `code/real_benchmark.py` 生成的真实数据初始比较结果。
+`initial_results.json` 是由 `code/benchmark_models.py` 生成的合成数据协议检查结果；`real_breast_cancer_results.json` 和 `real_wine_results.json` 分别由 `code/real_benchmark.py` 与 `code/real_benchmark_suite.py` 生成真实数据初始比较结果。
 
 它使用固定的合成二分类数据、3 个随机种子、统一的 25% 测试集比例、统一的 0.5 概率阈值，并记录 accuracy、balanced accuracy、macro-F1、ROC-AUC 和拟合时间。
 
