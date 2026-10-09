@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-copy]').forEach(function(button){button.addEventListener('click',async function(){const target=document.getElementById(button.dataset.copy),status=document.getElementById(button.dataset.status);try{await navigator.clipboard.writeText(target.innerText);status.textContent='已复制代码。'}catch(e){status.textContent='复制失败，请手动选择代码。'}})});
