@@ -12,11 +12,11 @@
 | F06 | XGBoost 目标函数、正则化和一/二阶信息 | 高 | R01 | R11 | 原始论文 HTML §2.1–§2 已核对目标、正则化和一/二阶信息；当前实现仍需单独核验 | 算法与实现分开 | 09 |
 | F07 | CatBoost 类别特征处理和 Ordered Boosting | 高 | R02 | R12 | 原始论文摘要与官方类别特征文档已核对 ordered boosting、类别处理、prediction shift、随机排列和前缀统计；具体版本公式与默认参数仍需核对 | 论文/当前库分别标记 | 10 |
 | F08 | FT-Transformer 输入编码、注意力和论文结论 | 高 | R03 | 官方实现 | 原始论文入口已定位；OpenReview 当前 challenge 重定向，暂不标记为最终通过 | 2021 论文/当前实现 | 14 |
-| F09 | 树模型与深度模型比较结论 | 高 | R03 | 后续基准研究 | 已有合成数据和两个 UCI 数据集的 7 模型/3 种子初始结果；仅支持各协议内观察，不支持绝对排名 | `reports/benchmark_initial.md`、`reports/real_benchmark_breast_cancer.md`、`reports/real_benchmark_wine.md` | 11, 15, 25 |
+| F09 | 树模型与深度模型比较结论 | 高 | R03 | 后续基准研究 | 已有合成数据和两个 UCI 数据集的 7 模型/10 种子重复结果，并保留 3 种子初始结果；仅支持各协议内观察，不支持绝对排名 | `reports/benchmark_initial.md`、`reports/real_benchmark_breast_cancer.md`、`reports/real_benchmark_wine.md` | 11, 15, 25 |
 | F10 | 分类/回归指标及数据泄漏规范 | 高 | 统计/ML 教材与官方库文档 | 课程实验设计 | 课程已链接 scikit-learn 评估、交叉验证和常见陷阱文档；仍需逐节核对主张是否与协议一致 | 课程协议 | 02-04, 24 |
 | F11 | TabPFN 当前版本支持的任务和计算资源 | 高 | R07, R08, R13 | R09 | 官方页面已确认分类/回归 quick start、GPU 推荐、CPU 5,000 样本提示、批量预测建议和 checkpoint 版本差异；本机资源实测仍未完成，官方建议与实验结果已分开 | 2026-10-10 页面 | 20, 21, 22 |
 | F13 | TabPFN 模型权重许可证与代码许可证 | 高 | R07, R13 | 对应模型许可 | 已确认代码 Apache 2.0 与模型权重许可分开；3/3.5 等权重的非商业限制和教学/商业使用边界需按版本单独说明 | 2026-10-10 页面 | 20, 21, README |
-| F12 | 关键性能数字、复杂度和运行时间 | 高 | 对应原始论文/实验日志 | 复现实验 | 本地 benchmark 与预声明 XGBoost/CatBoost 参数实验已有逐次 JSON、均值/标准差和环境记录；TabPFN 性能、论文数字和通用复杂度仍未核验，不得混写 | `data/benchmark/*.json`、`reports/*benchmark*.md` | 全部 |
+| F12 | 关键性能数字、复杂度和运行时间 | 高 | 对应原始论文/实验日志 | 复现实验 | 本地 benchmark 与预声明 XGBoost/CatBoost 参数实验已有逐次 JSON、均值/标准差、10 种子描述性 95% t 区间和环境记录；TabPFN 性能、论文数字和通用复杂度仍未核验，不得混写 | `data/benchmark/*.json`、`reports/*benchmark*.md` | 全部 |
 
 ## 判定规则
 
