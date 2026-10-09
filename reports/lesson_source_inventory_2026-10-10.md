@@ -26,7 +26,7 @@
 | `20_tabpfn_versions.html` | 3 | 5 | `https://github.com/PriorLabs/TabPFN`<br>`https://github.com/PriorLabs/TabPFN`<br>`https://docs.priorlabs.ai/models` |
 | `21_tabpfn_experiment.html` | 1 | 4 | `https://github.com/PriorLabs/TabPFN` |
 | `22_calibration.html` | 2 | 5 | `https://scikit-learn.org/stable/modules/calibration.html`<br>`https://github.com/PriorLabs/TabPFN` |
-| `23_data_processing.html` | 2 | 4 | `https://scikit-learn.org/stable/modules/preprocessing.html`<br>`https://scikit-learn.org/stable/modules/impute.html` |
+| `23_data_processing.html` | 3 | 4 | `https://dash.harvard.edu/entities/publication/73120378-8764-6bd4-e053-0100007fdf3b`<br>`https://scikit-learn.org/stable/modules/preprocessing.html`<br>`https://scikit-learn.org/stable/modules/impute.html` |
 | `24_reproducible_benchmark.html` | 1 | 5 | `https://scikit-learn.org/stable/modules/cross_validation.html` |
 | `25_model_comparison.html` | 1 | 5 | `https://scikit-learn.org/stable/modules/model_evaluation.html` |
 | `26_research_opportunities.html` | 1 | 7 | `https://arxiv.org/abs/2207.01848` |
@@ -35,7 +35,7 @@
 | `29_capstone.html` | 1 | 6 | `https://github.com/PriorLabs/TabPFN` |
 | `30_synthesis.html` | 1 | 7 | `https://scikit-learn.org/stable/modules/model_evaluation.html` |
 
-合计：30 个课件，35 个外部链接，157 个本地链接。
+合计：30 个课件，36 个外部链接，157 个本地链接。
 
 ## 判定
 

@@ -18,6 +18,7 @@
 | R11 | XGBoost 官方文档 | 当前版本需复核 | 官方文档 | https://xgboost.readthedocs.io/ | 当前 API、参数和实现行为 | 文档不是原始算法论文 |
 | R12 | CatBoost 官方算法文档 | 当前版本需复核 | 官方文档 | https://catboost.ai/docs/en/concepts/algorithm-main-stages_fighting-biases | Ordered Boosting 与偏差说明 | 需与原始论文交叉核对 |
 | R14 | CatBoost 类别特征转数值官方文档 | 2026-10-10 页面 | 官方实现文档 | https://catboost.ai/docs/en/concepts/algorithm-main-stages_cat-to-numberic | 随机排列、前缀目标统计、prior、类别组合和 one-hot 分支 | 实现文档不等于原始论文；参数行为仍受版本影响 |
+| R15 | Rubin, *Inference and Missing Data* | 1976 | 原始论文 | https://dash.harvard.edu/entities/publication/73120378-8764-6bd4-e053-0100007fdf3b | 缺失数据机制与 MAR/可忽略性边界；MCAR/MAR/MNAR 的课程定义需结合现代教材解释 | 统计定义与实际可识别性不能混同；本课不展开完整缺失数据推断 |
 
 ## 使用规则
 
