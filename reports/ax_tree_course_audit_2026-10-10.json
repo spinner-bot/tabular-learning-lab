@@ -814,7 +814,7 @@
   {
     "page": "23_data_processing.html",
     "named_heading_count": 8,
-    "interactive_count": 6,
+    "interactive_count": 7,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -828,6 +828,10 @@
       {
         "role": "link",
         "name": "下一节：24 →"
+      },
+      {
+        "role": "link",
+        "name": "Rubin (1976)"
       },
       {
         "role": "link",
