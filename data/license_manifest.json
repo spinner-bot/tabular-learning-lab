@@ -1,0 +1,123 @@
+{
+  "audit_date": "2026-10-10",
+  "scope": "Repository dependencies, benchmark datasets, cited software and optional model weights",
+  "items": [
+    {
+      "name": "tabular-learning-lab",
+      "kind": "repository",
+      "license": "UNDECLARED",
+      "source": "Repository root",
+      "url": null,
+      "status": "decision_required",
+      "notes": "The repository does not currently declare a project license. This is separate from third-party licenses."
+    },
+    {
+      "name": "Python / standard library",
+      "kind": "runtime",
+      "license": "Python Software Foundation License",
+      "source": "Python documentation",
+      "url": "https://docs.python.org/3/license.html",
+      "status": "documented",
+      "notes": "Runtime dependency; no vendored Python source is distributed."
+    },
+    {
+      "name": "NumPy",
+      "kind": "dependency",
+      "license": "BSD-3-Clause",
+      "source": "NumPy repository",
+      "url": "https://github.com/numpy/numpy/blob/main/LICENSE.txt",
+      "status": "documented",
+      "notes": "Transitive/runtime dependency used by the benchmark scripts."
+    },
+    {
+      "name": "pandas",
+      "kind": "dependency",
+      "license": "BSD-3-Clause",
+      "source": "pandas repository",
+      "url": "https://github.com/pandas-dev/pandas/blob/main/LICENSE",
+      "status": "documented",
+      "notes": "Pinned in code/requirements.txt."
+    },
+    {
+      "name": "scikit-learn",
+      "kind": "dependency",
+      "license": "BSD-3-Clause",
+      "source": "scikit-learn repository",
+      "url": "https://github.com/scikit-learn/scikit-learn/blob/main/COPYING",
+      "status": "documented",
+      "notes": "Pinned in code/requirements.txt; its bundled datasets are treated separately below."
+    },
+    {
+      "name": "XGBoost",
+      "kind": "dependency",
+      "license": "Apache-2.0",
+      "source": "XGBoost repository",
+      "url": "https://github.com/dmlc/xgboost/blob/master/LICENSE",
+      "status": "documented",
+      "notes": "Pinned in code/requirements_phase_c.txt."
+    },
+    {
+      "name": "CatBoost",
+      "kind": "dependency",
+      "license": "Apache-2.0",
+      "source": "CatBoost repository",
+      "url": "https://github.com/catboost/catboost/blob/master/LICENSE",
+      "status": "documented",
+      "notes": "Pinned in code/requirements_phase_c.txt."
+    },
+    {
+      "name": "psutil",
+      "kind": "dependency",
+      "license": "BSD-3-Clause",
+      "source": "psutil repository",
+      "url": "https://github.com/giampaolo/psutil/blob/master/LICENSE",
+      "status": "documented",
+      "notes": "Pinned in code/requirements_phase_c.txt for RSS profiling."
+    },
+    {
+      "name": "Breast Cancer Wisconsin Diagnostic",
+      "kind": "dataset",
+      "license": "CC BY 4.0",
+      "source": "UCI Machine Learning Repository",
+      "url": "https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic",
+      "status": "source_only",
+      "notes": "The repository stores metadata and results, not a redistributed raw copy. Cite DOI 10.24432/C5DW2B."
+    },
+    {
+      "name": "Wine",
+      "kind": "dataset",
+      "license": "CC BY 4.0",
+      "source": "UCI Machine Learning Repository",
+      "url": "https://archive.ics.uci.edu/dataset/109/wine",
+      "status": "source_only",
+      "notes": "The repository stores metadata and results, not a redistributed raw copy. Cite DOI 10.24432/C5PC7J."
+    },
+    {
+      "name": "TabPFN source code",
+      "kind": "optional_dependency",
+      "license": "Apache-2.0",
+      "source": "PriorLabs/TabPFN repository",
+      "url": "https://github.com/PriorLabs/TabPFN/blob/main/LICENSE",
+      "status": "documented",
+      "notes": "Optional and intentionally excluded from the base requirements."
+    },
+    {
+      "name": "TabPFN model weights",
+      "kind": "model_weights",
+      "license": "Version-dependent; verify the selected model card",
+      "source": "Prior Labs model documentation",
+      "url": "https://docs.priorlabs.ai/models",
+      "status": "separate_acceptance_required",
+      "notes": "Code license does not grant model-weight rights. Do not download, redistribute, or make commercial-use claims without accepting the applicable model terms."
+    },
+    {
+      "name": "Research papers and documentation",
+      "kind": "citation",
+      "license": "Not assumed",
+      "source": "research/references.md",
+      "url": null,
+      "status": "citation_only",
+      "notes": "The course links and cites sources; it does not copy paper text or claim redistribution rights."
+    }
+  ]
+}

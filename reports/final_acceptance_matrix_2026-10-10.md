@@ -23,6 +23,7 @@
 | 无虚构引用/伪造实验 | 论文复核记录、TabPFN 失败记录、各 benchmark JSON | 通过（按当前证据） | 继续保持论文/本地实验/当前实现三栏分离 |
 | 实验重复、区间和消融证据 | `reports/repeated_benchmark_10seeds.md`、`reports/preprocessing_ablation_2026-10-10.md`、对应 JSON | 部分通过 | 更广数据集、组件消融、大规模内存压力和 TabPFN 同协议对照仍缺失 |
 | 资源记录 | `reports/resource_profile_2026-10-10.md`、`data/benchmark/resource_profile.json` | 部分通过 | 已有代表性 RSS/时间测量，尚缺大规模压力测试和 TabPFN 资源对照 |
+| 许可证与数据来源边界 | `data/license_manifest.json`、`reports/license_audit_2026-10-10.md` | 部分通过 | 依赖和数据来源已列明；项目级许可证尚未决定，TabPFN 模型权重仍需按版本接受条款 |
 
 ## 技术
 
