@@ -8,7 +8,7 @@
 
 | 课件 | 结论 | 已有证据 | 未闭环项 |
 |---|---|---|---|
-| 23 数据处理 | 部分通过 | Pipeline/ColumnTransformer、训练折拟合预处理、缺失值处理和泄漏边界与 scikit-learn 1.9.1 官方文档一致；MCAR/MAR/MNAR 已补充 Rubin (1976) 原始来源，并在页面明确操作性边界和不可由观测数据自动证明的限制。 | 页面代码示例未单独执行；完整缺失数据推断方法不在本节范围。 |
+| 23 数据处理 | 部分通过 | Pipeline/ColumnTransformer、训练折拟合预处理、缺失值处理和泄漏边界与 scikit-learn 1.9.1 官方文档一致；MCAR/MAR/MNAR 已补充 Rubin (1976) 原始来源，教学规模预处理链已执行并保存 JSON/Markdown 记录，页面明确操作性边界和不可由观测数据自动证明的限制。 | 该运行不等于更广数据处理协议、生产容量或 TabPFN 实验；完整缺失数据推断方法不在本节范围。 |
 | 24 可信 benchmark | 通过（协议层） | 本地重复 benchmark、真实 Breast Cancer/Wine/Diabetes 结果、预处理消融、资源和失败记录覆盖页面要求的主要字段；页面明确不只保留最佳结果。 | 更广数据集、组件消融和 TabPFN 同协议结果仍缺。 |
 | 25 模型比较 | 部分通过 | 页面把 TabPFN、XGBoost、CatBoost、FT-Transformer 的比较条件化，避免绝对排名；XGBoost/CatBoost/FT-Transformer 主张和本地树模型结果已有单独记录。 | TabPFN 未完成 checkpoint 预测，四类模型尚无同协议完整比较；FT-Transformer 官方实现未在本机运行。 |
 | 26 研究机会 | 通过（研究设计层） | 可证伪假设、问题—证据—实验链条与现有研究记录和开放问题一致；页面没有把方向口号写成结果。 | 研究方向的新颖性仍需逐个检索相关工作，不能由本页模板证明。 |

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "rows": 12,
+  "train_rows": 9,
+  "test_rows": 3,
+  "transformed_test_shape": [
+    3,
+    5
+  ],
+  "missing_values_before_fit": 6,
+  "accuracy": 1.0,
+  "python": "3.13.5",
+  "pandas": "3.0.6",
+  "scikit_learn": "1.9.1",
+  "seed": 42,
+  "note": "Teaching-scale preprocessing path; not a TabPFN or production benchmark."
+}
