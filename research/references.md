@@ -17,8 +17,7 @@
 | R10 | *Scaling TabPFN: Sketching and Feature Selection for Tabular Prior-Data Fitted Networks* | 2023 | 后续论文 | https://arxiv.org/abs/2311.10609 | 样本/特征规模扩展思路 | 不是所有扩展都属于默认 TabPFN |
 | R11 | XGBoost 官方文档 | 当前版本需复核 | 官方文档 | https://xgboost.readthedocs.io/ | 当前 API、参数和实现行为 | 文档不是原始算法论文 |
 | R12 | CatBoost 官方算法文档 | 当前版本需复核 | 官方文档 | https://catboost.ai/docs/en/concepts/algorithm-main-stages_fighting-biases | Ordered Boosting 与偏差说明 | 需与原始论文交叉核对 |
-
-## 使用规则
+\n| R14 | CatBoost 类别特征转数值官方文档 | 2026-10-10 页面 | 官方实现文档 | https://catboost.ai/docs/en/concepts/algorithm-main-stages_cat-to-numberic | 随机排列、前缀目标统计、prior、类别组合和 one-hot 分支 | 实现文档不等于原始论文；参数行为仍受版本影响 |\n\n## 使用规则
 
 - 课件正文使用 `[Rxx]` 标记，并在课件末尾列出实际使用来源。
 - 每个性能数字必须记录数据集、任务、协议、版本和核验日期。

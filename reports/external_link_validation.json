@@ -22,6 +22,11 @@
       "final_url": "https://arxiv.org/abs/2305.11097"
     },
     {
+      "url": "https://catboost.ai/docs/en/concepts/algorithm-main-stages_cat-to-numberic",
+      "status": 200,
+      "final_url": "https://catboost.ai/docs/en/concepts/algorithm-main-stages_cat-to-numberic"
+    },
+    {
       "url": "https://catboost.ai/docs/en/concepts/algorithm-main-stages_fighting-biases",
       "status": 200,
       "final_url": "https://catboost.ai/docs/en/concepts/algorithm-main-stages_fighting-biases"

@@ -9,7 +9,7 @@
 | F01/F02 | [PFN 原始论文 HTML](https://arxiv.org/html/2112.10510) 摘要、§2 和算法 1：从可采样的监督任务先验生成数据集，以留出样本的交叉熵训练 PFN；推断时用数据集与查询点预测后验预测分布。 | PFN 是离线先验拟合、推断时使用上下文样本的范式；训练阶段仍然更新 PFN 参数。 | 当前 TabPFN checkpoint 的具体实现、资源和许可行为。
 | F03 | [TabPFN 原始论文 HTML](https://arxiv.org/html/2207.01848) 摘要、§2：训练样本带标签，测试样本作为查询；推断时一次前向得到预测，且不对推断数据进行梯度更新。 | 可用“操作性 ICL”说明固定参数、上下文输入和微调的区别。 | 与语言模型 ICL 的全部机制等价，或对所有表格任务都有效。
 | F06 | [XGBoost 原始论文 HTML](https://arxiv.org/html/1603.02754) §2.1–§2.2 明确给出损失加正则化目标、叶数/叶权重惩罚，以及一阶/二阶梯度统计和二阶近似；§3–§4 讨论分裂、稀疏、分位数 sketch 和系统设计。 | 课程第 09 节的统计目标、正则化、一/二阶信息和工程贡献。 | 当前 `xgboost` 包的默认参数、缺失值路径和 API 行为；这些需由当前文档/运行记录支持。
-| F07 | [CatBoost 原始论文摘要](https://arxiv.org/abs/1706.09516) 明确提出 ordered boosting、类别特征处理，并将其与 prediction shift/target leakage 风险联系起来。 | 课程第 10 节可讲机制动机和泄漏风险。 | 在本轮未完成 CatBoost HTML 正文的公式级逐段核验，因此不把具体目标统计公式或所有实现细节标为最终通过。
+| F07 | [CatBoost 原始论文摘要](https://arxiv.org/abs/1706.09516) 明确提出 ordered boosting、类别特征处理，并将其与 prediction shift/target leakage 风险联系起来；[官方类别特征文档](https://catboost.ai/docs/en/concepts/algorithm-main-stages_cat-to-numberic) 进一步记录随机排列、前缀统计、`prior`、类别组合和 one-hot 分支。 | 课程第 10 节可分别讲论文机制动机和当前实现流程。 | 官方实现文档不等于论文证明；具体目标统计公式、参数默认值和所有版本行为仍需按版本核对。
 
 ## 仍未通过或需要单独处理
 

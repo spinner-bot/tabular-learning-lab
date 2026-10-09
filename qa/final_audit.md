@@ -14,7 +14,7 @@
 - 研究计划、事实矩阵、参考文献、版本记录和开放问题已建立。
 - R05 PFN 原始论文链接已核正为 arXiv:2112.10510，并保存复核记录 `reports/core_fact_verification_2026-10-10.md`；外链审计重跑通过。
 - TabPFN 官方 Models/README 的版本、行列、类别、CPU 提示和许可边界已追加日期化证据；这些页面事实仍不替代本机 checkpoint 实测。
-- 已生成逐课来源清单：30 个课件、34 个外部链接引用、148 个本地来源链接；该清单明确不替代语义事实核验。
+- 已生成逐课来源清单：30 个课件、35 个外部链接引用、148 个本地来源链接；该清单明确不替代语义事实核验。
 - 已保存 `reports/paper_claim_verification_2026-10-10.md`：PFN/TabPFN/XGBoost 核心论文主张已到 HTML 章节级，CatBoost 仍保留公式级缺口，FT-Transformer 保留访问缺口。
 - 已完成入口页桌面与第 05 节 390px 截图的人工视觉复核；记录了通过项和窄屏目录偏小的非阻断观察，范围不扩展为全课程视觉认证。
 
@@ -25,7 +25,7 @@
 - 浏览器自动化 smoke test 已通过；人工逐像素视觉审阅、屏幕阅读器审计和跨内核兼容性仍未完成，证据见 `reports/browser_validation.md`。
 - 静态可访问性基础审计已通过 31 个页面；屏幕阅读器和人工可用性审查仍未完成，证据见 `reports/accessibility_validation.md`。
 - Edge Accessibility tree 已核对入口页和第 05 节关键控件的角色/名称；真实屏幕阅读器端到端审查仍未完成，证据见 `reports/ax_tree_validation.md`。
-- 19 个外部来源链接在本次日期核验中可达；链接可达不等于主张逐条核验，证据见 `reports/external_link_validation.md`。
+- 20 个外部来源链接在本次日期核验中可达；链接可达不等于主张逐条核验，证据见 `reports/external_link_validation.md`。
 - TabPFN 版本、限制和许可证页面已于 2026-10-10 重新核对；本机运行证据仍未通过，详见 `reports/tabpfn_fact_refresh.md`。
 - 30 节课件仍是初版，尚未完成统一深度、引用和跨章节终审。
 - 已有合成数据、两个真实数据集和 36 次预声明参数实验；更大规模重复、置信区间、消融和正式数据许可审计仍未完成。
