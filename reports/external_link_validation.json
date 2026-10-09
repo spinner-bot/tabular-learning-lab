@@ -32,6 +32,11 @@
       "final_url": "https://catboost.ai/docs/en/concepts/algorithm-main-stages_fighting-biases"
     },
     {
+      "url": "https://dash.harvard.edu/entities/publication/73120378-8764-6bd4-e053-0100007fdf3b",
+      "status": 200,
+      "final_url": "https://dash.harvard.edu/entities/publication/73120378-8764-6bd4-e053-0100007fdf3b"
+    },
+    {
       "url": "https://docs.priorlabs.ai/models",
       "status": 200,
       "final_url": "https://docs.priorlabs.ai/models"
