@@ -1,0 +1,548 @@
+{
+  "protocol": {
+    "datasets": [
+      "breast_cancer",
+      "wine"
+    ],
+    "seeds": [
+      7,
+      42,
+      101
+    ],
+    "test_size": 0.25,
+    "configs": {
+      "xgb_small": [
+        "xgboost",
+        {
+          "n_estimators": 50,
+          "max_depth": 3,
+          "learning_rate": 0.1
+        }
+      ],
+      "xgb_regular": [
+        "xgboost",
+        {
+          "n_estimators": 100,
+          "max_depth": 4,
+          "learning_rate": 0.08
+        }
+      ],
+      "xgb_deeper": [
+        "xgboost",
+        {
+          "n_estimators": 150,
+          "max_depth": 6,
+          "learning_rate": 0.05
+        }
+      ],
+      "cat_small": [
+        "catboost",
+        {
+          "iterations": 50,
+          "depth": 4,
+          "learning_rate": 0.1
+        }
+      ],
+      "cat_regular": [
+        "catboost",
+        {
+          "iterations": 100,
+          "depth": 6,
+          "learning_rate": 0.08
+        }
+      ],
+      "cat_deeper": [
+        "catboost",
+        {
+          "iterations": 150,
+          "depth": 8,
+          "learning_rate": 0.05
+        }
+      ]
+    },
+    "selection": "Predeclared configurations; no test-set-driven selection."
+  },
+  "environment": {
+    "python": "3.13.5",
+    "pandas": "3.0.6",
+    "scikit_learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "catboost": "1.2.10"
+  },
+  "runs": [
+    {
+      "dataset": "breast_cancer",
+      "seed": 7,
+      "config": "xgb_small",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9533542976939203,
+      "macro_f1": 0.9481158969574457,
+      "roc_auc_ovr": 0.9935010482180294,
+      "fit_seconds": 0.0783183000748977
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 7,
+      "config": "xgb_regular",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9683438155136268,
+      "macro_f1": 0.9629399263981755,
+      "roc_auc_ovr": 0.9966457023060797,
+      "fit_seconds": 0.1342764999717474
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 7,
+      "config": "xgb_deeper",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.958909853249476,
+      "macro_f1": 0.9553682896379525,
+      "roc_auc_ovr": 0.9958071278825996,
+      "fit_seconds": 0.22488840005826205
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 7,
+      "config": "cat_small",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9738993710691823,
+      "macro_f1": 0.9702455264253016,
+      "roc_auc_ovr": 0.9972746331236897,
+      "fit_seconds": 0.3115540000144392
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 7,
+      "config": "cat_regular",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.960587002096436,
+      "macro_f1": 0.9623783214943435,
+      "roc_auc_ovr": 0.9958071278825996,
+      "fit_seconds": 0.44731979991775006
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 7,
+      "config": "cat_deeper",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9850104821802935,
+      "macro_f1": 0.9850104821802935,
+      "roc_auc_ovr": 0.9974842767295597,
+      "fit_seconds": 1.7610245000105351
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 42,
+      "config": "xgb_small",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9455974842767296,
+      "macro_f1": 0.947329650092081,
+      "roc_auc_ovr": 0.9945492662473795,
+      "fit_seconds": 0.07407159998547286
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 42,
+      "config": "xgb_regular",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9511530398322852,
+      "macro_f1": 0.9546703296703296,
+      "roc_auc_ovr": 0.9960167714884697,
+      "fit_seconds": 0.14114799990784377
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 42,
+      "config": "xgb_deeper",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9511530398322852,
+      "macro_f1": 0.9546703296703296,
+      "roc_auc_ovr": 0.9960167714884697,
+      "fit_seconds": 0.28694400005042553
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 42,
+      "config": "cat_small",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9511530398322852,
+      "macro_f1": 0.9546703296703296,
+      "roc_auc_ovr": 0.9958071278825996,
+      "fit_seconds": 0.144076400087215
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 42,
+      "config": "cat_regular",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9472746331236898,
+      "macro_f1": 0.9542838874680306,
+      "roc_auc_ovr": 0.9953878406708596,
+      "fit_seconds": 0.463221300044097
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 42,
+      "config": "cat_deeper",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9567085953878407,
+      "macro_f1": 0.9620669531540135,
+      "roc_auc_ovr": 0.9968553459119497,
+      "fit_seconds": 1.7056718999519944
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 101,
+      "config": "xgb_small",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9755765199161426,
+      "macro_f1": 0.9774269928966062,
+      "roc_auc_ovr": 0.9985324947589098,
+      "fit_seconds": 0.06916630000341684
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 101,
+      "config": "xgb_regular",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9755765199161426,
+      "macro_f1": 0.9774269928966062,
+      "roc_auc_ovr": 0.9983228511530399,
+      "fit_seconds": 0.14138010004535317
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 101,
+      "config": "xgb_deeper",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9755765199161426,
+      "macro_f1": 0.9774269928966062,
+      "roc_auc_ovr": 0.9987421383647799,
+      "fit_seconds": 0.23294389992952347
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 101,
+      "config": "cat_small",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.960587002096436,
+      "macro_f1": 0.9623783214943435,
+      "roc_auc_ovr": 0.9981132075471698,
+      "fit_seconds": 0.14440069999545813
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 101,
+      "config": "cat_regular",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9755765199161426,
+      "macro_f1": 0.9774269928966062,
+      "roc_auc_ovr": 0.9989517819706499,
+      "fit_seconds": 0.42925240006297827
+    },
+    {
+      "dataset": "breast_cancer",
+      "seed": 101,
+      "config": "cat_deeper",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9567085953878407,
+      "macro_f1": 0.9620669531540135,
+      "roc_auc_ovr": 0.9987421383647799,
+      "fit_seconds": 1.6044174999697134
+    },
+    {
+      "dataset": "wine",
+      "seed": 7,
+      "config": "xgb_small",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9771428571428572,
+      "roc_auc_ovr": 0.9986282578875172,
+      "fit_seconds": 0.04717100004199892
+    },
+    {
+      "dataset": "wine",
+      "seed": 7,
+      "config": "xgb_regular",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9771428571428572,
+      "roc_auc_ovr": 0.9986282578875172,
+      "fit_seconds": 0.0694908999139443
+    },
+    {
+      "dataset": "wine",
+      "seed": 7,
+      "config": "xgb_deeper",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9771428571428572,
+      "roc_auc_ovr": 0.9986282578875172,
+      "fit_seconds": 0.10369620006531477
+    },
+    {
+      "dataset": "wine",
+      "seed": 7,
+      "config": "cat_small",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9592592592592593,
+      "macro_f1": 0.9566538952745849,
+      "roc_auc_ovr": 0.9993141289437585,
+      "fit_seconds": 0.07770100003108382
+    },
+    {
+      "dataset": "wine",
+      "seed": 7,
+      "config": "cat_regular",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9771428571428572,
+      "roc_auc_ovr": 0.9993141289437585,
+      "fit_seconds": 0.24333650001790375
+    },
+    {
+      "dataset": "wine",
+      "seed": 7,
+      "config": "cat_deeper",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9771428571428572,
+      "roc_auc_ovr": 0.9984723781020078,
+      "fit_seconds": 1.4576815000036731
+    },
+    {
+      "dataset": "wine",
+      "seed": 42,
+      "config": "xgb_small",
+      "model_family": "xgboost",
+      "balanced_accuracy": 1.0,
+      "macro_f1": 1.0,
+      "roc_auc_ovr": 1.0,
+      "fit_seconds": 0.04680960008408874
+    },
+    {
+      "dataset": "wine",
+      "seed": 42,
+      "config": "xgb_regular",
+      "model_family": "xgboost",
+      "balanced_accuracy": 1.0,
+      "macro_f1": 1.0,
+      "roc_auc_ovr": 1.0,
+      "fit_seconds": 0.07385610009077936
+    },
+    {
+      "dataset": "wine",
+      "seed": 42,
+      "config": "xgb_deeper",
+      "model_family": "xgboost",
+      "balanced_accuracy": 1.0,
+      "macro_f1": 1.0,
+      "roc_auc_ovr": 1.0,
+      "fit_seconds": 0.10700790002010763
+    },
+    {
+      "dataset": "wine",
+      "seed": 42,
+      "config": "cat_small",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9797235023041475,
+      "roc_auc_ovr": 1.0,
+      "fit_seconds": 0.08122400008141994
+    },
+    {
+      "dataset": "wine",
+      "seed": 42,
+      "config": "cat_regular",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9797235023041475,
+      "roc_auc_ovr": 1.0,
+      "fit_seconds": 0.242189500015229
+    },
+    {
+      "dataset": "wine",
+      "seed": 42,
+      "config": "cat_deeper",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9797235023041475,
+      "roc_auc_ovr": 1.0,
+      "fit_seconds": 1.1299461000598967
+    },
+    {
+      "dataset": "wine",
+      "seed": 101,
+      "config": "xgb_small",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9771428571428572,
+      "roc_auc_ovr": 0.9993141289437585,
+      "fit_seconds": 0.04406260000541806
+    },
+    {
+      "dataset": "wine",
+      "seed": 101,
+      "config": "xgb_regular",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9771428571428572,
+      "roc_auc_ovr": 0.9993141289437585,
+      "fit_seconds": 0.06895490002352744
+    },
+    {
+      "dataset": "wine",
+      "seed": 101,
+      "config": "xgb_deeper",
+      "model_family": "xgboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9771428571428572,
+      "roc_auc_ovr": 0.9993141289437585,
+      "fit_seconds": 0.09965320001356304
+    },
+    {
+      "dataset": "wine",
+      "seed": 101,
+      "config": "cat_small",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9771428571428572,
+      "roc_auc_ovr": 1.0,
+      "fit_seconds": 0.07352240011096
+    },
+    {
+      "dataset": "wine",
+      "seed": 101,
+      "config": "cat_regular",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9771428571428572,
+      "roc_auc_ovr": 0.9984723781020078,
+      "fit_seconds": 0.23908889992162585
+    },
+    {
+      "dataset": "wine",
+      "seed": 101,
+      "config": "cat_deeper",
+      "model_family": "catboost",
+      "balanced_accuracy": 0.9814814814814815,
+      "macro_f1": 0.9771428571428572,
+      "roc_auc_ovr": 1.0,
+      "fit_seconds": 1.1176396999508142
+    }
+  ],
+  "summary": {
+    "('balanced_accuracy', 'mean')": {
+      "('breast_cancer', 'cat_deeper')": 0.966143,
+      "('breast_cancer', 'cat_regular')": 0.961146,
+      "('breast_cancer', 'cat_small')": 0.96188,
+      "('breast_cancer', 'xgb_deeper')": 0.96188,
+      "('breast_cancer', 'xgb_regular')": 0.965024,
+      "('breast_cancer', 'xgb_small')": 0.958176,
+      "('wine', 'cat_deeper')": 0.981481,
+      "('wine', 'cat_regular')": 0.981481,
+      "('wine', 'cat_small')": 0.974074,
+      "('wine', 'xgb_deeper')": 0.987654,
+      "('wine', 'xgb_regular')": 0.987654,
+      "('wine', 'xgb_small')": 0.987654
+    },
+    "('balanced_accuracy', 'std')": {
+      "('breast_cancer', 'cat_deeper')": 0.01634,
+      "('breast_cancer', 'cat_regular')": 0.014159,
+      "('breast_cancer', 'cat_small')": 0.011428,
+      "('breast_cancer', 'xgb_deeper')": 0.01248,
+      "('breast_cancer', 'xgb_regular')": 0.012546,
+      "('breast_cancer', 'xgb_small')": 0.01556,
+      "('wine', 'cat_deeper')": 0.0,
+      "('wine', 'cat_regular')": 0.0,
+      "('wine', 'cat_small')": 0.01283,
+      "('wine', 'xgb_deeper')": 0.010692,
+      "('wine', 'xgb_regular')": 0.010692,
+      "('wine', 'xgb_small')": 0.010692
+    },
+    "('macro_f1', 'mean')": {
+      "('breast_cancer', 'cat_deeper')": 0.969715,
+      "('breast_cancer', 'cat_regular')": 0.964696,
+      "('breast_cancer', 'cat_small')": 0.962431,
+      "('breast_cancer', 'xgb_deeper')": 0.962489,
+      "('breast_cancer', 'xgb_regular')": 0.965012,
+      "('breast_cancer', 'xgb_small')": 0.957624,
+      "('wine', 'cat_deeper')": 0.978003,
+      "('wine', 'cat_regular')": 0.978003,
+      "('wine', 'cat_small')": 0.971173,
+      "('wine', 'xgb_deeper')": 0.984762,
+      "('wine', 'xgb_regular')": 0.984762,
+      "('wine', 'xgb_small')": 0.984762
+    },
+    "('macro_f1', 'std')": {
+      "('breast_cancer', 'cat_deeper')": 0.013246,
+      "('breast_cancer', 'cat_regular')": 0.011744,
+      "('breast_cancer', 'cat_small')": 0.007788,
+      "('breast_cancer', 'xgb_deeper')": 0.012942,
+      "('breast_cancer', 'xgb_regular')": 0.011519,
+      "('breast_cancer', 'xgb_small')": 0.017154,
+      "('wine', 'cat_deeper')": 0.00149,
+      "('wine', 'cat_regular')": 0.00149,
+      "('wine', 'cat_small')": 0.01264,
+      "('wine', 'xgb_deeper')": 0.013197,
+      "('wine', 'xgb_regular')": 0.013197,
+      "('wine', 'xgb_small')": 0.013197
+    },
+    "('roc_auc_ovr', 'mean')": {
+      "('breast_cancer', 'cat_deeper')": 0.997694,
+      "('breast_cancer', 'cat_regular')": 0.996716,
+      "('breast_cancer', 'cat_small')": 0.997065,
+      "('breast_cancer', 'xgb_deeper')": 0.996855,
+      "('breast_cancer', 'xgb_regular')": 0.996995,
+      "('breast_cancer', 'xgb_small')": 0.995528,
+      "('wine', 'cat_deeper')": 0.999491,
+      "('wine', 'cat_regular')": 0.999262,
+      "('wine', 'cat_small')": 0.999771,
+      "('wine', 'xgb_deeper')": 0.999314,
+      "('wine', 'xgb_regular')": 0.999314,
+      "('wine', 'xgb_small')": 0.999314
+    },
+    "('roc_auc_ovr', 'std')": {
+      "('breast_cancer', 'cat_deeper')": 0.000961,
+      "('breast_cancer', 'cat_regular')": 0.001948,
+      "('breast_cancer', 'cat_small')": 0.001167,
+      "('breast_cancer', 'xgb_deeper')": 0.001637,
+      "('breast_cancer', 'xgb_regular')": 0.001192,
+      "('breast_cancer', 'xgb_small')": 0.002655,
+      "('wine', 'cat_deeper')": 0.000882,
+      "('wine', 'cat_regular')": 0.000765,
+      "('wine', 'cat_small')": 0.000396,
+      "('wine', 'xgb_deeper')": 0.000686,
+      "('wine', 'xgb_regular')": 0.000686,
+      "('wine', 'xgb_small')": 0.000686
+    },
+    "('fit_seconds', 'mean')": {
+      "('breast_cancer', 'cat_deeper')": 1.690371,
+      "('breast_cancer', 'cat_regular')": 0.446598,
+      "('breast_cancer', 'cat_small')": 0.20001,
+      "('breast_cancer', 'xgb_deeper')": 0.248259,
+      "('breast_cancer', 'xgb_regular')": 0.138935,
+      "('breast_cancer', 'xgb_small')": 0.073852,
+      "('wine', 'cat_deeper')": 1.235089,
+      "('wine', 'cat_regular')": 0.241538,
+      "('wine', 'cat_small')": 0.077482,
+      "('wine', 'xgb_deeper')": 0.103452,
+      "('wine', 'xgb_regular')": 0.070767,
+      "('wine', 'xgb_small')": 0.046014
+    },
+    "('fit_seconds', 'std')": {
+      "('breast_cancer', 'cat_deeper')": 0.079417,
+      "('breast_cancer', 'cat_regular')": 0.016996,
+      "('breast_cancer', 'cat_small')": 0.0966,
+      "('breast_cancer', 'xgb_deeper')": 0.033744,
+      "('breast_cancer', 'xgb_regular')": 0.004036,
+      "('breast_cancer', 'xgb_small')": 0.00458,
+      "('wine', 'cat_deeper')": 0.192869,
+      "('wine', 'cat_regular')": 0.002197,
+      "('wine', 'cat_small')": 0.003855,
+      "('wine', 'xgb_deeper')": 0.003683,
+      "('wine', 'xgb_regular')": 0.002688,
+      "('wine', 'xgb_small')": 0.0017
+    }
+  }
+}
