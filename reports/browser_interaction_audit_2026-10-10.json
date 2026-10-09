@@ -23,8 +23,8 @@
   },
   {
     "page": "03_metrics.html",
-    "quiz_count": 5,
-    "range_count": 0,
+    "quiz_count": 7,
+    "range_count": 1,
     "copy_button_count": 0,
     "canvas_count": 0,
     "scroll_width": 390,
@@ -53,7 +53,7 @@
   },
   {
     "page": "06_tree_splits.html",
-    "quiz_count": 5,
+    "quiz_count": 7,
     "range_count": 0,
     "copy_button_count": 0,
     "canvas_count": 0,

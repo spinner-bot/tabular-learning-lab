@@ -7,7 +7,7 @@
 | 要求 | 权威证据 | 状态 | 剩余缺口 |
 |---|---|---|---|
 | 30 节课件和入口存在 | `code/audit_lessons.py`、`index.html`、HTML 结构报告 | 通过 | 无结构缺口 |
-| 固定教学结构和最低深度 | `code/content_depth_audit.py`、`reports/content_depth_validation.md` | 通过（结构层） | 逐句教学准确性和统一深度仍需人工核读 |
+| 固定教学结构和最低深度 | `code/content_depth_audit.py`、`reports/content_depth_validation.md`、`reports/lesson_03_06_content_revision_2026-10-10.md` | 通过（结构与已发现缺口修订层） | 逐句教学准确性和统一深度仍需人工核读 |
 | 目标、讲解、例子、图示/交互、自测、来源 | `code/audit_lessons.py`、`reports/lesson_source_inventory_2026-10-10.md` | 通过（存在性层） | 来源是否逐条支持主张仍未全部确认 |
 | 核心知识、边界和不确定性 | `research/fact_check_matrix.md`、`reports/paper_claim_verification_2026-10-10.md`、`reports/xgboost_claim_verification_2026-10-10.md`、`reports/catboost_claim_verification_2026-10-10.md`、`reports/ft_transformer_claim_verification_2026-10-10.md` | 部分通过 | 主要论文机制已补充核验；动态 API、逐课主张和官方实现运行仍有缺口 |
 | 课程结构、术语和公式一致 | `code/cross_lesson_audit.py`、`code/citation_consistency_audit.py` | 部分通过 | 结构一致已通过，专家级术语/公式终审未完成 |
@@ -33,7 +33,7 @@
 | 要求 | 权威证据 | 状态 | 剩余缺口 |
 |---|---|---|---|
 | HTML 可打开、导航和本地链接有效 | `code/check_html_structure.py`、浏览器 smoke test | 通过 |
-| 交互组件实际可用 | `code/browser_smoke_test.py`、`reports/lesson_05_validation.md` | 部分通过 | 深度交互只抽样验证；全课程人工操作路径未完成 |
+| 交互组件实际可用 | `code/browser_smoke_test.py`、`code/browser_interaction_audit.py`、`reports/lesson_03_06_content_revision_2026-10-10.md` | 部分通过 | 自动路径已覆盖阈值滑块、details、复制和 canvas；真实屏幕阅读器、跨浏览器和人工操作路径未完成 |
 | 代码有验证记录或明确标注未验证 | 各 lesson、`code/*_smoke_test.py`、`reports/*validation*.md` | 部分通过 | 尚未逐块执行所有课件代码 |
 | 窄屏可用 | `reports/browser_full_layout_2026-10-10.json` | 通过（自动化宽度层） | 人工视觉和跨内核仍未完成 |
 | 外部依赖和离线限制已说明 | `reports/tabpfn_validation.md`、`reports/tabpfn_probe_2026-10-10.md`、课件边界说明 | 部分通过 | TabPFN 代码导入已在隔离环境通过；模型权重授权、checkpoint/预测和资源对照仍未完成 |
