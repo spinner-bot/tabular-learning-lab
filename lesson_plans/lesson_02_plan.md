@@ -7,5 +7,5 @@
 - 图示/交互：数据划分流程和泄漏开关。
 - 代码：scikit-learn Pipeline 与固定随机种子。
 - 自测：划分策略、泄漏诊断、验证集用途、时间数据、泛化判断。
-- 来源：scikit-learn 官方文档；实验规范待补充。
+- 来源：<https://scikit-learn.org/stable/common_pitfalls.html>、<https://scikit-learn.org/stable/modules/cross_validation.html> 与 `qa/acceptance_criteria.md`。
 - 难点：区分验证集调参与测试集最终评估。

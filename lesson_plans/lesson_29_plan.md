@@ -7,5 +7,5 @@
 - 图示/交互：项目里程碑和结果仪表板。
 - 代码：完整项目脚本与 requirements。
 - 自测：协议审计、复现、误差、资源、结论边界。
-- 来源：具体项目数据集、模型和官方文档。
+- 来源：具体项目数据集、模型官方文档、`qa/acceptance_criteria.md` 和 `reports/real_benchmark_breast_cancer.md`；正式项目必须另行记录数据集 DOI 与许可证。
 - 难点：真实结果、模拟结果和未执行部分必须分开。
