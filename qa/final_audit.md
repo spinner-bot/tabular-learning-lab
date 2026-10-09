@@ -30,7 +30,7 @@
 - 逐节事实主张还没有全部逐句核验。
 - TabPFN 基础环境曾被 PyTorch c10.dll 阻塞；2026-10-10 隔离环境已通过代码导入，但真实 checkpoint/预测仍因模型权重授权未完成。
 - 隔离探针已成功导入 PyTorch 2.7.1+cpu 与 TabPFN 9.1.0；最小 fit 进入官方权重授权流程但未取得授权，未下载权重，详见 `reports/tabpfn_probe_2026-10-10.md`。
-- 浏览器自动化 smoke test 已通过；人工逐像素视觉审阅、屏幕阅读器审计和跨内核兼容性仍未完成，证据见 `reports/browser_validation.md`。
+- 浏览器自动化 smoke test 已通过；Chromium、Firefox、WebKit 三引擎自动路径已完成，人工逐像素视觉审阅和屏幕阅读器审计仍未完成，证据见 `reports/cross_browser_smoke_2026-10-10.md`。
 - 静态可访问性基础审计已通过 31 个页面；屏幕阅读器和人工可用性审查仍未完成，证据见 `reports/accessibility_validation.md`。
 - Edge Accessibility tree 已核对入口页和第 05 节关键控件的角色/名称；真实屏幕阅读器端到端审查仍未完成，证据见 `reports/ax_tree_validation.md`。
 - 20 个外部来源链接在本次日期核验中可达；链接可达不等于主张逐条核验，证据见 `reports/external_link_validation.md`。
@@ -42,7 +42,7 @@
 - 已新增代表性资源剖析：14 次拟合记录拟合时间与 RSS 峰值；更大规模压力测试、正式许可审计和 TabPFN 对照仍未完成。
 - 已新增更大规模资源压力剖析：5,000×50 与 15,000×50 两档合成数据、6 个模型、12 次拟合；TabPFN 资源对照和生产容量测试仍未完成。
 - 已新增全课程浏览器交互审计：30/30 页面、150 个自测展开、范围控件/复制/Canvas 路径通过，HTTP 资源错误为 0；该证据不替代真实屏幕阅读器和跨浏览器人工复核。
-- Edge Accessibility tree 已扩展为 30/30 页面逐页检查命名 heading 和交互角色；工作站缺少 NVDA/其他浏览器，真实屏幕阅读器语音与跨引擎复核仍未完成。
+- Edge Accessibility tree 已扩展为 30/30 页面逐页检查命名 heading 和交互角色；工作站缺少 NVDA，真实屏幕阅读器语音与人工视觉复核仍未完成；三引擎自动复核已由 `reports/cross_browser_smoke_2026-10-10.md` 覆盖。
 - 已新增 Diabetes 回归扩展：70 次固定协议运行，保留逐次 JSON、汇总报告和无告警结果；该实验不替代更广数据集覆盖或 TabPFN 对照。
 - 已建立许可证与来源审计：`data/license_manifest.json` 与 `reports/license_audit_2026-10-10.md`，明确项目许可证未声明、依赖许可证、UCI 数据集来源边界、TabPFN 代码/模型权重分离和论文仅引用边界。
 

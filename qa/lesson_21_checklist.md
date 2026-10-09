@@ -1,6 +1,6 @@
 # 第 21 节验收表
 
-状态：初版；TabPFN 环境和 checkpoint 尚未安装验证。
+状态：初版；TabPFN 隔离环境导入已验证，checkpoint 授权/下载/预测仍未完成；页面自动门禁已通过。
 
 - [x] 目标、安装、实验流水线、资源、失败排查、3 个误区、5 道自测已覆盖。
-- [ ] 当前官方 API 运行、真实数据实验、资源日志和浏览器测试待完成；当前工作站 PyTorch c10.dll 阻塞，详见 reports/tabpfn_validation.md。
+- [ ] 当前官方 API checkpoint 运行、真实数据实验和资源日志待完成；浏览器、窄屏和控制台自动测试已通过，授权与环境边界详见 `reports/tabpfn_probe_2026-10-10.md`。
