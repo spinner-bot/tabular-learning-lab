@@ -6,6 +6,7 @@
 
 | 要求 | 权威证据 | 状态 | 剩余缺口 |
 |---|---|---|---|
+| 第 11–30 节主张级批次核验 | `reports/lesson_11_15_claim_review_2026-10-10.md`、`reports/lesson_16_22_claim_review_2026-10-10.md`、`reports/lesson_23_30_claim_review_2026-10-10.md` | 部分通过 | 已完成分批主张边界盘点；逐句专家终审、TabPFN 权重实验、完整论文精读和真实教学试用仍未完成 |
 | 30 节课件和入口存在 | `code/audit_lessons.py`、`index.html`、HTML 结构报告 | 通过 | 无结构缺口 |
 | 固定教学结构和最低深度 | `code/content_depth_audit.py`、`reports/content_depth_validation.md`、`reports/lesson_03_06_content_revision_2026-10-10.md` | 通过（结构与已发现缺口修订层） | 逐句教学准确性和统一深度仍需人工核读 |
 | 目标、讲解、例子、图示/交互、自测、来源 | `code/audit_lessons.py`、`reports/lesson_source_inventory_2026-10-10.md` | 通过（存在性层） | 来源是否逐条支持主张仍未全部确认 |
