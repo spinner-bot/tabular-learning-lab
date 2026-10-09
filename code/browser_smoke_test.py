@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import functools
+import json
 import threading
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -75,10 +76,26 @@ def main() -> None:
             lesson.screenshot(path=str(artifact_dir / "lesson_05_mobile.png"), full_page=True)
 
             pages = sorted((ROOT / "lessons").glob("*.html"))
+            layout_records: list[dict[str, int | str | bool]] = []
             for page in pages:
                 lesson.goto(f"{base_url}/lessons/{page.name}", wait_until="networkidle")
                 assert lesson.locator("h1").count() == 1, page.name
-                assert lesson.evaluate("document.documentElement.scrollWidth <= window.innerWidth"), page.name
+                record = lesson.evaluate(
+                    """() => ({
+                        page: location.pathname.split('/').pop(),
+                        title: document.title,
+                        h1: document.querySelector('h1').textContent.trim(),
+                        viewport_width: window.innerWidth,
+                        scroll_width: document.documentElement.scrollWidth,
+                        scroll_height: document.documentElement.scrollHeight,
+                        horizontal_overflow: document.documentElement.scrollWidth > window.innerWidth
+                    })"""
+                )
+                assert not record["horizontal_overflow"], page.name
+                layout_records.append(record)
+            (ROOT / "reports" / "browser_full_layout_2026-10-10.json").write_text(
+                json.dumps(layout_records, ensure_ascii=False, indent=2), encoding="utf-8"
+            )
             lesson_context.close()
             browser.close()
     finally:

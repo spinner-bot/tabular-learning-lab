@@ -1,0 +1,272 @@
+[
+  {
+    "page": "01_tabular_learning_intro.html",
+    "title": "01｜表格学习是什么",
+    "h1": "表格学习是什么：问题、数据与任务",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3730,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "02_ml_workflow.html",
+    "title": "02｜机器学习实验流程",
+    "h1": "机器学习实验的基本流程",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3465,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "03_metrics.html",
+    "title": "03｜损失函数与模型评估",
+    "h1": "损失函数与模型评估",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3234,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "04_bias_variance.html",
+    "title": "04｜偏差、方差与基线",
+    "h1": "从直觉到模型：偏差、方差与基线",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3527,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "05_decision_trees.html",
+    "title": "05｜决策树：如何做出预测",
+    "h1": "决策树：如何做出预测",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 6148,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "06_tree_splits.html",
+    "title": "06｜决策树如何选择分裂",
+    "h1": "决策树如何选择分裂",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3180,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "07_random_forest.html",
+    "title": "07｜Bagging、随机森林与模型集成",
+    "h1": "Bagging、随机森林与模型集成",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3044,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "08_gbdt.html",
+    "title": "08｜Boosting 与 GBDT",
+    "h1": "Boosting 与 GBDT",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3028,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "09_xgboost.html",
+    "title": "09｜XGBoost：目标函数与工程设计",
+    "h1": "XGBoost：目标函数与工程设计",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3187,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "10_catboost.html",
+    "title": "10｜CatBoost：类别特征与有序提升",
+    "h1": "CatBoost：类别特征与有序提升",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3263,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "11_tabular_challenges.html",
+    "title": "11｜表格学习的特殊挑战",
+    "h1": "表格学习的特殊挑战",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3297,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "12_mlp.html",
+    "title": "12｜MLP 与表格神经网络入门",
+    "h1": "MLP 与表格神经网络入门",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3093,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "13_transformer.html",
+    "title": "13｜Transformer 与注意力机制基础",
+    "h1": "Transformer 与注意力机制基础",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3295,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "14_ft_transformer.html",
+    "title": "14｜FT-Transformer：将 Transformer 用于表格",
+    "h1": "FT-Transformer：将 Transformer 用于表格",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 2918,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "15_fair_comparison.html",
+    "title": "15｜表格模型如何公平比较",
+    "h1": "表格模型如何公平比较",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3050,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "16_tabpfn_motivation.html",
+    "title": "16｜TabPFN 为什么出现",
+    "h1": "TabPFN 为什么出现：研究动机与发展脉络",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3175,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "17_tabpfn_inference.html",
+    "title": "17｜TabPFN 的整体架构与推断流程",
+    "h1": "TabPFN 的整体架构与推断流程",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3136,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "18_icl.html",
+    "title": "18｜In-Context Learning：从语言模型到表格任务",
+    "h1": "In-Context Learning：从语言模型到表格任务",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3191,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "19_tabpfn_prior.html",
+    "title": "19｜TabPFN 的预训练思想与先验",
+    "h1": "TabPFN 的预训练思想与先验",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3252,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "20_tabpfn_versions.html",
+    "title": "20｜TabPFN 的使用边界与版本演进",
+    "h1": "TabPFN 的使用边界与版本演进",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3759,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "21_tabpfn_experiment.html",
+    "title": "21｜TabPFN 实战：从安装到可复现实验",
+    "h1": "TabPFN 实战：从安装到可复现实验",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 2925,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "22_calibration.html",
+    "title": "22｜TabPFN 结果解释、校准与不确定性",
+    "h1": "TabPFN 结果解释、校准与不确定性",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3342,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "23_data_processing.html",
+    "title": "23｜数据处理与特征工程",
+    "h1": "数据处理：缺失值、类别特征与特征工程",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3023,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "24_reproducible_benchmark.html",
+    "title": "24｜从单次跑通到可信基准实验",
+    "h1": "从单次跑通到可信基准实验",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 2967,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "25_model_comparison.html",
+    "title": "25｜TabPFN 与 XGBoost/CatBoost/FT-Transformer 对比",
+    "h1": "TabPFN 与 XGBoost/CatBoost/FT-Transformer 对比",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 2972,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "26_research_opportunities.html",
+    "title": "26｜TabPFN 及表格学习的研究机会",
+    "h1": "TabPFN 及表格学习的研究机会",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 3152,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "27_experiment_plan.html",
+    "title": "27｜从研究想法到可执行实验计划",
+    "h1": "从研究想法到可执行实验计划",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 2949,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "28_paper_workshop.html",
+    "title": "28｜论文精读工作坊：TabPFN 代表性论文",
+    "h1": "论文精读工作坊：TabPFN 代表性论文",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 2941,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "29_capstone.html",
+    "title": "29｜综合项目：完成一次表格学习研究",
+    "h1": "综合项目：完成一次表格学习研究",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 2939,
+    "horizontal_overflow": false
+  },
+  {
+    "page": "30_synthesis.html",
+    "title": "30｜知识整合、研究路线与能力验收",
+    "h1": "知识整合、研究路线与能力验收",
+    "viewport_width": 390,
+    "scroll_width": 390,
+    "scroll_height": 2946,
+    "horizontal_overflow": false
+  }
+]
