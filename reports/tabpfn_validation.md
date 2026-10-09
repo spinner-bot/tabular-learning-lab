@@ -8,9 +8,10 @@
 - PyTorch 2.14.1 默认 wheel 导入失败：Windows WinError 1114，c10.dll 初始化失败。
 - 按官方 CPU-only 路径重装 torch 2.14.1+cpu，仍失败。
 - 进一步尝试 torch 2.9.1+cpu，仍在 c10.dll 初始化失败。
+- 检查替代运行时：WSL 未安装可用发行版，Docker 命令不可用；本机没有现成 Linux 容器路径可重试。
 
 ## 结论
 
 当前 Windows/Python 3.13 工作站无法完成 TabPFN 导入，因此没有执行 checkpoint 下载、认证或预测；不能声称 TabPFN 实验通过。
 
-这不是 TabPFN API 结果，而是底层 PyTorch DLL 环境阻塞。后续可在支持的 Python/Windows 运行环境、Linux/WSL 或具备正确运行库的机器上重试。
+这不是 TabPFN API 结果，而是底层 PyTorch DLL 环境阻塞。后续可在支持的 Python/Windows 运行环境、Linux/WSL、容器或具备正确运行库的机器上重试。本记录不把该环境问题解释成 TabPFN 模型失败。
