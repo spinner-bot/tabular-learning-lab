@@ -7,7 +7,7 @@
 - 30 个独立 lesson HTML 已存在。
 - 30 份 lesson plan 和 30 份逐节 checklist 已存在。
 - index.html 已链接 30/30 个课件。
-- HTML 结构/本地链接审计通过：31 个页面、192 个本地链接。
+- HTML 结构/本地链接审计通过：31 个页面、199 个本地链接；30 节课件均含外部可核验来源，且已纳入审计硬门禁。
 - 基础 sklearn、树模型、XGBoost、CatBoost、MLP 和校准 smoke test 有运行记录。
 - 研究计划、事实矩阵、参考文献、版本记录和开放问题已建立。
 

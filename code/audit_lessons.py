@@ -45,6 +45,7 @@ def main() -> None:
             "navigation": "nav" in parser.tags,
             "misconceptions": "易错点" in content or "误区" in content,
             "sources": "来源" in content,
+            "external_source": any("http://" in href or "https://" in href for href in parser.hrefs),
         }
         for name, passed in required.items():
             if not passed:

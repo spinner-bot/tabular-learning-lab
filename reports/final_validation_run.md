@@ -11,7 +11,7 @@ python code/audit_lessons.py
 lesson audit: PASS (30 lessons, index links 30/30)
 
 python code/check_html_structure.py
-HTML structure check: PASS (31 pages, 192 local links)
+HTML structure check: PASS (31 pages, 199 local links)
 ```
 
 ## 代码烟测
@@ -32,6 +32,7 @@ deep/calibration smoke test: PASS
 ## 当前结论
 
 - 课程文件、索引链接、HTML 结构和已纳入的本地代码烟测均通过。
+- 30 节课件均含至少一个外部可核验来源，且该项已纳入 `code/audit_lessons.py` 硬门禁。
 - 不宣称浏览器交互、窄屏布局、键盘操作和完整引用门禁已经通过。
 - TabPFN 的真实 checkpoint 预测实验仍受当前 Windows 环境中的 PyTorch `c10.dll` 导入错误阻塞，证据见 `reports/tabpfn_validation.md`。
 - 本轮只做本地提交，不执行远程推送。
