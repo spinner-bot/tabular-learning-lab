@@ -1,0 +1,3 @@
+tabpfn==9.1.0
+# Install PyTorch from the official CPU or CUDA index appropriate to the machine.
+# The current Windows workstation failed to initialize torch c10.dll; see the validation report.
