@@ -36,7 +36,7 @@
 | 交互组件实际可用 | `code/browser_smoke_test.py`、`reports/lesson_05_validation.md` | 部分通过 | 深度交互只抽样验证；全课程人工操作路径未完成 |
 | 代码有验证记录或明确标注未验证 | 各 lesson、`code/*_smoke_test.py`、`reports/*validation*.md` | 部分通过 | 尚未逐块执行所有课件代码 |
 | 窄屏可用 | `reports/browser_full_layout_2026-10-10.json` | 通过（自动化宽度层） | 人工视觉和跨内核仍未完成 |
-| 外部依赖和离线限制已说明 | `reports/tabpfn_validation.md`、课件边界说明 | 部分通过 | TabPFN 可运行环境仍缺失 |
+| 外部依赖和离线限制已说明 | `reports/tabpfn_validation.md`、`reports/tabpfn_probe_2026-10-10.md`、课件边界说明 | 部分通过 | TabPFN 代码导入已在隔离环境通过；模型权重授权、checkpoint/预测和资源对照仍未完成 |
 | TabPFN 隔离环境导入与授权门禁 | `reports/tabpfn_probe_2026-10-10.md` | 部分通过 | PyTorch 2.7.1+cpu 与 TabPFN 9.1.0 导入已通过；模型权重授权、checkpoint/预测和资源对照仍未完成 |
 | 无明显控制台/排版问题 | 截图、Edge smoke test、`reports/manual_visual_review_2026-10-10.md` | 部分通过 | 仅人工查看入口和第 05 节，未覆盖全课程/多内核 |
 

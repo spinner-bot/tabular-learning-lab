@@ -24,7 +24,7 @@
 ## 未通过或未验证
 
 - 逐节事实主张还没有全部逐句核验。
-- TabPFN 当前工作站导入被 PyTorch c10.dll 阻塞，真实 checkpoint 实验未完成。
+- TabPFN 基础环境曾被 PyTorch c10.dll 阻塞；2026-10-10 隔离环境已通过代码导入，但真实 checkpoint/预测仍因模型权重授权未完成。
 - 隔离探针已成功导入 PyTorch 2.7.1+cpu 与 TabPFN 9.1.0；最小 fit 进入官方权重授权流程但未取得授权，未下载权重，详见 `reports/tabpfn_probe_2026-10-10.md`。
 - 浏览器自动化 smoke test 已通过；人工逐像素视觉审阅、屏幕阅读器审计和跨内核兼容性仍未完成，证据见 `reports/browser_validation.md`。
 - 静态可访问性基础审计已通过 31 个页面；屏幕阅读器和人工可用性审查仍未完成，证据见 `reports/accessibility_validation.md`。
