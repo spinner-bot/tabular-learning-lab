@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "results": [
     {
       "url": "https://arxiv.org/abs/1706.03762",
@@ -7,9 +7,9 @@
       "final_url": "https://arxiv.org/abs/1706.03762"
     },
     {
-      "url": "https://arxiv.org/abs/2207.00434",
+      "url": "https://arxiv.org/abs/2112.10510",
       "status": 200,
-      "final_url": "https://arxiv.org/abs/2207.00434"
+      "final_url": "https://arxiv.org/abs/2112.10510"
     },
     {
       "url": "https://arxiv.org/abs/2207.01848",

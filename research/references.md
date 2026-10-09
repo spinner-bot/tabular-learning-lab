@@ -8,7 +8,7 @@
 | R02 | Prokhorenkova et al., *CatBoost: unbiased boosting with categorical features* | 2018 | 原始论文 | https://openreview.net/forum?id=PmLty7tODm | Ordered Boosting、类别特征处理、prediction shift | 实验版本与当前库可能不同 |
 | R03 | Gorishniy et al., *Revisiting Deep Learning Models for Tabular Data* | 2021 | 原始论文 | https://openreview.net/forum?id=i_Q1yrOegLY | ResNet/FT-Transformer 架构与标准化比较 | 结论受数据集、预算和实现影响 |
 | R04 | Hollmann et al., *TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second* | 2022 | 原始论文 | https://arxiv.org/abs/2207.01848 | 原始 TabPFN 动机、PFN 架构和小样本分类实验 | 旧版本限制不能直接用于当前版本 |
-| R05 | Müller et al., *PFNs: A New Generative Approach to Machine Learning* | 2022 | 原始论文 | https://arxiv.org/abs/2207.00434 | Prior-Data Fitted Networks 范式 | 需要结合具体 PFN 任务解释 |
+| R05 | Müller et al., *Transformers Can Do Bayesian Inference* | 2022 | 原始论文 | https://arxiv.org/abs/2112.10510 | Prior-Data Fitted Networks（PFN）范式、先验拟合与单次前向预测 | 需要结合具体 PFN/TabPFN 任务解释；不把 PFN 通用结论等同于当前 TabPFN 版本 |
 | R06 | *Statistical Foundations of Prior-Data Fitted Networks* | 2023 | 理论论文 | https://arxiv.org/abs/2305.11097 | PFN 的统计视角与合成任务先验 | 不等于 TabPFN 当前工程 API |
 | R07 | Prior Labs, TabPFN 官方仓库 | 2026-10-10 页面显示 3.5 | 官方仓库 | https://github.com/PriorLabs/TabPFN | 安装、分类/回归 API、模型版本、资源、许可证和限制 | README 会随版本变化 |
 | R08 | TabPFN 官方文档 | 当前版本需复核 | 官方文档 | https://tabpfn.github.io/site/ | API、使用方式、限制和示例 | 旧页面与新仓库可能存在差异 |
