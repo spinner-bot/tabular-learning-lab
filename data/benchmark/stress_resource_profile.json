@@ -1,0 +1,144 @@
+{
+  "protocol": {
+    "dataset": "sklearn.datasets.make_classification",
+    "sizes": [
+      {
+        "samples": 5000,
+        "features": 50
+      },
+      {
+        "samples": 15000,
+        "features": 50
+      }
+    ],
+    "train_fraction": 0.75,
+    "seed": 42,
+    "models": [
+      "logistic_regression",
+      "random_forest",
+      "hist_gradient_boosting",
+      "xgboost",
+      "catboost",
+      "mlp"
+    ],
+    "rss_sampling_interval_seconds": 0.01,
+    "note": "Synthetic stress profile; absolute RSS is process/environment dependent and is not a universal complexity claim. TabPFN is excluded because its runtime environment is unavailable."
+  },
+  "environment": {
+    "python": "3.13.5",
+    "psutil": "7.2.2",
+    "scikit_learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "catboost": "1.2.10"
+  },
+  "runs": [
+    {
+      "samples": 5000,
+      "features": 50,
+      "model": "logistic_regression",
+      "fit_seconds": 0.016012,
+      "baseline_rss_mb": 167.078,
+      "peak_rss_mb": 167.672,
+      "delta_peak_rss_mb": 0.594
+    },
+    {
+      "samples": 5000,
+      "features": 50,
+      "model": "random_forest",
+      "fit_seconds": 2.448987,
+      "baseline_rss_mb": 167.676,
+      "peak_rss_mb": 171.551,
+      "delta_peak_rss_mb": 3.875
+    },
+    {
+      "samples": 5000,
+      "features": 50,
+      "model": "hist_gradient_boosting",
+      "fit_seconds": 0.828714,
+      "baseline_rss_mb": 171.527,
+      "peak_rss_mb": 179.402,
+      "delta_peak_rss_mb": 7.875
+    },
+    {
+      "samples": 5000,
+      "features": 50,
+      "model": "xgboost",
+      "fit_seconds": 0.924451,
+      "baseline_rss_mb": 173.438,
+      "peak_rss_mb": 186.988,
+      "delta_peak_rss_mb": 13.551
+    },
+    {
+      "samples": 5000,
+      "features": 50,
+      "model": "catboost",
+      "fit_seconds": 4.291044,
+      "baseline_rss_mb": 181.066,
+      "peak_rss_mb": 203.379,
+      "delta_peak_rss_mb": 22.312
+    },
+    {
+      "samples": 5000,
+      "features": 50,
+      "model": "mlp",
+      "fit_seconds": 0.452304,
+      "baseline_rss_mb": 189.906,
+      "peak_rss_mb": 194.473,
+      "delta_peak_rss_mb": 4.566
+    },
+    {
+      "samples": 15000,
+      "features": 50,
+      "model": "logistic_regression",
+      "fit_seconds": 0.037147,
+      "baseline_rss_mb": 194.5,
+      "peak_rss_mb": 199.359,
+      "delta_peak_rss_mb": 4.859
+    },
+    {
+      "samples": 15000,
+      "features": 50,
+      "model": "random_forest",
+      "fit_seconds": 8.237623,
+      "baseline_rss_mb": 195.043,
+      "peak_rss_mb": 203.363,
+      "delta_peak_rss_mb": 8.32
+    },
+    {
+      "samples": 15000,
+      "features": 50,
+      "model": "hist_gradient_boosting",
+      "fit_seconds": 0.971194,
+      "baseline_rss_mb": 201.203,
+      "peak_rss_mb": 214.637,
+      "delta_peak_rss_mb": 13.434
+    },
+    {
+      "samples": 15000,
+      "features": 50,
+      "model": "xgboost",
+      "fit_seconds": 1.351725,
+      "baseline_rss_mb": 204.664,
+      "peak_rss_mb": 213.723,
+      "delta_peak_rss_mb": 9.059
+    },
+    {
+      "samples": 15000,
+      "features": 50,
+      "model": "catboost",
+      "fit_seconds": 4.927131,
+      "baseline_rss_mb": 205.824,
+      "peak_rss_mb": 222.109,
+      "delta_peak_rss_mb": 16.285
+    },
+    {
+      "samples": 15000,
+      "features": 50,
+      "model": "mlp",
+      "fit_seconds": 1.360033,
+      "baseline_rss_mb": 207.875,
+      "peak_rss_mb": 217.121,
+      "delta_peak_rss_mb": 9.246
+    }
+  ]
+}
