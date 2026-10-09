@@ -1,0 +1,111 @@
+{
+  "protocol": {
+    "datasets": [
+      "Breast Cancer Wisconsin Diagnostic",
+      "Wine"
+    ],
+    "seed": 42,
+    "test_size": 0.25,
+    "models": [
+      "dummy",
+      "logistic_regression",
+      "random_forest",
+      "hist_gradient_boosting",
+      "xgboost",
+      "catboost",
+      "mlp"
+    ],
+    "rss_sampling_interval_seconds": 0.01,
+    "note": "Single-process representative profile; RSS includes interpreter and loaded libraries and is not a hardware-independent complexity measure."
+  },
+  "environment": {
+    "python": "3.13.5",
+    "psutil": "7.2.2"
+  },
+  "runs": [
+    {
+      "dataset": "Breast Cancer Wisconsin Diagnostic",
+      "model": "dummy",
+      "fit_seconds": 0.001626,
+      "peak_rss_mb": 163.984
+    },
+    {
+      "dataset": "Breast Cancer Wisconsin Diagnostic",
+      "model": "logistic_regression",
+      "fit_seconds": 0.010733,
+      "peak_rss_mb": 164.664
+    },
+    {
+      "dataset": "Breast Cancer Wisconsin Diagnostic",
+      "model": "random_forest",
+      "fit_seconds": 0.178703,
+      "peak_rss_mb": 165.078
+    },
+    {
+      "dataset": "Breast Cancer Wisconsin Diagnostic",
+      "model": "hist_gradient_boosting",
+      "fit_seconds": 0.181804,
+      "peak_rss_mb": 168.34
+    },
+    {
+      "dataset": "Breast Cancer Wisconsin Diagnostic",
+      "model": "xgboost",
+      "fit_seconds": 0.158881,
+      "peak_rss_mb": 177.293
+    },
+    {
+      "dataset": "Breast Cancer Wisconsin Diagnostic",
+      "model": "catboost",
+      "fit_seconds": 0.470861,
+      "peak_rss_mb": 189.309
+    },
+    {
+      "dataset": "Breast Cancer Wisconsin Diagnostic",
+      "model": "mlp",
+      "fit_seconds": 0.06313,
+      "peak_rss_mb": 185.934
+    },
+    {
+      "dataset": "Wine",
+      "model": "dummy",
+      "fit_seconds": 0.001199,
+      "peak_rss_mb": 185.695
+    },
+    {
+      "dataset": "Wine",
+      "model": "logistic_regression",
+      "fit_seconds": 0.011001,
+      "peak_rss_mb": 185.703
+    },
+    {
+      "dataset": "Wine",
+      "model": "random_forest",
+      "fit_seconds": 0.130986,
+      "peak_rss_mb": 185.73
+    },
+    {
+      "dataset": "Wine",
+      "model": "hist_gradient_boosting",
+      "fit_seconds": 0.162203,
+      "peak_rss_mb": 186.246
+    },
+    {
+      "dataset": "Wine",
+      "model": "xgboost",
+      "fit_seconds": 0.064546,
+      "peak_rss_mb": 186.117
+    },
+    {
+      "dataset": "Wine",
+      "model": "catboost",
+      "fit_seconds": 0.186151,
+      "peak_rss_mb": 187.809
+    },
+    {
+      "dataset": "Wine",
+      "model": "mlp",
+      "fit_seconds": 0.039163,
+      "peak_rss_mb": 187.008
+    }
+  ]
+}
