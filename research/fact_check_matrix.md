@@ -19,7 +19,7 @@
 | F13 | TabPFN 模型权重许可证与代码许可证 | 高 | R07, R13 | 对应模型许可 | 已确认代码 Apache 2.0 与模型权重许可分开；3/3.5 等权重的非商业限制和教学/商业使用边界需按版本单独说明 | 2026-10-10 页面 | 20, 21, README |
 | F12 | 关键性能数字、复杂度和运行时间 | 高 | 对应原始论文/实验日志 | 复现实验 | 本地 benchmark 与预声明 XGBoost/CatBoost 参数实验已有逐次 JSON、均值/标准差、10 种子描述性 95% t 区间和环境记录；TabPFN 性能、论文数字和通用复杂度仍未核验，不得混写 | `data/benchmark/*.json`、`reports/*benchmark*.md` | 全部 |
 
-| F14 | 第 11–15 节表格挑战、MLP、Transformer、FT-Transformer 与公平比较主张 | 高 | R03、Transformer 原始论文、scikit-learn 官方文档 | 逐节主张复核 | `reports/lesson_11_15_claim_review_2026-10-10.md` 已记录机制层和协议层结论；第 12/13 代码未执行，第 14 官方实现/API 与资源仍未实测，概念性挑战尚未逐项补齐独立来源 | 11–15 |
+| F14 | 第 11–15 节表格挑战、MLP、Transformer、FT-Transformer 与公平比较主张 | 高 | R03、Transformer 原始论文、scikit-learn 官方文档 | 逐节主张复核 | `reports/lesson_11_15_claim_review_2026-10-10.md` 已记录机制层和协议层结论；第 12/13 页面内联片段仍未执行，但独立最小路径已运行，第 14 官方实现/API 与资源仍未实测，概念性挑战尚未逐项补齐独立来源 | 11–15 |
 
 ## 判定规则
 

@@ -430,7 +430,7 @@
   {
     "page": "12_mlp.html",
     "named_heading_count": 8,
-    "interactive_count": 5,
+    "interactive_count": 7,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -447,6 +447,14 @@
       },
       {
         "role": "link",
+        "name": "code/lesson_12_13_examples.py"
+      },
+      {
+        "role": "link",
+        "name": "验证 JSON"
+      },
+      {
+        "role": "link",
         "name": "scikit-learn MLP 文档"
       },
       {
@@ -458,7 +466,7 @@
   {
     "page": "13_transformer.html",
     "named_heading_count": 8,
-    "interactive_count": 5,
+    "interactive_count": 7,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -472,6 +480,14 @@
       {
         "role": "link",
         "name": "下一节：14 →"
+      },
+      {
+        "role": "link",
+        "name": "code/lesson_12_13_examples.py"
+      },
+      {
+        "role": "link",
+        "name": "验证 JSON"
       },
       {
         "role": "link",

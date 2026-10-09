@@ -1,0 +1,31 @@
+{
+  "lesson_12_mlp": {
+    "library": "scikit-learn",
+    "version": "1.9.1",
+    "dataset": "Breast Cancer Wisconsin Diagnostic",
+    "protocol": "stratified 75/25 split, random_state=42, StandardScaler in pipeline",
+    "accuracy": 0.951048951048951,
+    "early_stopping": true
+  },
+  "lesson_13_attention": {
+    "library": "torch",
+    "version": "2.9.1+cpu",
+    "input_shape": [
+      4,
+      5,
+      8
+    ],
+    "output_shape": [
+      4,
+      5,
+      8
+    ],
+    "attention_shape": [
+      4,
+      5,
+      5
+    ],
+    "finite_output": true,
+    "seed": 42
+  }
+}

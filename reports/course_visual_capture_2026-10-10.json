@@ -115,7 +115,7 @@
     "width": 1440,
     "height": 1000,
     "scroll_width": 1440,
-    "scroll_height": 2695,
+    "scroll_height": 2721,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\12_mlp_desktop.png"
   },
@@ -125,7 +125,7 @@
     "width": 1440,
     "height": 1000,
     "scroll_width": 1440,
-    "scroll_height": 2828,
+    "scroll_height": 2854,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\13_transformer_desktop.png"
   },
@@ -415,7 +415,7 @@
     "width": 390,
     "height": 844,
     "scroll_width": 390,
-    "scroll_height": 3093,
+    "scroll_height": 3145,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\12_mlp_mobile.png"
   },
@@ -425,7 +425,7 @@
     "width": 390,
     "height": 844,
     "scroll_width": 390,
-    "scroll_height": 3295,
+    "scroll_height": 3346,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\13_transformer_mobile.png"
   },

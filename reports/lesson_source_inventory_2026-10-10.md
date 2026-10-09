@@ -15,8 +15,8 @@
 | `09_xgboost.html` | 1 | 5 | `https://xgboost.readthedocs.io/` |
 | `10_catboost.html` | 2 | 5 | `https://catboost.ai/docs/en/concepts/algorithm-main-stages_fighting-biases`<br>`https://catboost.ai/docs/en/concepts/algorithm-main-stages_cat-to-numberic` |
 | `11_tabular_challenges.html` | 1 | 5 | `https://openreview.net/forum?id=i_Q1yrOegLY` |
-| `12_mlp.html` | 1 | 4 | `https://scikit-learn.org/stable/modules/neural_networks_supervised.html` |
-| `13_transformer.html` | 1 | 4 | `https://arxiv.org/abs/1706.03762` |
+| `12_mlp.html` | 1 | 6 | `https://scikit-learn.org/stable/modules/neural_networks_supervised.html` |
+| `13_transformer.html` | 1 | 6 | `https://arxiv.org/abs/1706.03762` |
 | `14_ft_transformer.html` | 1 | 5 | `https://openreview.net/forum?id=i_Q1yrOegLY` |
 | `15_fair_comparison.html` | 1 | 5 | `https://scikit-learn.org/stable/modules/cross_validation.html` |
 | `16_tabpfn_motivation.html` | 1 | 6 | `https://arxiv.org/abs/2207.01848` |
@@ -35,7 +35,7 @@
 | `29_capstone.html` | 1 | 6 | `https://github.com/PriorLabs/TabPFN` |
 | `30_synthesis.html` | 1 | 7 | `https://scikit-learn.org/stable/modules/model_evaluation.html` |
 
-合计：30 个课件，35 个外部链接，152 个本地链接。
+合计：30 个课件，35 个外部链接，156 个本地链接。
 
 ## 判定
 
