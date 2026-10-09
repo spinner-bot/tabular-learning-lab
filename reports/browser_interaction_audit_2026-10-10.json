@@ -1,0 +1,304 @@
+[
+  {
+    "page": "01_tabular_learning_intro.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [
+      "Failed to load resource: the server responded with a status of 404 (File not found)"
+    ],
+    "http_errors": []
+  },
+  {
+    "page": "02_ml_workflow.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "03_metrics.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "04_bias_variance.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "05_decision_trees.html",
+    "quiz_count": 5,
+    "range_count": 2,
+    "copy_button_count": 1,
+    "canvas_count": 1,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "06_tree_splits.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "07_random_forest.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "08_gbdt.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "09_xgboost.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "10_catboost.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "11_tabular_challenges.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "12_mlp.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "13_transformer.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "14_ft_transformer.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "15_fair_comparison.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "16_tabpfn_motivation.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "17_tabpfn_inference.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "18_icl.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "19_tabpfn_prior.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "20_tabpfn_versions.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "21_tabpfn_experiment.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "22_calibration.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "23_data_processing.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "24_reproducible_benchmark.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "25_model_comparison.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "26_research_opportunities.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "27_experiment_plan.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "28_paper_workshop.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "29_capstone.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  },
+  {
+    "page": "30_synthesis.html",
+    "quiz_count": 5,
+    "range_count": 0,
+    "copy_button_count": 0,
+    "canvas_count": 0,
+    "scroll_width": 390,
+    "console_errors": [],
+    "http_errors": []
+  }
+]
