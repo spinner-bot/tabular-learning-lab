@@ -6,11 +6,11 @@
 
 ```text
 audit_lessons.py                         PASS (30 lessons, index links 30/30)
-check_html_structure.py                   PASS (31 pages, 216 local links)
+check_html_structure.py                   PASS (31 pages, 217 local links)
 cross_lesson_audit.py                    PASS (30 plans linked to 30 pages)
 content_depth_audit.py                   PASS (30 pages and plans)
 accessibility_audit.py                   PASS (31 pages)
-source_inventory.py                      PASS (30 lessons, 36 external, 157 local source links)
+source_inventory.py                      PASS (30 lessons, 36 external, 158 local source links)
 citation_consistency_audit.py            PASS (30 lessons, 3 manual-review warnings retained)
 browser_interaction_audit.py             PASS (30 lessons)
 ax_tree_course_audit.py                  PASS (30 lessons)
