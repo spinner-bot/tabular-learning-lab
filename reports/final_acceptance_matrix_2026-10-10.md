@@ -9,7 +9,7 @@
 | 30 节课件和入口存在 | `code/audit_lessons.py`、`index.html`、HTML 结构报告 | 通过 | 无结构缺口 |
 | 固定教学结构和最低深度 | `code/content_depth_audit.py`、`reports/content_depth_validation.md` | 通过（结构层） | 逐句教学准确性和统一深度仍需人工核读 |
 | 目标、讲解、例子、图示/交互、自测、来源 | `code/audit_lessons.py`、`reports/lesson_source_inventory_2026-10-10.md` | 通过（存在性层） | 来源是否逐条支持主张仍未全部确认 |
-| 核心知识、边界和不确定性 | `research/fact_check_matrix.md`、`reports/paper_claim_verification_2026-10-10.md` | 部分通过 | F08、动态 API、逐课主张仍有缺口 |
+| 核心知识、边界和不确定性 | `research/fact_check_matrix.md`、`reports/paper_claim_verification_2026-10-10.md`、`reports/xgboost_claim_verification_2026-10-10.md`、`reports/catboost_claim_verification_2026-10-10.md`、`reports/ft_transformer_claim_verification_2026-10-10.md` | 部分通过 | 主要论文机制已补充核验；动态 API、逐课主张和官方实现运行仍有缺口 |
 | 课程结构、术语和公式一致 | `code/cross_lesson_audit.py`、`code/citation_consistency_audit.py` | 部分通过 | 结构一致已通过，专家级术语/公式终审未完成 |
 
 ## 研究
@@ -17,7 +17,7 @@
 | 要求 | 权威证据 | 状态 | 剩余缺口 |
 |---|---|---|---|
 | 研究核验矩阵已建立 | `research/fact_check_matrix.md` | 通过（已建立） | 多个高重要性事实仍非最终通过 |
-| 重要事实有真实、相关、可访问来源 | `research/references.md`、`reports/external_link_validation.md` | 部分通过 | 链接可达不等于主张逐条核验；FT-Transformer 页面受 challenge 影响 |
+| 重要事实有真实、相关、可访问来源 | `research/references.md`、`reports/external_link_validation.md`、各主张核验报告 | 部分通过 | 链接可达不等于主张逐条核验；FT-Transformer 原始 HTML 已核验，但官方实现和逐课映射仍未完成 |
 | 版本/时效信息已注明 | `research/version_history.md`、`reports/tabpfn_fact_refresh.md` | 部分通过 | TabPFN 本机 API/资源实测缺失 |
 | 未解决问题明确记录 | `research/open_questions.md`、`qa/final_audit.md` | 通过 | 缺口仍需后续解决或正式结案 |
 | 无虚构引用/伪造实验 | 论文复核记录、TabPFN 失败记录、各 benchmark JSON | 通过（按当前证据） | 继续保持论文/本地实验/当前实现三栏分离 |
