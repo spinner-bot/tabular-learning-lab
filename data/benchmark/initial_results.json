@@ -1,0 +1,306 @@
+{
+  "protocol": {
+    "dataset": "sklearn.make_classification",
+    "samples": 900,
+    "features": 18,
+    "test_size": 0.25,
+    "seeds": [
+      7,
+      42,
+      101
+    ],
+    "threshold": 0.5,
+    "note": "Synthetic protocol check; not a universal ranking and excludes TabPFN."
+  },
+  "environment": {
+    "python": "3.13.5",
+    "numpy": "2.5.0",
+    "pandas": "3.0.6",
+    "scikit_learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "catboost": "1.2.10"
+  },
+  "runs": [
+    {
+      "seed": 7,
+      "model": "dummy",
+      "accuracy": 0.72,
+      "balanced_accuracy": 0.5,
+      "macro_f1": 0.4186046511627907,
+      "roc_auc": 0.5,
+      "fit_seconds": 0.00035009998828172684
+    },
+    {
+      "seed": 7,
+      "model": "logistic_regression",
+      "accuracy": 0.8755555555555555,
+      "balanced_accuracy": 0.8165784832451499,
+      "macro_f1": 0.8355263157894737,
+      "roc_auc": 0.9244562022339801,
+      "fit_seconds": 0.0064879999263212085
+    },
+    {
+      "seed": 7,
+      "model": "random_forest",
+      "accuracy": 0.8844444444444445,
+      "balanced_accuracy": 0.8130511463844797,
+      "macro_f1": 0.8416179337231968,
+      "roc_auc": 0.9254360180286106,
+      "fit_seconds": 0.23023560002911836
+    },
+    {
+      "seed": 7,
+      "model": "hist_gradient_boosting",
+      "accuracy": 0.88,
+      "balanced_accuracy": 0.8487654320987654,
+      "macro_f1": 0.8504615384615385,
+      "roc_auc": 0.9439545365471291,
+      "fit_seconds": 0.17302970006130636
+    },
+    {
+      "seed": 7,
+      "model": "xgboost",
+      "accuracy": 0.8711111111111111,
+      "balanced_accuracy": 0.8328924162257496,
+      "macro_f1": 0.8377713134929514,
+      "roc_auc": 0.945424260239075,
+      "fit_seconds": 0.1293112999992445
+    },
+    {
+      "seed": 7,
+      "model": "catboost",
+      "accuracy": 0.8844444444444445,
+      "balanced_accuracy": 0.8227513227513228,
+      "macro_f1": 0.8454670329670331,
+      "roc_auc": 0.9405251812659219,
+      "fit_seconds": 0.30064080003648996
+    },
+    {
+      "seed": 7,
+      "model": "mlp",
+      "accuracy": 0.7911111111111111,
+      "balanced_accuracy": 0.6609347442680776,
+      "macro_f1": 0.6814854974247764,
+      "roc_auc": 0.8592984518910445,
+      "fit_seconds": 0.07771689991932362
+    },
+    {
+      "seed": 42,
+      "model": "dummy",
+      "accuracy": 0.72,
+      "balanced_accuracy": 0.5,
+      "macro_f1": 0.4186046511627907,
+      "roc_auc": 0.5,
+      "fit_seconds": 0.0003092000260949135
+    },
+    {
+      "seed": 42,
+      "model": "logistic_regression",
+      "accuracy": 0.8577777777777778,
+      "balanced_accuracy": 0.7993827160493827,
+      "macro_f1": 0.8141647739004749,
+      "roc_auc": 0.8970213599843229,
+      "fit_seconds": 0.005891600041650236
+    },
+    {
+      "seed": 42,
+      "model": "random_forest",
+      "accuracy": 0.8844444444444445,
+      "balanced_accuracy": 0.8179012345679012,
+      "macro_f1": 0.8435828877005348,
+      "roc_auc": 0.9521849892220262,
+      "fit_seconds": 0.2230118999723345
+    },
+    {
+      "seed": 42,
+      "model": "hist_gradient_boosting",
+      "accuracy": 0.8844444444444445,
+      "balanced_accuracy": 0.8421516754850088,
+      "macro_f1": 0.8522727272727273,
+      "roc_auc": 0.9446404076033705,
+      "fit_seconds": 0.16025079996325076
+    },
+    {
+      "seed": 42,
+      "model": "xgboost",
+      "accuracy": 0.8711111111111111,
+      "balanced_accuracy": 0.818342151675485,
+      "macro_f1": 0.8325248325248324,
+      "roc_auc": 0.942092886537331,
+      "fit_seconds": 0.12014949996955693
+    },
+    {
+      "seed": 42,
+      "model": "catboost",
+      "accuracy": 0.8888888888888888,
+      "balanced_accuracy": 0.8306878306878307,
+      "macro_f1": 0.8522885428428875,
+      "roc_auc": 0.9463060944542425,
+      "fit_seconds": 0.15064280002843589
+    },
+    {
+      "seed": 42,
+      "model": "mlp",
+      "accuracy": 0.8311111111111111,
+      "balanced_accuracy": 0.712962962962963,
+      "macro_f1": 0.7445015539086779,
+      "roc_auc": 0.8400940623162845,
+      "fit_seconds": 0.10567099996842444
+    },
+    {
+      "seed": 101,
+      "model": "dummy",
+      "accuracy": 0.72,
+      "balanced_accuracy": 0.5,
+      "macro_f1": 0.4186046511627907,
+      "roc_auc": 0.5,
+      "fit_seconds": 0.00026919995434582233
+    },
+    {
+      "seed": 101,
+      "model": "logistic_regression",
+      "accuracy": 0.9022222222222223,
+      "balanced_accuracy": 0.8544973544973544,
+      "macro_f1": 0.8722382820565765,
+      "roc_auc": 0.9073094258279443,
+      "fit_seconds": 0.006015600054524839
+    },
+    {
+      "seed": 101,
+      "model": "random_forest",
+      "accuracy": 0.9111111111111111,
+      "balanced_accuracy": 0.8461199294532628,
+      "macro_f1": 0.878167641325536,
+      "roc_auc": 0.9596315892612188,
+      "fit_seconds": 0.22665249998681247
+    },
+    {
+      "seed": 101,
+      "model": "hist_gradient_boosting",
+      "accuracy": 0.92,
+      "balanced_accuracy": 0.8910934744268078,
+      "macro_f1": 0.8987904838064773,
+      "roc_auc": 0.9486576523613559,
+      "fit_seconds": 0.15514449996408075
+    },
+    {
+      "seed": 101,
+      "model": "xgboost",
+      "accuracy": 0.9422222222222222,
+      "balanced_accuracy": 0.9162257495590829,
+      "macro_f1": 0.9265241528297621,
+      "roc_auc": 0.9545365471291397,
+      "fit_seconds": 0.11926269996911287
+    },
+    {
+      "seed": 101,
+      "model": "catboost",
+      "accuracy": 0.8977777777777778,
+      "balanced_accuracy": 0.8368606701940036,
+      "macro_f1": 0.8624730925615882,
+      "roc_auc": 0.9559082892416226,
+      "fit_seconds": 0.15952370001468807
+    },
+    {
+      "seed": 101,
+      "model": "mlp",
+      "accuracy": 0.8088888888888889,
+      "balanced_accuracy": 0.6878306878306878,
+      "macro_f1": 0.7131208302446257,
+      "roc_auc": 0.8457769939251419,
+      "fit_seconds": 0.08131189993582666
+    }
+  ],
+  "summary": {
+    "('accuracy', 'mean')": {
+      "catboost": 0.89037,
+      "dummy": 0.72,
+      "hist_gradient_boosting": 0.894815,
+      "logistic_regression": 0.878519,
+      "mlp": 0.81037,
+      "random_forest": 0.893333,
+      "xgboost": 0.894815
+    },
+    "('accuracy', 'std')": {
+      "catboost": 0.006789,
+      "dummy": 0.0,
+      "hist_gradient_boosting": 0.021924,
+      "logistic_regression": 0.02237,
+      "mlp": 0.020041,
+      "random_forest": 0.015396,
+      "xgboost": 0.041056
+    },
+    "('balanced_accuracy', 'mean')": {
+      "catboost": 0.8301,
+      "dummy": 0.5,
+      "hist_gradient_boosting": 0.86067,
+      "logistic_regression": 0.823486,
+      "mlp": 0.687243,
+      "random_forest": 0.825691,
+      "xgboost": 0.85582
+    },
+    "('balanced_accuracy', 'std')": {
+      "catboost": 0.007073,
+      "dummy": 0.0,
+      "hist_gradient_boosting": 0.026554,
+      "logistic_regression": 0.028199,
+      "mlp": 0.026019,
+      "random_forest": 0.017858,
+      "xgboost": 0.052816
+    },
+    "('macro_f1', 'mean')": {
+      "catboost": 0.85341,
+      "dummy": 0.418605,
+      "hist_gradient_boosting": 0.867175,
+      "logistic_regression": 0.840643,
+      "mlp": 0.713036,
+      "random_forest": 0.854456,
+      "xgboost": 0.865607
+    },
+    "('macro_f1', 'std')": {
+      "catboost": 0.008558,
+      "dummy": 0.0,
+      "hist_gradient_boosting": 0.027395,
+      "logistic_regression": 0.029373,
+      "mlp": 0.031508,
+      "random_forest": 0.020558,
+      "xgboost": 0.052821
+    },
+    "('roc_auc', 'mean')": {
+      "catboost": 0.94758,
+      "dummy": 0.5,
+      "hist_gradient_boosting": 0.945751,
+      "logistic_regression": 0.909596,
+      "mlp": 0.84839,
+      "random_forest": 0.945751,
+      "xgboost": 0.947351
+    },
+    "('roc_auc', 'std')": {
+      "catboost": 0.00777,
+      "dummy": 0.0,
+      "hist_gradient_boosting": 0.002541,
+      "logistic_regression": 0.01386,
+      "mlp": 0.009865,
+      "random_forest": 0.017983,
+      "xgboost": 0.006442
+    },
+    "('fit_seconds', 'mean')": {
+      "catboost": 0.203602,
+      "dummy": 0.000309,
+      "hist_gradient_boosting": 0.162808,
+      "logistic_regression": 0.006132,
+      "mlp": 0.088233,
+      "random_forest": 0.226633,
+      "xgboost": 0.122908
+    },
+    "('fit_seconds', 'std')": {
+      "catboost": 0.084155,
+      "dummy": 4e-05,
+      "hist_gradient_boosting": 0.009213,
+      "logistic_regression": 0.000315,
+      "mlp": 0.015208,
+      "random_forest": 0.003612,
+      "xgboost": 0.005563
+    }
+  }
+}
