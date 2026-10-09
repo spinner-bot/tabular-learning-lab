@@ -1,0 +1,31 @@
+{
+  "status": "verified",
+  "note": "Small deterministic teaching examples; not benchmark results.",
+  "environment": {
+    "python": "runtime",
+    "sklearn": "1.9.1"
+  },
+  "classification": {
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "log_loss": 0.2540847836081325
+  },
+  "regression": {
+    "mae": 0.29999999999999993,
+    "rmse": 0.324037034920393,
+    "r2": 0.9752941176470589
+  },
+  "tree_split": {
+    "thresholds": [
+      1.5,
+      2.5,
+      3.5
+    ],
+    "weighted_gini": [
+      0.3333333333333333,
+      0.0,
+      0.3333333333333333
+    ],
+    "best_threshold": 2.5
+  }
+}

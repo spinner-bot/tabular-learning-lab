@@ -28,5 +28,6 @@
 - `content_depth_audit.py`：30 页与计划满足最低结构，通过。
 - `accessibility_audit.py`：31 页标签/媒体/名称检查，通过。
 - `browser_interaction_audit.py`：30 页交互路径通过；新增阈值控件被纳入全课程交互扫描。
+- `python code/lesson_03_06_examples.py`：确定性指标、回归误差和候选切点示例实际运行通过，结果保存在 `reports/lesson_03_06_examples_2026-10-10.json`；结果明确标为教学示例而非 benchmark。
 
 内容仍需进入全课程人工教学终审；本记录不把自动结构/交互通过替代专家逐句核读。
