@@ -1,0 +1,2870 @@
+{
+  "index": [
+    [
+      "RootWebArea",
+      "Tabular Learning｜课程地图"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "banner",
+      ""
+    ],
+    [
+      "main",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "heading",
+      "从表格数据到可复现研究"
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "StaticText",
+      "TABULAR LEARNING · 课程入口"
+    ],
+    [
+      "StaticText",
+      "从表格数据到可复现研究"
+    ],
+    [
+      "StaticText",
+      "面向机器学习基础较浅学习者的渐进式课程：先理解问题和实验，再理解模型，最后进入 TabPFN、比较实验与研究设计。"
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "StaticText",
+      "30 节课件初版已建立；研究引用、实际运行、浏览器交互和最终审计仍在进行。课程进度不会虚构云同步。"
+    ],
+    [
+      "article",
+      ""
+    ],
+    [
+      "article",
+      ""
+    ],
+    [
+      "article",
+      ""
+    ],
+    [
+      "article",
+      ""
+    ],
+    [
+      "article",
+      ""
+    ],
+    [
+      "article",
+      ""
+    ],
+    [
+      "InlineTextBox",
+      "TABULAR LEARNING · 课程入口"
+    ],
+    [
+      "InlineTextBox",
+      "从表格数据到可复现研究"
+    ],
+    [
+      "InlineTextBox",
+      "面向机器学习基础较浅学习者的渐进式课程：先理解问题和实验，再理解模型，最后进入 TabPFN、比较实验与研"
+    ],
+    [
+      "InlineTextBox",
+      "究设计。"
+    ],
+    [
+      "StaticText",
+      "当前状态："
+    ],
+    [
+      "InlineTextBox",
+      "30 节课件初版已建立；研究引用、实际运行、浏览器交互和最终审计仍在进行。课程进度不会虚构云同步。"
+    ],
+    [
+      "heading",
+      "模块 I · 进入表格学习"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "link",
+      "01 · 表格学习是什么 问题、数据与任务 · 初版"
+    ],
+    [
+      "link",
+      "02 · 机器学习实验流程 划分、泛化与泄漏 · 初版"
+    ],
+    [
+      "link",
+      "03 · 损失函数与模型评估 指标、阈值与不平衡 · 初版"
+    ],
+    [
+      "link",
+      "04 · 偏差、方差与基线 复杂度与公平比较 · 初版"
+    ],
+    [
+      "heading",
+      "模块 II · 树模型与集成学习"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "link",
+      "05 · 决策树：如何做出预测 路径、叶节点与深度 · 样板"
+    ],
+    [
+      "link",
+      "06 · 决策树如何选择分裂 Gini、熵与增益 · 初版"
+    ],
+    [
+      "link",
+      "07 · Bagging 与随机森林 Bootstrap、OOB与方差 · 初版"
+    ],
+    [
+      "link",
+      "08 · Boosting 与 GBDT 加法模型与梯度 · 初版"
+    ],
+    [
+      "link",
+      "09 · XGBoost 目标函数与工程设计 · 初版"
+    ],
+    [
+      "link",
+      "10 · CatBoost 类别特征与有序提升 · 初版"
+    ],
+    [
+      "heading",
+      "模块 III · 深度表格学习"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "link",
+      "11 · 表格学习的特殊挑战 异质特征与归纳偏置 · 初版"
+    ],
+    [
+      "link",
+      "12 · MLP 与表格神经网络 表示、训练与正则化 · 初版"
+    ],
+    [
+      "link",
+      "13 · Transformer 与注意力 Q/K/V与多头 · 初版"
+    ],
+    [
+      "link",
+      "14 · FT-Transformer 特征 token 与注意力 · 初版"
+    ],
+    [
+      "link",
+      "15 · 表格模型公平比较 Benchmark与资源 · 初版"
+    ],
+    [
+      "heading",
+      "模块 IV · TabPFN 核心知识"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "link",
+      "16 · TabPFN 的研究动机 PFN范式与发展 · 初版"
+    ],
+    [
+      "link",
+      "17 · TabPFN 架构与推断 参数、上下文与输出 · 初版"
+    ],
+    [
+      "link",
+      "18 · In-Context Learning ICL与微调区分 · 初版"
+    ],
+    [
+      "link",
+      "19 · 预训练思想与先验 匹配、失配与偏差 · 初版"
+    ],
+    [
+      "link",
+      "20 · 使用边界与版本演进 限制、资源与许可 · 初版"
+    ],
+    [
+      "link",
+      "21 · TabPFN 可复现实验 安装、基线与日志 · 初版"
+    ],
+    [
+      "link",
+      "22 · 校准与不确定性 概率、ECE与漂移 · 初版"
+    ],
+    [
+      "heading",
+      "模块 V · 应用、扩展与研究"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "link",
+      "23 · 数据处理与特征工程 缺失、类别与泄漏 · 初版"
+    ],
+    [
+      "link",
+      "24 · 可信基准实验 重复、日志与证据 · 初版"
+    ],
+    [
+      "link",
+      "25 · 四类模型对比 条件化选择 · 初版"
+    ],
+    [
+      "link",
+      "26 · 研究机会 问题、假设与贡献 · 初版"
+    ],
+    [
+      "link",
+      "27 · 可执行实验计划 对照、预算与风险 · 初版"
+    ],
+    [
+      "heading",
+      "模块 VI · 综合与结课"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "link",
+      "28 · TabPFN 论文精读 主张、证据与局限 · 初版"
+    ],
+    [
+      "link",
+      "29 · 综合研究项目 端到端实验交付 · 初版"
+    ],
+    [
+      "link",
+      "30 · 知识整合与验收 选择、审计与路线 · 初版"
+    ],
+    [
+      "InlineTextBox",
+      "当前状态："
+    ],
+    [
+      "StaticText",
+      "模块 I · 进入表格学习"
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "StaticText",
+      "模块 II · 树模型与集成学习"
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "StaticText",
+      "模块 III · 深度表格学习"
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "StaticText",
+      "模块 IV · TabPFN 核心知识"
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "StaticText",
+      "模块 V · 应用、扩展与研究"
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "StaticText",
+      "模块 VI · 综合与结课"
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "InlineTextBox",
+      "模块 I · 进入表格学习"
+    ],
+    [
+      "StaticText",
+      "01 · 表格学习是什么"
+    ],
+    [
+      "StaticText",
+      "问题、数据与任务 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "02 · 机器学习实验流程"
+    ],
+    [
+      "StaticText",
+      "划分、泛化与泄漏 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "03 · 损失函数与模型评估"
+    ],
+    [
+      "StaticText",
+      "指标、阈值与不平衡 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "04 · 偏差、方差与基线"
+    ],
+    [
+      "StaticText",
+      "复杂度与公平比较 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "模块 II · 树模型与集成学习"
+    ],
+    [
+      "StaticText",
+      "05 · 决策树：如何做出预测"
+    ],
+    [
+      "StaticText",
+      "路径、叶节点与深度 · "
+    ],
+    [
+      "StaticText",
+      "样板"
+    ],
+    [
+      "StaticText",
+      "06 · 决策树如何选择分裂"
+    ],
+    [
+      "StaticText",
+      "Gini、熵与增益 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "07 · Bagging 与随机森林"
+    ],
+    [
+      "StaticText",
+      "Bootstrap、OOB与方差 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "08 · Boosting 与 GBDT"
+    ],
+    [
+      "StaticText",
+      "加法模型与梯度 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "09 · XGBoost"
+    ],
+    [
+      "StaticText",
+      "目标函数与工程设计 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "10 · CatBoost"
+    ],
+    [
+      "StaticText",
+      "类别特征与有序提升 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "模块 III · 深度表格学习"
+    ],
+    [
+      "StaticText",
+      "11 · 表格学习的特殊挑战"
+    ],
+    [
+      "StaticText",
+      "异质特征与归纳偏置 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "12 · MLP 与表格神经网络"
+    ],
+    [
+      "StaticText",
+      "表示、训练与正则化 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "13 · Transformer 与注意力"
+    ],
+    [
+      "StaticText",
+      "Q/K/V与多头 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "14 · FT-Transformer"
+    ],
+    [
+      "StaticText",
+      "特征 token 与注意力 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "15 · 表格模型公平比较"
+    ],
+    [
+      "StaticText",
+      "Benchmark与资源 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "模块 IV · TabPFN 核心知识"
+    ],
+    [
+      "StaticText",
+      "16 · TabPFN 的研究动机"
+    ],
+    [
+      "StaticText",
+      "PFN范式与发展 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "17 · TabPFN 架构与推断"
+    ],
+    [
+      "StaticText",
+      "参数、上下文与输出 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "18 · In-Context Learning"
+    ],
+    [
+      "StaticText",
+      "ICL与微调区分 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "19 · 预训练思想与先验"
+    ],
+    [
+      "StaticText",
+      "匹配、失配与偏差 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "20 · 使用边界与版本演进"
+    ],
+    [
+      "StaticText",
+      "限制、资源与许可 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "21 · TabPFN 可复现实验"
+    ],
+    [
+      "StaticText",
+      "安装、基线与日志 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "22 · 校准与不确定性"
+    ],
+    [
+      "StaticText",
+      "概率、ECE与漂移 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "模块 V · 应用、扩展与研究"
+    ],
+    [
+      "StaticText",
+      "23 · 数据处理与特征工程"
+    ],
+    [
+      "StaticText",
+      "缺失、类别与泄漏 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "24 · 可信基准实验"
+    ],
+    [
+      "StaticText",
+      "重复、日志与证据 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "25 · 四类模型对比"
+    ],
+    [
+      "StaticText",
+      "条件化选择 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "26 · 研究机会"
+    ],
+    [
+      "StaticText",
+      "问题、假设与贡献 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "27 · 可执行实验计划"
+    ],
+    [
+      "StaticText",
+      "对照、预算与风险 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "模块 VI · 综合与结课"
+    ],
+    [
+      "StaticText",
+      "28 · TabPFN 论文精读"
+    ],
+    [
+      "StaticText",
+      "主张、证据与局限 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "29 · 综合研究项目"
+    ],
+    [
+      "StaticText",
+      "端到端实验交付 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "StaticText",
+      "30 · 知识整合与验收"
+    ],
+    [
+      "StaticText",
+      "选择、审计与路线 · "
+    ],
+    [
+      "StaticText",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "01 · 表格学习是什么"
+    ],
+    [
+      "InlineTextBox",
+      "问题、数据与任务 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "02 · 机器学习实验流程"
+    ],
+    [
+      "InlineTextBox",
+      "划分、泛化与泄漏 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "03 · 损失函数与模型评估"
+    ],
+    [
+      "InlineTextBox",
+      "指标、阈值与不平衡 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "04 · 偏差、方差与基线"
+    ],
+    [
+      "InlineTextBox",
+      "复杂度与公平比较 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "05 · 决策树：如何做出预测"
+    ],
+    [
+      "InlineTextBox",
+      "路径、叶节点与深度 · "
+    ],
+    [
+      "InlineTextBox",
+      "样板"
+    ],
+    [
+      "InlineTextBox",
+      "06 · 决策树如何选择分裂"
+    ],
+    [
+      "InlineTextBox",
+      "Gini、熵与增益 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "07 · Bagging 与随机森林"
+    ],
+    [
+      "InlineTextBox",
+      "Bootstrap、OOB与方差 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "08 · Boosting 与 GBDT"
+    ],
+    [
+      "InlineTextBox",
+      "加法模型与梯度 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "09 · XGBoost"
+    ],
+    [
+      "InlineTextBox",
+      "目标函数与工程设计 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "10 · CatBoost"
+    ],
+    [
+      "InlineTextBox",
+      "类别特征与有序提升 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "11 · 表格学习的特殊挑战"
+    ],
+    [
+      "InlineTextBox",
+      "异质特征与归纳偏置 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "12 · MLP 与表格神经网络"
+    ],
+    [
+      "InlineTextBox",
+      "表示、训练与正则化 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "13 · Transformer 与注意力"
+    ],
+    [
+      "InlineTextBox",
+      "Q/K/V与多头 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "14 · FT-Transformer"
+    ],
+    [
+      "InlineTextBox",
+      "特征 token 与注意力 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "15 · 表格模型公平比较"
+    ],
+    [
+      "InlineTextBox",
+      "Benchmark与资源 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "16 · TabPFN 的研究动机"
+    ],
+    [
+      "InlineTextBox",
+      "PFN范式与发展 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "17 · TabPFN 架构与推断"
+    ],
+    [
+      "InlineTextBox",
+      "参数、上下文与输出 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "18 · In-Context Learning"
+    ],
+    [
+      "InlineTextBox",
+      "ICL与微调区分 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "19 · 预训练思想与先验"
+    ],
+    [
+      "InlineTextBox",
+      "匹配、失配与偏差 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "20 · 使用边界与版本演进"
+    ],
+    [
+      "InlineTextBox",
+      "限制、资源与许可 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "21 · TabPFN 可复现实验"
+    ],
+    [
+      "InlineTextBox",
+      "安装、基线与日志 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "22 · 校准与不确定性"
+    ],
+    [
+      "InlineTextBox",
+      "概率、ECE与漂移 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "23 · 数据处理与特征工程"
+    ],
+    [
+      "InlineTextBox",
+      "缺失、类别与泄漏 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "24 · 可信基准实验"
+    ],
+    [
+      "InlineTextBox",
+      "重复、日志与证据 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "25 · 四类模型对比"
+    ],
+    [
+      "InlineTextBox",
+      "条件化选择 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "26 · 研究机会"
+    ],
+    [
+      "InlineTextBox",
+      "问题、假设与贡献 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "27 · 可执行实验计划"
+    ],
+    [
+      "InlineTextBox",
+      "对照、预算与风险 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "28 · TabPFN 论文精读"
+    ],
+    [
+      "InlineTextBox",
+      "主张、证据与局限 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "29 · 综合研究项目"
+    ],
+    [
+      "InlineTextBox",
+      "端到端实验交付 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ],
+    [
+      "InlineTextBox",
+      "30 · 知识整合与验收"
+    ],
+    [
+      "InlineTextBox",
+      "选择、审计与路线 · "
+    ],
+    [
+      "InlineTextBox",
+      "初版"
+    ]
+  ],
+  "lesson_05": [
+    [
+      "RootWebArea",
+      "05｜决策树：如何做出预测"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "banner",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "complementary",
+      ""
+    ],
+    [
+      "main",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "StaticText",
+      " · 05/30"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "link",
+      "课程地图"
+    ],
+    [
+      "StaticText",
+      " · 阶段 B 样板课"
+    ],
+    [
+      "group",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "navigation",
+      "课件导航"
+    ],
+    [
+      "StaticText",
+      "Tabular Learning"
+    ],
+    [
+      "InlineTextBox",
+      " · 05/30"
+    ],
+    [
+      "StaticText",
+      "课程地图"
+    ],
+    [
+      "InlineTextBox",
+      " · 阶段 B 样板课"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "DisclosureTriangle",
+      "本节目录"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "navigation",
+      "本节目录"
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "heading",
+      "决策树：如何做出预测"
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "heading",
+      "学习目标"
+    ],
+    [
+      "list",
+      ""
+    ],
+    [
+      "heading",
+      "1. 先把预测想成“二十问”"
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "StaticText",
+      "一个待继续提问的位置。"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "StaticText",
+      "用一个条件把当前样本集合分成子集。"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "StaticText",
+      "停止提问后输出预测的位置。"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "StaticText",
+      "从根节点到某个节点经过的边数。"
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "heading",
+      "2. 正式机制：从根到叶"
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "heading",
+      "分类树"
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "heading",
+      "回归树"
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "heading",
+      "控制复杂度"
+    ],
+    [
+      "list",
+      ""
+    ],
+    [
+      "heading",
+      "3. 交互演示：二维决策区域"
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "LabelText",
+      ""
+    ],
+    [
+      "LabelText",
+      ""
+    ],
+    [
+      "Canvas",
+      "二维模拟数据的决策区域图"
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "heading",
+      "4. 最小可运行代码"
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "button",
+      "复制代码"
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "status",
+      ""
+    ],
+    [
+      "heading",
+      "5. 易错点与辨析"
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "generic",
+      ""
+    ],
+    [
+      "heading",
+      "6. 自测与反馈"
+    ],
+    [
+      "group",
+      ""
+    ],
+    [
+      "group",
+      ""
+    ],
+    [
+      "group",
+      ""
+    ],
+    [
+      "group",
+      ""
+    ],
+    [
+      "group",
+      ""
+    ],
+    [
+      "heading",
+      "7. 延伸阅读与来源"
+    ],
+    [
+      "list",
+      ""
+    ],
+    [
+      "paragraph",
+      ""
+    ],
+    [
+      "link",
+      "← 返回课程地图"
+    ],
+    [
+      "link",
+      "回到顶部 ↑"
+    ],
+    [
+      "link",
+      "下一节计划：06 →"
+    ],
+    [
+      "InlineTextBox",
+      "Tabular Learning"
+    ],
+    [
+      "InlineTextBox",
+      "课程地图"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "本节目录"
+    ],
+    [
+      "link",
+      "学习目标"
+    ],
+    [
+      "link",
+      "直觉"
+    ],
+    [
+      "link",
+      "正式机制"
+    ],
+    [
+      "link",
+      "交互演示"
+    ],
+    [
+      "link",
+      "代码"
+    ],
+    [
+      "link",
+      "易错点"
+    ],
+    [
+      "link",
+      "自测"
+    ],
+    [
+      "link",
+      "来源"
+    ],
+    [
+      "StaticText",
+      "模块 II · 树模型与集成学习 · 预计 25 分钟"
+    ],
+    [
+      "StaticText",
+      "决策树：如何做出预测"
+    ],
+    [
+      "StaticText",
+      "先修：第 01–04 节 · 后续：第 06 节将解释“如何选择分裂”"
+    ],
+    [
+      "StaticText",
+      "决策树（Decision Tree）把预测过程拆成一连串可回答的问题：某个特征是否小于一个阈值？最终落在哪个叶节点？本节先理解“怎么走树”，下一节再研究“树为什么选择这个问题”。"
+    ],
+    [
+      "StaticText",
+      "学习目标"
+    ],
+    [
+      "listitem",
+      ""
+    ],
+    [
+      "listitem",
+      ""
+    ],
+    [
+      "listitem",
+      ""
+    ],
+    [
+      "listitem",
+      ""
+    ],
+    [
+      "StaticText",
+      "1. 先把预测想成“二十问”"
+    ],
+    [
+      "StaticText",
+      "假设我们要判断一间房是否适合购买。树可以先问“面积是否大于 90 平方米？”，再对面积较小的房子问“距离地铁是否小于 1 公里？”。每个问题把候选样本分成两组，直到到达一个叶节点。"
+    ],
+    [
+      "StaticText",
+      "节点 Node"
+    ],
+    [
+      "InlineTextBox",
+      "一个待继续提问的位置。"
+    ],
+    [
+      "StaticText",
+      "分裂 Split"
+    ],
+    [
+      "InlineTextBox",
+      "用一个条件把当前样本集合分成子集。"
+    ],
+    [
+      "StaticText",
+      "叶节点 Leaf"
+    ],
+    [
+      "InlineTextBox",
+      "停止提问后输出预测的位置。"
+    ],
+    [
+      "StaticText",
+      "深度 Depth"
+    ],
+    [
+      "InlineTextBox",
+      "从根节点到某个节点经过的边数。"
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "StaticText",
+      "“问题越多越聪明”不成立。树越深可以记住训练样本中的偶然细节，导致在新样本上变差。"
+    ],
+    [
+      "StaticText",
+      "2. 正式机制：从根到叶"
+    ],
+    [
+      "StaticText",
+      "对一个数值特征 (x_j)，最常见的二叉分裂形如："
+    ],
+    [
+      "code",
+      ""
+    ],
+    [
+      "StaticText",
+      " → 左子树；否则 → 右子树"
+    ],
+    [
+      "StaticText",
+      "其中 (j) 是特征编号，(t) 是阈值。预测一个样本时，从根节点开始，依次判断条件，直到叶节点。"
+    ],
+    [
+      "StaticText",
+      "分类树"
+    ],
+    [
+      "StaticText",
+      "分类叶节点通常输出该叶中训练样本的多数类；如果输出概率，则常见做法是输出各类别在该叶中的比例。比如叶中有 8 个正类、2 个负类，经验概率可以是正类 0.8。"
+    ],
+    [
+      "StaticText",
+      "回归树"
+    ],
+    [
+      "StaticText",
+      "回归叶节点常用该叶训练目标值的平均数。若叶中目标为 10、12、14，预测值就是 12。这个预测是该叶的常数输出，不代表所有树集成或后处理都必然具有同样形式。"
+    ],
+    [
+      "StaticText",
+      "控制复杂度"
+    ],
+    [
+      "listitem",
+      ""
+    ],
+    [
+      "listitem",
+      ""
+    ],
+    [
+      "listitem",
+      ""
+    ],
+    [
+      "listitem",
+      ""
+    ],
+    [
+      "StaticText",
+      "3. 交互演示：二维决策区域"
+    ],
+    [
+      "StaticText",
+      "下面是"
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "StaticText",
+      "：横轴是面积，纵轴是距离地铁；蓝点和橙点代表两类样本。当前演示用水平/垂直切分近似展示树的分段区域，不是完整训练库的实现。"
+    ],
+    [
+      "StaticText",
+      "树深度："
+    ],
+    [
+      "status",
+      ""
+    ],
+    [
+      "slider",
+      "树深度："
+    ],
+    [
+      "StaticText",
+      "面积阈值："
+    ],
+    [
+      "status",
+      ""
+    ],
+    [
+      "slider",
+      "面积阈值："
+    ],
+    [
+      "StaticText",
+      "当前深度 1：图中蓝色竖线是面积阈值 50；深度增加后加入更多局部切分。切分线只是教学近似，真实训练会依据不纯度目标选择结构。"
+    ],
+    [
+      "StaticText",
+      "4. 最小可运行代码"
+    ],
+    [
+      "StaticText",
+      "下面代码使用 scikit-learn 在鸢尾花数据上训练一棵分类树。它展示 API 和评估入口；正式实验仍需遵循课程的划分、随机种子和记录规范。"
+    ],
+    [
+      "StaticText",
+      "复制代码"
+    ],
+    [
+      "code",
+      ""
+    ],
+    [
+      "StaticText",
+      "5. 易错点与辨析"
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "LineBreak",
+      "\n"
+    ],
+    [
+      "StaticText",
+      "错误原因：深树训练误差通常更低，但可能记住噪声。正确理解：深度是偏差、方差和计算复杂度之间的一个控制旋钮。"
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "LineBreak",
+      "\n"
+    ],
+    [
+      "StaticText",
+      "错误原因：分类叶可以输出类别比例，回归叶常输出均值。正确理解：输出形式由任务和实现决定。"
+    ],
+    [
+      "strong",
+      ""
+    ],
+    [
+      "LineBreak",
+      "\n"
+    ],
+    [
+      "StaticText",
+      "错误原因：分裂使用与预测相关，不代表干预该特征会造成结果变化。正确理解：重要性需要结合数据生成过程和解释方法谨慎解读。"
+    ],
+    [
+      "StaticText",
+      "6. 自测与反馈"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "DisclosureTriangle",
+      "题 1：样本在树中如何得到预测？"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "DisclosureTriangle",
+      "题 2：回归叶中目标值为 4、6、8，常见预测是多少？"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "DisclosureTriangle",
+      "题 3：把 max_depth 从 2 调到 20，训练误差一定上升吗？"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "DisclosureTriangle",
+      "题 4：树的特征重要性高，能否直接推出因果关系？"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "DisclosureTriangle",
+      "题 5：为什么本节把交互图称为模拟演示？"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "7. 延伸阅读与来源"
+    ],
+    [
+      "listitem",
+      ""
+    ],
+    [
+      "listitem",
+      ""
+    ],
+    [
+      "listitem",
+      ""
+    ],
+    [
+      "StaticText",
+      "本节交互数据为模拟数据；页面中的 sklearn 代码已执行验证（accuracy=0.9667），运行记录见 "
+    ],
+    [
+      "link",
+      "样板课验证报告"
+    ],
+    [
+      "StaticText",
+      "。"
+    ],
+    [
+      "StaticText",
+      "← 返回课程地图"
+    ],
+    [
+      "StaticText",
+      "回到顶部 ↑"
+    ],
+    [
+      "StaticText",
+      "下一节计划：06 →"
+    ],
+    [
+      "InlineTextBox",
+      "本节目录"
+    ],
+    [
+      "StaticText",
+      "学习目标"
+    ],
+    [
+      "StaticText",
+      "直觉"
+    ],
+    [
+      "StaticText",
+      "正式机制"
+    ],
+    [
+      "StaticText",
+      "交互演示"
+    ],
+    [
+      "StaticText",
+      "代码"
+    ],
+    [
+      "StaticText",
+      "易错点"
+    ],
+    [
+      "StaticText",
+      "自测"
+    ],
+    [
+      "StaticText",
+      "来源"
+    ],
+    [
+      "InlineTextBox",
+      "模块 II · 树模型与集成学习 · 预计 25 分钟"
+    ],
+    [
+      "InlineTextBox",
+      "决策树：如何做出预测"
+    ],
+    [
+      "InlineTextBox",
+      "先修：第 01–04 节 · 后续：第 06 节将解释“如何选择分裂”"
+    ],
+    [
+      "InlineTextBox",
+      "决策树（Decision Tree）把预测过程拆成一连串可回答的问题：某个特征是否小于一个阈值？最终落在哪个"
+    ],
+    [
+      "InlineTextBox",
+      "叶节点？本节先理解“怎么走树”，下一节再研究“树为什么选择这个问题”。"
+    ],
+    [
+      "InlineTextBox",
+      "学习目标"
+    ],
+    [
+      "ListMarker",
+      "• "
+    ],
+    [
+      "StaticText",
+      "能用样本的特征值追踪它在树中的完整路径。"
+    ],
+    [
+      "ListMarker",
+      "• "
+    ],
+    [
+      "StaticText",
+      "能解释分类树和回归树的叶节点预测。"
+    ],
+    [
+      "ListMarker",
+      "• "
+    ],
+    [
+      "StaticText",
+      "能判断树深度、停止条件如何影响欠拟合和过拟合。"
+    ],
+    [
+      "ListMarker",
+      "• "
+    ],
+    [
+      "StaticText",
+      "能用交互演示观察阈值和深度改变二维决策区域。"
+    ],
+    [
+      "InlineTextBox",
+      "1. 先把预测想成“二十问”"
+    ],
+    [
+      "InlineTextBox",
+      "假设我们要判断一间房是否适合购买。树可以先问“面积是否大于 90 平方米？”，再对面积较小的房"
+    ],
+    [
+      "InlineTextBox",
+      "子问“距离地铁是否小于 1 公里？”。每个问题把候选样本分成两组，直到到达一个叶节点。"
+    ],
+    [
+      "InlineTextBox",
+      "节点 Node"
+    ],
+    [
+      "InlineTextBox",
+      "分裂 Split"
+    ],
+    [
+      "InlineTextBox",
+      "叶节点 Leaf"
+    ],
+    [
+      "InlineTextBox",
+      "深度 Depth"
+    ],
+    [
+      "StaticText",
+      "边界："
+    ],
+    [
+      "InlineTextBox",
+      "“问题越多越聪明”不成立。树越深可以记住训练样本中的偶然细节，导致在新样本上变"
+    ],
+    [
+      "InlineTextBox",
+      "差。"
+    ],
+    [
+      "InlineTextBox",
+      "2. 正式机制：从根到叶"
+    ],
+    [
+      "InlineTextBox",
+      "对一个数值特征 (x_j)，最常见的二叉分裂形如："
+    ],
+    [
+      "StaticText",
+      "x"
+    ],
+    [
+      "subscript",
+      ""
+    ],
+    [
+      "StaticText",
+      " ≤ t"
+    ],
+    [
+      "InlineTextBox",
+      " → 左子树；否则 → 右子树"
+    ],
+    [
+      "InlineTextBox",
+      "其中 (j) 是特征编号，(t) 是阈值。预测一个样本时，从根节点开始，依次判断条件，直到叶节点。"
+    ],
+    [
+      "InlineTextBox",
+      "分类树"
+    ],
+    [
+      "InlineTextBox",
+      "分类叶节点通常输出该叶中训练样本的多数类；如果输出概率，则常见做法是输出各类别在该叶中的"
+    ],
+    [
+      "InlineTextBox",
+      "比例。比如叶中有 8 个正类、2 个负类，经验概率可以是正类 0.8。"
+    ],
+    [
+      "InlineTextBox",
+      "回归树"
+    ],
+    [
+      "InlineTextBox",
+      "回归叶节点常用该叶训练目标值的平均数。若叶中目标为 10、12、14，预测值就是 12。这个预测是"
+    ],
+    [
+      "InlineTextBox",
+      "该叶的常数输出，不代表所有树集成或后处理都必然具有同样形式。"
+    ],
+    [
+      "InlineTextBox",
+      "控制复杂度"
+    ],
+    [
+      "ListMarker",
+      "• "
+    ],
+    [
+      "code",
+      ""
+    ],
+    [
+      "StaticText",
+      " 限制从根到叶的最大长度。"
+    ],
+    [
+      "ListMarker",
+      "• "
+    ],
+    [
+      "code",
+      ""
+    ],
+    [
+      "StaticText",
+      " 要求节点至少有足够样本才允许继续分裂。"
+    ],
+    [
+      "ListMarker",
+      "• "
+    ],
+    [
+      "code",
+      ""
+    ],
+    [
+      "StaticText",
+      " 防止叶节点过小。"
+    ],
+    [
+      "ListMarker",
+      "• "
+    ],
+    [
+      "StaticText",
+      "剪枝或验证集选择可以减少对训练噪声的记忆。"
+    ],
+    [
+      "InlineTextBox",
+      "3. 交互演示：二维决策区域"
+    ],
+    [
+      "InlineTextBox",
+      "下面是"
+    ],
+    [
+      "StaticText",
+      "模拟数据"
+    ],
+    [
+      "InlineTextBox",
+      "：横轴是面积，纵轴是距离地铁；蓝点和橙点代表两类样本。当前演示用水平/垂直"
+    ],
+    [
+      "InlineTextBox",
+      "切分近似展示树的分段区域，不是完整训练库的实现。"
+    ],
+    [
+      "InlineTextBox",
+      "树深度："
+    ],
+    [
+      "StaticText",
+      "1"
+    ],
+    [
+      "InlineTextBox",
+      "面积阈值："
+    ],
+    [
+      "StaticText",
+      "50"
+    ],
+    [
+      "InlineTextBox",
+      "当前深度 1：图中蓝色竖线是面积阈值 50；深度增加后加入更多局部切分。切分线只是教学近似，真实训练"
+    ],
+    [
+      "InlineTextBox",
+      "会依据不纯度目标选择结构。"
+    ],
+    [
+      "InlineTextBox",
+      "4. 最小可运行代码"
+    ],
+    [
+      "InlineTextBox",
+      "下面代码使用 scikit-learn 在鸢尾花数据上训练一棵分类树。它展示 API 和评估入口；正式实验仍需"
+    ],
+    [
+      "InlineTextBox",
+      "遵循课程的划分、随机种子和记录规范。"
+    ],
+    [
+      "InlineTextBox",
+      "复制代码"
+    ],
+    [
+      "StaticText",
+      "from sklearn.datasets import load_iris\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.tree import DecisionTreeClassifier, plot_tree\nfrom sklearn.metrics import accuracy_score\n\nX, y = load_iris(return_X_y=True)\nX_train, X_test, y_train, y_test = train_test_split(\n    X, y, test_size=0.2, random_state=42, stratify=y\n)\nmodel = DecisionTreeClassifier(max_depth=3, random_state=42)\nmodel.fit(X_train, y_train)\nprint(accuracy_score(y_test, model.predict(X_test)))\n# plot_tree(model)  # 可视化树结构"
+    ],
+    [
+      "InlineTextBox",
+      "5. 易错点与辨析"
+    ],
+    [
+      "StaticText",
+      "误区 1：树越深，模型一定越好。"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "错误原因：深树训练误差通常更低，但可能记住噪声。正确理解：深度是偏差、方差和计算复杂度之"
+    ],
+    [
+      "InlineTextBox",
+      "间的一个控制旋钮。"
+    ],
+    [
+      "StaticText",
+      "误区 2：叶节点永远输出一个训练样本的标签。"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "错误原因：分类叶可以输出类别比例，回归叶常输出均值。正确理解：输出形式由任务和实现决定。"
+    ],
+    [
+      "StaticText",
+      "误区 3：树的特征重要性就是因果解释。"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "错误原因：分裂使用与预测相关，不代表干预该特征会造成结果变化。正确理解：重要性需要结合数"
+    ],
+    [
+      "InlineTextBox",
+      "据生成过程和解释方法谨慎解读。"
+    ],
+    [
+      "InlineTextBox",
+      "6. 自测与反馈"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "题 1：样本在树中如何得到预测？"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "题 2：回归叶中目标值为 4、6、8，常见预测是多少？"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "题 3：把 max_depth 从 2 调到 20，训练误差一定上升吗？"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "题 4：树的特征重要性高，能否直接推出因果关系？"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "题 5：为什么本节把交互图称为模拟演示？"
+    ],
+    [
+      "InlineTextBox",
+      "7. 延伸阅读与来源"
+    ],
+    [
+      "ListMarker",
+      "• "
+    ],
+    [
+      "link",
+      "scikit-learn 决策树用户指南"
+    ],
+    [
+      "StaticText",
+      "：实现、参数与树结构说明（访问日期：2026-10-09）。"
+    ],
+    [
+      "ListMarker",
+      "• "
+    ],
+    [
+      "link",
+      "本节教学计划"
+    ],
+    [
+      "StaticText",
+      "：目标、案例和验收要求。"
+    ],
+    [
+      "ListMarker",
+      "• "
+    ],
+    [
+      "link",
+      "课程验收标准"
+    ],
+    [
+      "StaticText",
+      "：项目级质量规范。"
+    ],
+    [
+      "InlineTextBox",
+      "本节交互数据为模拟数据；页面中的 sklearn 代码已执行验证（accuracy=0.9667），运行记录见 "
+    ],
+    [
+      "StaticText",
+      "样板课验证报告"
+    ],
+    [
+      "InlineTextBox",
+      "。"
+    ],
+    [
+      "InlineTextBox",
+      "← 返回课程地图"
+    ],
+    [
+      "InlineTextBox",
+      "回到顶部 ↑"
+    ],
+    [
+      "InlineTextBox",
+      "下一节计划：06 →"
+    ],
+    [
+      "InlineTextBox",
+      "学习目标"
+    ],
+    [
+      "InlineTextBox",
+      "直觉"
+    ],
+    [
+      "InlineTextBox",
+      "正式机制"
+    ],
+    [
+      "InlineTextBox",
+      "交互演示"
+    ],
+    [
+      "InlineTextBox",
+      "代码"
+    ],
+    [
+      "InlineTextBox",
+      "易错点"
+    ],
+    [
+      "InlineTextBox",
+      "自测"
+    ],
+    [
+      "InlineTextBox",
+      "来源"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "InlineTextBox",
+      "能用样本的特征值追踪它在树中的完整路径。"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "InlineTextBox",
+      "能解释分类树和回归树的叶节点预测。"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "InlineTextBox",
+      "能判断树深度、停止条件如何影响欠拟合和过拟合。"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "InlineTextBox",
+      "能用交互演示观察阈值和深度改变二维决策区域。"
+    ],
+    [
+      "InlineTextBox",
+      "边界："
+    ],
+    [
+      "InlineTextBox",
+      "x"
+    ],
+    [
+      "StaticText",
+      "j"
+    ],
+    [
+      "InlineTextBox",
+      " ≤ t"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "max_depth"
+    ],
+    [
+      "InlineTextBox",
+      " 限制从根到叶的最大长度。"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "min_samples_split"
+    ],
+    [
+      "InlineTextBox",
+      " 要求节点至少有足够样本才允许继续分裂。"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "min_samples_leaf"
+    ],
+    [
+      "InlineTextBox",
+      " 防止叶节点过小。"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "InlineTextBox",
+      "剪枝或验证集选择可以减少对训练噪声的记忆。"
+    ],
+    [
+      "InlineTextBox",
+      "模拟数据"
+    ],
+    [
+      "InlineTextBox",
+      "1"
+    ],
+    [
+      "InlineTextBox",
+      "50"
+    ],
+    [
+      "InlineTextBox",
+      "from sklearn.datasets import load_iris"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "from sklearn.model_selection import train_test_split"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "from sklearn.tree import DecisionTreeClassifier, plot_tree"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "from sklearn.metrics import accuracy_score"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "X, y = load_iris(return_X_y=True)"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "X_train, X_test, y_train, y_test = train_test_split("
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "    X, y, test_size=0.2, random_state=42, stratify=y"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      ")"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "model = DecisionTreeClassifier(max_depth=3, random_state=42)"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "model.fit(X_train, y_train)"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "print(accuracy_score(y_test, model.predict(X_test)))"
+    ],
+    [
+      "InlineTextBox",
+      "\n"
+    ],
+    [
+      "InlineTextBox",
+      "# plot_tree(model)  # 可视化树结构"
+    ],
+    [
+      "InlineTextBox",
+      "误区 1：树越深，模型一定越好。"
+    ],
+    [
+      "InlineTextBox",
+      "误区 2：叶节点永远输出一个训练样本的标签。"
+    ],
+    [
+      "InlineTextBox",
+      "误区 3：树的特征重要性就是因果解释。"
+    ],
+    [
+      "InlineTextBox",
+      "题 1：样本在树中如何得到预测？"
+    ],
+    [
+      "InlineTextBox",
+      "题 2：回归叶中目标值为 4、6、8，常见预测是多少？"
+    ],
+    [
+      "InlineTextBox",
+      "题 3：把 max_depth 从 2 调到 20，训练误差一定上升吗？"
+    ],
+    [
+      "InlineTextBox",
+      "题 4：树的特征重要性高，能否直接推出因果关系？"
+    ],
+    [
+      "InlineTextBox",
+      "题 5：为什么本节把交互图称为模拟演示？"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "scikit-learn 决策树用户指南"
+    ],
+    [
+      "InlineTextBox",
+      "：实现、参数与树结构说明（访问日期：2026-10-09）。"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "本节教学计划"
+    ],
+    [
+      "InlineTextBox",
+      "：目标、案例和验收要求。"
+    ],
+    [
+      "none",
+      ""
+    ],
+    [
+      "StaticText",
+      "课程验收标准"
+    ],
+    [
+      "InlineTextBox",
+      "：项目级质量规范。"
+    ],
+    [
+      "InlineTextBox",
+      "样板课验"
+    ],
+    [
+      "InlineTextBox",
+      "证报告"
+    ],
+    [
+      "InlineTextBox",
+      "j"
+    ],
+    [
+      "InlineTextBox",
+      "max_depth"
+    ],
+    [
+      "InlineTextBox",
+      "min_samples_split"
+    ],
+    [
+      "InlineTextBox",
+      "min_samples_leaf"
+    ],
+    [
+      "InlineTextBox",
+      "scikit-learn 决策树用户指南"
+    ],
+    [
+      "InlineTextBox",
+      "本节教学计划"
+    ],
+    [
+      "InlineTextBox",
+      "课程验收标准"
+    ]
+  ]
+}
