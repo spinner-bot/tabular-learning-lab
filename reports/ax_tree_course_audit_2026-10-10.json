@@ -1,0 +1,1022 @@
+[
+  {
+    "page": "01_tabular_learning_intro.html",
+    "named_heading_count": 9,
+    "interactive_count": 5,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 课程地图"
+      },
+      {
+        "role": "link",
+        "name": "下一节：02 →"
+      },
+      {
+        "role": "link",
+        "name": "scikit-learn 监督学习指南"
+      },
+      {
+        "role": "link",
+        "name": "课程计划"
+      }
+    ]
+  },
+  {
+    "page": "02_ml_workflow.html",
+    "named_heading_count": 9,
+    "interactive_count": 5,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：03 →"
+      },
+      {
+        "role": "link",
+        "name": "scikit-learn 常见陷阱指南"
+      },
+      {
+        "role": "link",
+        "name": "课程计划"
+      }
+    ]
+  },
+  {
+    "page": "03_metrics.html",
+    "named_heading_count": 8,
+    "interactive_count": 5,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：04 →"
+      },
+      {
+        "role": "link",
+        "name": "scikit-learn 模型评估指南"
+      },
+      {
+        "role": "link",
+        "name": "课程计划"
+      }
+    ]
+  },
+  {
+    "page": "04_bias_variance.html",
+    "named_heading_count": 9,
+    "interactive_count": 5,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：05 →"
+      },
+      {
+        "role": "link",
+        "name": "scikit-learn 交叉验证指南"
+      },
+      {
+        "role": "link",
+        "name": "课程计划"
+      }
+    ]
+  },
+  {
+    "page": "05_decision_trees.html",
+    "named_heading_count": 12,
+    "interactive_count": 19,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "button",
+        "name": "复制代码"
+      },
+      {
+        "role": "link",
+        "name": "← 返回课程地图"
+      },
+      {
+        "role": "link",
+        "name": "回到顶部 ↑"
+      },
+      {
+        "role": "link",
+        "name": "下一节计划：06 →"
+      },
+      {
+        "role": "link",
+        "name": "学习目标"
+      },
+      {
+        "role": "link",
+        "name": "直觉"
+      },
+      {
+        "role": "link",
+        "name": "正式机制"
+      },
+      {
+        "role": "link",
+        "name": "交互演示"
+      },
+      {
+        "role": "link",
+        "name": "代码"
+      },
+      {
+        "role": "link",
+        "name": "易错点"
+      },
+      {
+        "role": "link",
+        "name": "自测"
+      },
+      {
+        "role": "link",
+        "name": "来源"
+      },
+      {
+        "role": "slider",
+        "name": "树深度："
+      },
+      {
+        "role": "slider",
+        "name": "面积阈值："
+      },
+      {
+        "role": "link",
+        "name": "样板课验证报告"
+      },
+      {
+        "role": "link",
+        "name": "scikit-learn 决策树用户指南"
+      },
+      {
+        "role": "link",
+        "name": "本节教学计划"
+      },
+      {
+        "role": "link",
+        "name": "课程验收标准"
+      }
+    ]
+  },
+  {
+    "page": "06_tree_splits.html",
+    "named_heading_count": 8,
+    "interactive_count": 5,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：07 →"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      },
+      {
+        "role": "link",
+        "name": "scikit-learn 决策树文档"
+      }
+    ]
+  },
+  {
+    "page": "07_random_forest.html",
+    "named_heading_count": 8,
+    "interactive_count": 5,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：08 →"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      },
+      {
+        "role": "link",
+        "name": "scikit-learn 集成文档"
+      }
+    ]
+  },
+  {
+    "page": "08_gbdt.html",
+    "named_heading_count": 8,
+    "interactive_count": 5,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：09 →"
+      },
+      {
+        "role": "link",
+        "name": "scikit-learn Gradient Boosting 文档"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "09_xgboost.html",
+    "named_heading_count": 8,
+    "interactive_count": 6,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：10 →"
+      },
+      {
+        "role": "link",
+        "name": "R01 XGBoost 原始论文"
+      },
+      {
+        "role": "link",
+        "name": "官方文档"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "10_catboost.html",
+    "named_heading_count": 8,
+    "interactive_count": 7,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：11 →"
+      },
+      {
+        "role": "link",
+        "name": "R02 CatBoost 原始论文"
+      },
+      {
+        "role": "link",
+        "name": "官方算法文档"
+      },
+      {
+        "role": "link",
+        "name": "类别特征转换文档"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "11_tabular_challenges.html",
+    "named_heading_count": 8,
+    "interactive_count": 6,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：12 →"
+      },
+      {
+        "role": "link",
+        "name": "FT-Transformer 研究论文"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      },
+      {
+        "role": "link",
+        "name": "研究资料"
+      }
+    ]
+  },
+  {
+    "page": "12_mlp.html",
+    "named_heading_count": 8,
+    "interactive_count": 5,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：13 →"
+      },
+      {
+        "role": "link",
+        "name": "scikit-learn MLP 文档"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "13_transformer.html",
+    "named_heading_count": 8,
+    "interactive_count": 5,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：14 →"
+      },
+      {
+        "role": "link",
+        "name": "Attention Is All You Need"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "14_ft_transformer.html",
+    "named_heading_count": 8,
+    "interactive_count": 6,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：15 →"
+      },
+      {
+        "role": "link",
+        "name": "R03 FT-Transformer 研究论文"
+      },
+      {
+        "role": "link",
+        "name": "研究资料"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "15_fair_comparison.html",
+    "named_heading_count": 8,
+    "interactive_count": 6,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：16 →"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      },
+      {
+        "role": "link",
+        "name": "研究资料"
+      },
+      {
+        "role": "link",
+        "name": "交叉验证指南"
+      }
+    ]
+  },
+  {
+    "page": "16_tabpfn_motivation.html",
+    "named_heading_count": 8,
+    "interactive_count": 7,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：17 →"
+      },
+      {
+        "role": "link",
+        "name": "R04–R08"
+      },
+      {
+        "role": "link",
+        "name": "TabPFN 原始论文"
+      },
+      {
+        "role": "link",
+        "name": "R04–R08"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "17_tabpfn_inference.html",
+    "named_heading_count": 7,
+    "interactive_count": 7,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：18 →"
+      },
+      {
+        "role": "link",
+        "name": "TabPFN 验证记录"
+      },
+      {
+        "role": "link",
+        "name": "R04–R08"
+      },
+      {
+        "role": "link",
+        "name": "TabPFN 官方仓库"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "18_icl.html",
+    "named_heading_count": 8,
+    "interactive_count": 6,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：19 →"
+      },
+      {
+        "role": "link",
+        "name": "PFN 原始论文"
+      },
+      {
+        "role": "link",
+        "name": "R04–R06"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "19_tabpfn_prior.html",
+    "named_heading_count": 8,
+    "interactive_count": 7,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：20 →"
+      },
+      {
+        "role": "link",
+        "name": "开放问题"
+      },
+      {
+        "role": "link",
+        "name": "PFN 统计基础论文"
+      },
+      {
+        "role": "link",
+        "name": "R04–R06"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "20_tabpfn_versions.html",
+    "named_heading_count": 8,
+    "interactive_count": 8,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：21 →"
+      },
+      {
+        "role": "link",
+        "name": "PriorLabs/TabPFN"
+      },
+      {
+        "role": "link",
+        "name": "官方仓库"
+      },
+      {
+        "role": "link",
+        "name": "模型页面"
+      },
+      {
+        "role": "link",
+        "name": "版本记录"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "21_tabpfn_experiment.html",
+    "named_heading_count": 8,
+    "interactive_count": 5,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：22 →"
+      },
+      {
+        "role": "link",
+        "name": "官方仓库"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "22_calibration.html",
+    "named_heading_count": 8,
+    "interactive_count": 7,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：23 →"
+      },
+      {
+        "role": "link",
+        "name": "校准 smoke test"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      },
+      {
+        "role": "link",
+        "name": "scikit-learn calibration 文档"
+      },
+      {
+        "role": "link",
+        "name": "TabPFN 官方仓库"
+      }
+    ]
+  },
+  {
+    "page": "23_data_processing.html",
+    "named_heading_count": 8,
+    "interactive_count": 6,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：24 →"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      },
+      {
+        "role": "link",
+        "name": "scikit-learn 预处理文档"
+      },
+      {
+        "role": "link",
+        "name": "缺失值填补文档"
+      }
+    ]
+  },
+  {
+    "page": "24_reproducible_benchmark.html",
+    "named_heading_count": 8,
+    "interactive_count": 6,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：25 →"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      },
+      {
+        "role": "link",
+        "name": "交叉验证指南"
+      },
+      {
+        "role": "link",
+        "name": "已有验证记录"
+      }
+    ]
+  },
+  {
+    "page": "25_model_comparison.html",
+    "named_heading_count": 8,
+    "interactive_count": 6,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：26 →"
+      },
+      {
+        "role": "link",
+        "name": "R01–R03、R07–R10"
+      },
+      {
+        "role": "link",
+        "name": "模型评估指南"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "26_research_opportunities.html",
+    "named_heading_count": 8,
+    "interactive_count": 8,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：27 →"
+      },
+      {
+        "role": "link",
+        "name": "开放问题"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      },
+      {
+        "role": "link",
+        "name": "研究资料"
+      },
+      {
+        "role": "link",
+        "name": "TabPFN 原始论文"
+      },
+      {
+        "role": "link",
+        "name": "开放问题清单"
+      }
+    ]
+  },
+  {
+    "page": "27_experiment_plan.html",
+    "named_heading_count": 8,
+    "interactive_count": 6,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：28 →"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      },
+      {
+        "role": "link",
+        "name": "项目验收标准"
+      },
+      {
+        "role": "link",
+        "name": "交叉验证指南"
+      }
+    ]
+  },
+  {
+    "page": "28_paper_workshop.html",
+    "named_heading_count": 8,
+    "interactive_count": 6,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：29 →"
+      },
+      {
+        "role": "link",
+        "name": "TabPFN 原始论文"
+      },
+      {
+        "role": "link",
+        "name": "R04 研究记录"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      }
+    ]
+  },
+  {
+    "page": "29_capstone.html",
+    "named_heading_count": 8,
+    "interactive_count": 7,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "下一节：30 →"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      },
+      {
+        "role": "link",
+        "name": "项目验收标准"
+      },
+      {
+        "role": "link",
+        "name": "TabPFN 官方仓库"
+      },
+      {
+        "role": "link",
+        "name": "研究资料"
+      }
+    ]
+  },
+  {
+    "page": "30_synthesis.html",
+    "named_heading_count": 8,
+    "interactive_count": 8,
+    "unnamed_interactive_count": 0,
+    "interactive_roles": [
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "← 上一节"
+      },
+      {
+        "role": "link",
+        "name": "返回课程地图"
+      },
+      {
+        "role": "link",
+        "name": "课程地图"
+      },
+      {
+        "role": "link",
+        "name": "研究资料"
+      },
+      {
+        "role": "link",
+        "name": "模型评估指南"
+      },
+      {
+        "role": "link",
+        "name": "本节计划"
+      },
+      {
+        "role": "link",
+        "name": "最终验收记录"
+      }
+    ]
+  }
+]

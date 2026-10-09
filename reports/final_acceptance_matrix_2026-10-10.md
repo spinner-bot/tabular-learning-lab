@@ -26,6 +26,7 @@
 | 许可证与数据来源边界 | `data/license_manifest.json`、`reports/license_audit_2026-10-10.md` | 部分通过 | 依赖和数据来源已列明；项目级许可证尚未决定，TabPFN 模型权重仍需按版本接受条款 |
 | 回归与更广数据集证据 | `code/regression_benchmark.py`、`reports/repeated_benchmark_diabetes_regression_2026-10-10.md`、对应 JSON | 部分通过 | 已补充 1 个回归数据集和 70 次重复运行；仍需更广任务/数据集与组件级消融 |
 | 全课程交互路径 | `code/browser_interaction_audit.py`、`reports/browser_interaction_audit_2026-10-10.md`、对应 JSON | 部分通过 | 30 页通用交互路径已自动核验；真实屏幕阅读器、跨浏览器和人工视觉复核仍缺 |
+| 全课程 AX tree 命名 | `code/ax_tree_course_audit.py`、`reports/ax_tree_course_audit_2026-10-10.md`、对应 JSON | 部分通过 | 30 页 Edge AX tree 已核验；屏幕阅读器语音输出和跨引擎行为仍缺 |
 
 ## 技术
 
