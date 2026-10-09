@@ -12,9 +12,10 @@
 | Windows Narrator | `C:\Windows\System32\Narrator.exe` 存在 | 仅存在程序不等于已完成语音端到端审计；本项目没有自动化语音输出记录 |
 | NVDA | 未找到 | 无法完成 NVDA 复核 |
 | Firefox | 未找到 | 无法完成 Firefox 内核复核 |
-| Chrome/Chromium 命令 | 未找到可执行命令 | 无法把 Edge 结果扩展为 Chrome/Chromium 复核 |
+| Chrome/Chromium 命令 | 系统命令未找到，但 Playwright bundled Chromium 可运行 | 已完成 Chromium 30 节桌面/移动自动 smoke test；不等同于系统 Chrome |
+| Playwright Firefox/WebKit | 路径可被 Playwright 报告，但实际可执行文件缺失，无法启动 | 跨引擎证据仍为部分覆盖 |
 | axe/pa11y CLI | 未找到 | 当前无第二套独立规则引擎证据；保留静态可访问性、Edge AX tree 和浏览器交互审计 |
 
 ## 结论
 
-当前环境足以继续运行 Edge 自动门禁和截图捕获，但不足以证明真实屏幕阅读器语音输出、Firefox/Chrome 跨内核兼容性或独立 axe/pa11y 规则引擎通过。该限制不改变现有自动测试结果，也不应被描述为最终无障碍验收通过。
+当前环境已足以运行 Edge 与 Playwright bundled Chromium 自动门禁；本次 Chromium 结果为 60/60 页面路径通过。环境仍不足以证明真实屏幕阅读器语音输出、Firefox/WebKit 跨内核兼容性或独立 axe/pa11y 规则引擎通过。该限制不改变现有自动测试结果，也不应被描述为最终无障碍验收通过。
