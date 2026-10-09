@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-09",
+  "results": [
+    {
+      "url": "https://arxiv.org/abs/1706.03762",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/1706.03762"
+    },
+    {
+      "url": "https://arxiv.org/abs/2207.00434",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2207.00434"
+    },
+    {
+      "url": "https://arxiv.org/abs/2207.01848",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2207.01848"
+    },
+    {
+      "url": "https://arxiv.org/abs/2305.11097",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2305.11097"
+    },
+    {
+      "url": "https://catboost.ai/docs/en/concepts/algorithm-main-stages_fighting-biases",
+      "status": 200,
+      "final_url": "https://catboost.ai/docs/en/concepts/algorithm-main-stages_fighting-biases"
+    },
+    {
+      "url": "https://docs.priorlabs.ai/models",
+      "status": 200,
+      "final_url": "https://docs.priorlabs.ai/models"
+    },
+    {
+      "url": "https://github.com/PriorLabs/TabPFN",
+      "status": 200,
+      "final_url": "https://github.com/PriorLabs/TabPFN"
+    },
+    {
+      "url": "https://openreview.net/forum?id=i_Q1yrOegLY",
+      "status": 200,
+      "final_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Di_Q1yrOegLY"
+    },
+    {
+      "url": "https://scikit-learn.org/stable/common_pitfalls.html",
+      "status": 200,
+      "final_url": "https://scikit-learn.org/stable/common_pitfalls.html"
+    },
+    {
+      "url": "https://scikit-learn.org/stable/modules/calibration.html",
+      "status": 200,
+      "final_url": "https://scikit-learn.org/stable/modules/calibration.html"
+    },
+    {
+      "url": "https://scikit-learn.org/stable/modules/cross_validation.html",
+      "status": 200,
+      "final_url": "https://scikit-learn.org/stable/modules/cross_validation.html"
+    },
+    {
+      "url": "https://scikit-learn.org/stable/modules/ensemble.html",
+      "status": 200,
+      "final_url": "https://scikit-learn.org/stable/modules/ensemble.html"
+    },
+    {
+      "url": "https://scikit-learn.org/stable/modules/impute.html",
+      "status": 200,
+      "final_url": "https://scikit-learn.org/stable/modules/impute.html"
+    },
+    {
+      "url": "https://scikit-learn.org/stable/modules/model_evaluation.html",
+      "status": 200,
+      "final_url": "https://scikit-learn.org/stable/modules/model_evaluation.html"
+    },
+    {
+      "url": "https://scikit-learn.org/stable/modules/neural_networks_supervised.html",
+      "status": 200,
+      "final_url": "https://scikit-learn.org/stable/modules/neural_networks_supervised.html"
+    },
+    {
+      "url": "https://scikit-learn.org/stable/modules/preprocessing.html",
+      "status": 200,
+      "final_url": "https://scikit-learn.org/stable/modules/preprocessing.html"
+    },
+    {
+      "url": "https://scikit-learn.org/stable/modules/tree.html",
+      "status": 200,
+      "final_url": "https://scikit-learn.org/stable/modules/tree.html"
+    },
+    {
+      "url": "https://scikit-learn.org/stable/supervised_learning.html",
+      "status": 200,
+      "final_url": "https://scikit-learn.org/stable/supervised_learning.html"
+    },
+    {
+      "url": "https://xgboost.readthedocs.io/",
+      "status": 200,
+      "final_url": "https://xgboost.readthedocs.io/en/stable/"
+    }
+  ]
+}
