@@ -275,7 +275,7 @@
     "width": 1440,
     "height": 1000,
     "scroll_width": 1440,
-    "scroll_height": 2619,
+    "scroll_height": 2645,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\28_paper_workshop_desktop.png"
   },
@@ -575,7 +575,7 @@
     "width": 390,
     "height": 844,
     "scroll_width": 390,
-    "scroll_height": 2941,
+    "scroll_height": 2992,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\28_paper_workshop_mobile.png"
   },

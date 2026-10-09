@@ -31,11 +31,11 @@
 | `25_model_comparison.html` | 1 | 5 | `https://scikit-learn.org/stable/modules/model_evaluation.html` |
 | `26_research_opportunities.html` | 1 | 7 | `https://arxiv.org/abs/2207.01848` |
 | `27_experiment_plan.html` | 1 | 5 | `https://scikit-learn.org/stable/modules/cross_validation.html` |
-| `28_paper_workshop.html` | 1 | 5 | `https://arxiv.org/abs/2207.01848` |
+| `28_paper_workshop.html` | 1 | 6 | `https://arxiv.org/abs/2207.01848` |
 | `29_capstone.html` | 1 | 6 | `https://github.com/PriorLabs/TabPFN` |
 | `30_synthesis.html` | 1 | 7 | `https://scikit-learn.org/stable/modules/model_evaluation.html` |
 
-合计：30 个课件，35 个外部链接，156 个本地链接。
+合计：30 个课件，35 个外部链接，157 个本地链接。
 
 ## 判定
 

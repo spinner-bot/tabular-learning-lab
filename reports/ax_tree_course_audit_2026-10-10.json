@@ -982,7 +982,7 @@
   {
     "page": "28_paper_workshop.html",
     "named_heading_count": 8,
-    "interactive_count": 6,
+    "interactive_count": 7,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -996,6 +996,10 @@
       {
         "role": "link",
         "name": "下一节：29 →"
+      },
+      {
+        "role": "link",
+        "name": "R04 精读记录"
       },
       {
         "role": "link",

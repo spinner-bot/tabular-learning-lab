@@ -51,6 +51,7 @@
 - 完成第 11–15 节主张级事实核验记录，区分原始论文/官方文档支持、示意内容和未执行代码；第 14 节官方实现/API 仍未运行，详见 `reports/lesson_11_15_claim_review_2026-10-10.md`。
 - 完成第 16–22 节 TabPFN 主张级事实核验记录，分开记录论文、官方动态页面、本机导入和模型权重授权缺口；详见 `reports/lesson_16_22_claim_review_2026-10-10.md`。
 - 完成第 23–30 节研究与交付主张级核验记录，区分协议、模板、本地实验和未完成综合项目；详见 `reports/lesson_23_30_claim_review_2026-10-10.md`。
+- 完成 R04 TabPFN 原始论文的课程相关精读记录，并从第 28 节链接；保留逐表数字复核和当前 checkpoint 等价运行缺口，详见 `reports/paper_reading_R04_tabpfn_original_2026-10-10.md`。
 - 对照总控 Prompt 复核发现第 03、06 节基础知识覆盖不足，已补齐 ROC-AUC/Log Loss/RMSE/R²、阈值滑块、Gini/熵/信息增益公式和回归 SSE 案例；证据见 `reports/lesson_03_06_content_revision_2026-10-10.md`。
 - 已补齐第 02、04、07、08、10、22 节计划中的泄漏/复杂度/树数量/提升轮数/排列前缀/校准分箱示意控件，并通过全课程交互与可访问性审计；来源复核见 `reports/metrics_tree_claim_verification_2026-10-10.md`。
 

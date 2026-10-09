@@ -22,6 +22,7 @@
 | F14 | 第 11–15 节表格挑战、MLP、Transformer、FT-Transformer 与公平比较主张 | 高 | R03、Transformer 原始论文、scikit-learn 官方文档 | 逐节主张复核 | `reports/lesson_11_15_claim_review_2026-10-10.md` 已记录机制层和协议层结论；第 12/13 页面内联片段仍未执行，但独立最小路径已运行，第 14 官方实现/API 与资源仍未实测，概念性挑战尚未逐项补齐独立来源 | 11–15 |
 | F15 | 第 16–22 节 TabPFN 动机、推断、ICL、先验、版本、实验与校准主张 | 高 | R04–R08、R13、scikit-learn calibration 文档 | 逐节主张复核 | `reports/lesson_16_22_claim_review_2026-10-10.md` 已区分论文/官方快照/本机导入/未获权重；第 21 节 checkpoint 预测、资源对照和第 22 节 TabPFN 特定功能仍未验证 | 16–22 |
 | F16 | 第 23–30 节数据处理、benchmark、模型比较、研究计划、论文精读和综合验收主张 | 高 | scikit-learn 官方文档、本地实验日志、R01–R13 | 逐节主张复核 | `reports/lesson_23_30_claim_review_2026-10-10.md` 已区分协议/模板/本地实验/未完成综合项目；MCAR/MAR/MNAR 专门来源、完整论文精读、TabPFN 同协议比较和真实教学试用仍缺 | 23–30 |
+| F17 | R04 TabPFN 原始论文的问题、方法、先验、实验协议、结论与限制 | 高 | R04 arXiv HTML v6 | 论文精读 | `reports/paper_reading_R04_tabpfn_original_2026-10-10.md` 已完成课程直接使用部分的主张—证据—边界映射；全文逐表数字复核和当前 checkpoint 等价运行仍缺 | 16–21, 25, 28–30 |
 
 ## 判定规则
 
