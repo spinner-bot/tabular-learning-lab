@@ -14,7 +14,7 @@
     "h1": "机器学习实验的基本流程",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 3465,
+    "scroll_height": 3491,
     "horizontal_overflow": false
   },
   {
@@ -32,7 +32,7 @@
     "h1": "从直觉到模型：偏差、方差与基线",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 3527,
+    "scroll_height": 3553,
     "horizontal_overflow": false
   },
   {
@@ -149,7 +149,7 @@
     "h1": "TabPFN 的整体架构与推断流程",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 3136,
+    "scroll_height": 3162,
     "horizontal_overflow": false
   },
   {
@@ -185,7 +185,7 @@
     "h1": "TabPFN 实战：从安装到可复现实验",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 2925,
+    "scroll_height": 2953,
     "horizontal_overflow": false
   },
   {
