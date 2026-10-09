@@ -47,6 +47,7 @@
 - 完成 PFN、TabPFN、XGBoost 原始论文 HTML 的核心机制核验，并保存 CatBoost 机制边界与 FT-Transformer 访问缺口。
 - 已完成第 09–10 节 XGBoost/CatBoost 主张级核验，并修正第 01–04、17 节陈旧环境状态表述；详见 `reports/xgboost_claim_verification_2026-10-10.md`、`reports/catboost_claim_verification_2026-10-10.md` 与 `reports/lesson_stale_claims_review_2026-10-10.md`。
 - 2026-10-10 全套自动门禁重跑通过：课程结构、来源、引用、交互、Edge AX tree、键盘/剪贴板、窄屏和内容深度；人工视觉、真实屏幕阅读器、跨浏览器与 TabPFN checkpoint 授权仍未完成。
+- 新增全课程桌面/移动视觉捕获：30/30 页面、60 张全页截图、0 条控制台错误，移动视口无横向溢出；证据与限制见 `reports/course_visual_review_2026-10-10.md`。
 - 对照总控 Prompt 复核发现第 03、06 节基础知识覆盖不足，已补齐 ROC-AUC/Log Loss/RMSE/R²、阈值滑块、Gini/熵/信息增益公式和回归 SSE 案例；证据见 `reports/lesson_03_06_content_revision_2026-10-10.md`。
 - 已补齐第 02、04、07、08、10、22 节计划中的泄漏/复杂度/树数量/提升轮数/排列前缀/校准分箱示意控件，并通过全课程交互与可访问性审计；来源复核见 `reports/metrics_tree_claim_verification_2026-10-10.md`。
 

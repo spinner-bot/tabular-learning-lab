@@ -1,0 +1,602 @@
+[
+  {
+    "page": "01_tabular_learning_intro.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 3259,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\01_tabular_learning_intro_desktop.png"
+  },
+  {
+    "page": "02_ml_workflow.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 3105,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\02_ml_workflow_desktop.png"
+  },
+  {
+    "page": "03_metrics.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 3718,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\03_metrics_desktop.png"
+  },
+  {
+    "page": "04_bias_variance.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 3108,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\04_bias_variance_desktop.png"
+  },
+  {
+    "page": "05_decision_trees.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 4731,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\05_decision_trees_desktop.png"
+  },
+  {
+    "page": "06_tree_splits.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 3435,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\06_tree_splits_desktop.png"
+  },
+  {
+    "page": "07_random_forest.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2764,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\07_random_forest_desktop.png"
+  },
+  {
+    "page": "08_gbdt.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2862,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\08_gbdt_desktop.png"
+  },
+  {
+    "page": "09_xgboost.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2810,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\09_xgboost_desktop.png"
+  },
+  {
+    "page": "10_catboost.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2785,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\10_catboost_desktop.png"
+  },
+  {
+    "page": "11_tabular_challenges.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2721,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\11_tabular_challenges_desktop.png"
+  },
+  {
+    "page": "12_mlp.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2695,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\12_mlp_desktop.png"
+  },
+  {
+    "page": "13_transformer.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2828,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\13_transformer_desktop.png"
+  },
+  {
+    "page": "14_ft_transformer.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2701,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\14_ft_transformer_desktop.png"
+  },
+  {
+    "page": "15_fair_comparison.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2650,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\15_fair_comparison_desktop.png"
+  },
+  {
+    "page": "16_tabpfn_motivation.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2750,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\16_tabpfn_motivation_desktop.png"
+  },
+  {
+    "page": "17_tabpfn_inference.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2626,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\17_tabpfn_inference_desktop.png"
+  },
+  {
+    "page": "18_icl.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2710,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\18_icl_desktop.png"
+  },
+  {
+    "page": "19_tabpfn_prior.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2664,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\19_tabpfn_prior_desktop.png"
+  },
+  {
+    "page": "20_tabpfn_versions.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2972,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\20_tabpfn_versions_desktop.png"
+  },
+  {
+    "page": "21_tabpfn_experiment.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2706,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\21_tabpfn_experiment_desktop.png"
+  },
+  {
+    "page": "22_calibration.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2915,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\22_calibration_desktop.png"
+  },
+  {
+    "page": "23_data_processing.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2623,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\23_data_processing_desktop.png"
+  },
+  {
+    "page": "24_reproducible_benchmark.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2623,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\24_reproducible_benchmark_desktop.png"
+  },
+  {
+    "page": "25_model_comparison.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2647,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\25_model_comparison_desktop.png"
+  },
+  {
+    "page": "26_research_opportunities.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2676,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\26_research_opportunities_desktop.png"
+  },
+  {
+    "page": "27_experiment_plan.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2650,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\27_experiment_plan_desktop.png"
+  },
+  {
+    "page": "28_paper_workshop.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2619,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\28_paper_workshop_desktop.png"
+  },
+  {
+    "page": "29_capstone.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2623,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\29_capstone_desktop.png"
+  },
+  {
+    "page": "30_synthesis.html",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "scroll_width": 1440,
+    "scroll_height": 2673,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\30_synthesis_desktop.png"
+  },
+  {
+    "page": "01_tabular_learning_intro.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3839,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\01_tabular_learning_intro_mobile.png"
+  },
+  {
+    "page": "02_ml_workflow.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3600,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\02_ml_workflow_mobile.png"
+  },
+  {
+    "page": "03_metrics.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 4621,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\03_metrics_mobile.png"
+  },
+  {
+    "page": "04_bias_variance.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3662,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\04_bias_variance_mobile.png"
+  },
+  {
+    "page": "05_decision_trees.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 6148,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\05_decision_trees_mobile.png"
+  },
+  {
+    "page": "06_tree_splits.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 4194,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\06_tree_splits_mobile.png"
+  },
+  {
+    "page": "07_random_forest.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3153,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\07_random_forest_mobile.png"
+  },
+  {
+    "page": "08_gbdt.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3137,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\08_gbdt_mobile.png"
+  },
+  {
+    "page": "09_xgboost.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3359,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\09_xgboost_mobile.png"
+  },
+  {
+    "page": "10_catboost.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3400,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\10_catboost_mobile.png"
+  },
+  {
+    "page": "11_tabular_challenges.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3297,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\11_tabular_challenges_mobile.png"
+  },
+  {
+    "page": "12_mlp.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3093,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\12_mlp_mobile.png"
+  },
+  {
+    "page": "13_transformer.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3295,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\13_transformer_mobile.png"
+  },
+  {
+    "page": "14_ft_transformer.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 2918,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\14_ft_transformer_mobile.png"
+  },
+  {
+    "page": "15_fair_comparison.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3050,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\15_fair_comparison_mobile.png"
+  },
+  {
+    "page": "16_tabpfn_motivation.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3175,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\16_tabpfn_motivation_mobile.png"
+  },
+  {
+    "page": "17_tabpfn_inference.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3162,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\17_tabpfn_inference_mobile.png"
+  },
+  {
+    "page": "18_icl.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3191,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\18_icl_mobile.png"
+  },
+  {
+    "page": "19_tabpfn_prior.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3252,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\19_tabpfn_prior_mobile.png"
+  },
+  {
+    "page": "20_tabpfn_versions.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3759,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\20_tabpfn_versions_mobile.png"
+  },
+  {
+    "page": "21_tabpfn_experiment.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 2953,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\21_tabpfn_experiment_mobile.png"
+  },
+  {
+    "page": "22_calibration.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3451,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\22_calibration_mobile.png"
+  },
+  {
+    "page": "23_data_processing.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3023,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\23_data_processing_mobile.png"
+  },
+  {
+    "page": "24_reproducible_benchmark.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 2967,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\24_reproducible_benchmark_mobile.png"
+  },
+  {
+    "page": "25_model_comparison.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 2972,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\25_model_comparison_mobile.png"
+  },
+  {
+    "page": "26_research_opportunities.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 3152,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\26_research_opportunities_mobile.png"
+  },
+  {
+    "page": "27_experiment_plan.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 2949,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\27_experiment_plan_mobile.png"
+  },
+  {
+    "page": "28_paper_workshop.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 2941,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\28_paper_workshop_mobile.png"
+  },
+  {
+    "page": "29_capstone.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 2939,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\29_capstone_mobile.png"
+  },
+  {
+    "page": "30_synthesis.html",
+    "viewport": "mobile",
+    "width": 390,
+    "height": 844,
+    "scroll_width": 390,
+    "scroll_height": 2946,
+    "console_errors": [],
+    "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\30_synthesis_mobile.png"
+  }
+]
