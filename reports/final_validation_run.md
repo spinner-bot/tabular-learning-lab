@@ -11,7 +11,7 @@ python code/audit_lessons.py
 lesson audit: PASS (30 lessons, index links 30/30)
 
 python code/check_html_structure.py
-HTML structure check: PASS (31 pages, 199 local links)
+HTML structure check: PASS (31 pages, 201 local links)
 ```
 
 ## 代码烟测
