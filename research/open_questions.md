@@ -55,3 +55,7 @@
 ### 2026-10-10 更新
 
 已在临时隔离环境以 PyTorch 2.7.1+cpu 与 TabPFN 9.1.0 通过导入检查；最小 fit 已进入官方模型授权流程，但因未提供授权/模型权重未完成 checkpoint 预测。原有 DLL 失败记录保留为历史证据，当前权威记录为 `reports/tabpfn_probe_2026-10-10.md`。
+
+### 2026-10-10 默认环境复核
+
+默认 Python 可发现 `D:\\Lib\\site-packages\\tabpfn`，但实际导入再次因 PyTorch `c10.dll` 抛出 WinError 1114；本次没有下载权重、接受条款或生成预测。该结果与临时隔离环境的导入通过并不矛盾，分别记录于 `reports/tabpfn_environment_recheck_2026-10-10.md` 和 `reports/tabpfn_probe_2026-10-10.md`。
