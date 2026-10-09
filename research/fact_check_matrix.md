@@ -10,8 +10,8 @@
 | F03 | TabPFN 上下文包含训练样本及标签，区别于微调 | 高 | R04, R06 | R07 | TabPFN 原始论文 HTML 摘要、§2 已核对固定参数/上下文式预测；仍需避免把 ICL 术语过度类比语言模型 | 按实现版本 | 17, 18 |
 | F04 | 当前 TabPFN 官方安装和分类/回归调用方式 | 高 | R07, R08 | 官方 API 文档 | 官方仓库页面已确认 `pip install tabpfn`、Python 3.10+、Classifier/Regressor quick start、首次使用下载 checkpoint；本机运行仍未通过 | 2026-10-10 页面 | 20, 21 |
 | F05 | TabPFN 不同模型版本的样本、特征、类别和资源限制 | 高 | R07, R08, R13 | R09, R10 | 官方 Models 页面已按 checkpoint 记录行/列/类别/可用性差异，并记录了行列联动；CPU 可行性和真实资源仍须绑定硬件实测，不能只引用上限 | 2026-10-10 页面；版本绑定 | 20, 25 |
-| F06 | XGBoost 目标函数、正则化和一/二阶信息 | 高 | R01 | R11 | 原始论文 HTML §2.1–§2 已核对目标、正则化和一/二阶信息；当前实现仍需单独核验 | 算法与实现分开 | 09 |
-| F07 | CatBoost 类别特征处理和 Ordered Boosting | 高 | R02 | R12 | 原始论文摘要与官方类别特征文档已核对 ordered boosting、类别处理、prediction shift、随机排列和前缀统计；具体版本公式与默认参数仍需核对 | 论文/当前库分别标记 | 10 |
+| F06 | XGBoost 目标函数、正则化和一/二阶信息 | 高 | R01 | R11 | 已保存 `reports/xgboost_claim_verification_2026-10-10.md`：原始论文 HTML §2.1–§2.3、§3.2–§3.4 和系统设计章节已核对；当前实现/API、版本参数和运行行为仍单独标记 | 算法与实现分开 | 09 |
+| F07 | CatBoost 类别特征处理和 Ordered Boosting | 高 | R02 | R12, R14 | 已保存 `reports/catboost_claim_verification_2026-10-10.md`：论文摘要及官方文档已核对 ordered boosting、prediction shift、随机排列、前缀统计、prior 与 one-hot 分支；具体版本公式、默认参数和运行行为仍单独标记 | 论文/当前库分别标记 | 10 |
 | F08 | FT-Transformer 输入编码、注意力和论文结论 | 高 | R03 | NeurIPS 论文页/作者实现入口 | 原始论文 HTML 的 §3.3、§4 和附录 E 已核对；架构、输入编码、资源边界和条件化结论有直接证据，官方实现仍未在本仓库运行 | 2021 论文；2026-10-10 原文核验 | 14 |
 | F09 | 树模型与深度模型比较结论 | 高 | R03 | 后续基准研究 | 已有合成数据和两个 UCI 数据集的 7 模型/10 种子重复结果，并保留 3 种子初始结果；仅支持各协议内观察，不支持绝对排名 | `reports/benchmark_initial.md`、`reports/real_benchmark_breast_cancer.md`、`reports/real_benchmark_wine.md` | 11, 15, 25 |
 | F10 | 分类/回归指标及数据泄漏规范 | 高 | 统计/ML 教材与官方库文档 | 课程实验设计 | 课程已链接 scikit-learn 评估、交叉验证和常见陷阱文档；仍需逐节核对主张是否与协议一致 | 课程协议 | 02-04, 24 |

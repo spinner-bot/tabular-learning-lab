@@ -22,6 +22,7 @@
 - 3 条引用格式提示已逐条记录人工处置：`reports/citation_manual_review_2026-10-10.md`；自动审计警告继续保留，逐句事实终审仍未完成。
 - 已完成课件过度断言风险筛查并保留处置记录：`reports/claim_risk_review_2026-10-10.md`；命中项均处于误区/边界/不可推出语境，不能替代逐句事实核验。
 - 已补充 FT-Transformer 原始论文 HTML 主张核验：`reports/ft_transformer_claim_verification_2026-10-10.md`；F08 的架构/边界证据增强，但官方实现运行和逐节事实终审仍未完成。
+- 已补充 XGBoost 与 CatBoost 主张级核验：`reports/xgboost_claim_verification_2026-10-10.md`、`reports/catboost_claim_verification_2026-10-10.md`；第 09、10 节核心算法表述与原始论文/官方文档一致，当前库版本行为仍与论文证据分开标记。
 - 已建立总控 Prompt 第十四节的最终验收矩阵：`reports/final_acceptance_matrix_2026-10-10.md`，逐项区分通过、部分通过和未验证。
 
 ## 未通过或未验证
