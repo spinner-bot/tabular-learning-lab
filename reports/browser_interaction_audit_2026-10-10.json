@@ -34,7 +34,7 @@
   {
     "page": "04_bias_variance.html",
     "quiz_count": 5,
-    "range_count": 0,
+    "range_count": 1,
     "copy_button_count": 0,
     "canvas_count": 0,
     "scroll_width": 390,
@@ -64,7 +64,7 @@
   {
     "page": "07_random_forest.html",
     "quiz_count": 5,
-    "range_count": 0,
+    "range_count": 1,
     "copy_button_count": 0,
     "canvas_count": 0,
     "scroll_width": 390,
@@ -74,7 +74,7 @@
   {
     "page": "08_gbdt.html",
     "quiz_count": 5,
-    "range_count": 0,
+    "range_count": 1,
     "copy_button_count": 0,
     "canvas_count": 0,
     "scroll_width": 390,
@@ -94,7 +94,7 @@
   {
     "page": "10_catboost.html",
     "quiz_count": 5,
-    "range_count": 0,
+    "range_count": 1,
     "copy_button_count": 0,
     "canvas_count": 0,
     "scroll_width": 390,
@@ -214,7 +214,7 @@
   {
     "page": "22_calibration.html",
     "quiz_count": 5,
-    "range_count": 0,
+    "range_count": 1,
     "copy_button_count": 0,
     "canvas_count": 0,
     "scroll_width": 390,
