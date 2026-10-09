@@ -30,12 +30,16 @@
   {
     "page": "02_ml_workflow.html",
     "named_heading_count": 9,
-    "interactive_count": 5,
+    "interactive_count": 6,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
         "role": "link",
         "name": "课程地图"
+      },
+      {
+        "role": "checkbox",
+        "name": "模拟先整体计算统计量再划分"
       },
       {
         "role": "link",
@@ -57,13 +61,17 @@
   },
   {
     "page": "03_metrics.html",
-    "named_heading_count": 8,
-    "interactive_count": 5,
+    "named_heading_count": 9,
+    "interactive_count": 6,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
         "role": "link",
         "name": "课程地图"
+      },
+      {
+        "role": "slider",
+        "name": "示意分类阈值："
       },
       {
         "role": "link",
@@ -86,12 +94,16 @@
   {
     "page": "04_bias_variance.html",
     "named_heading_count": 9,
-    "interactive_count": 5,
+    "interactive_count": 6,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
         "role": "link",
         "name": "课程地图"
+      },
+      {
+        "role": "slider",
+        "name": "示意模型复杂度"
       },
       {
         "role": "link",
@@ -197,13 +209,17 @@
   },
   {
     "page": "06_tree_splits.html",
-    "named_heading_count": 8,
-    "interactive_count": 5,
+    "named_heading_count": 9,
+    "interactive_count": 6,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
         "role": "link",
         "name": "课程地图"
+      },
+      {
+        "role": "slider",
+        "name": "候选切点："
       },
       {
         "role": "link",
@@ -226,12 +242,16 @@
   {
     "page": "07_random_forest.html",
     "named_heading_count": 8,
-    "interactive_count": 5,
+    "interactive_count": 6,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
         "role": "link",
         "name": "课程地图"
+      },
+      {
+        "role": "slider",
+        "name": "示意随机森林树数量"
       },
       {
         "role": "link",
@@ -254,12 +274,16 @@
   {
     "page": "08_gbdt.html",
     "named_heading_count": 8,
-    "interactive_count": 5,
+    "interactive_count": 6,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
         "role": "link",
         "name": "课程地图"
+      },
+      {
+        "role": "slider",
+        "name": "示意梯度提升轮数"
       },
       {
         "role": "link",
@@ -314,12 +338,16 @@
   {
     "page": "10_catboost.html",
     "named_heading_count": 8,
-    "interactive_count": 7,
+    "interactive_count": 8,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
         "role": "link",
         "name": "课程地图"
+      },
+      {
+        "role": "slider",
+        "name": "有序统计排列前缀位置"
       },
       {
         "role": "link",
@@ -710,12 +738,16 @@
   {
     "page": "22_calibration.html",
     "named_heading_count": 8,
-    "interactive_count": 7,
+    "interactive_count": 8,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
         "role": "link",
         "name": "课程地图"
+      },
+      {
+        "role": "slider",
+        "name": "示意校准分箱数"
       },
       {
         "role": "link",

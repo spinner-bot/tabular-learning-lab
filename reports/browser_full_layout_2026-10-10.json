@@ -14,7 +14,7 @@
     "h1": "机器学习实验的基本流程",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 3491,
+    "scroll_height": 3600,
     "horizontal_overflow": false
   },
   {
@@ -23,7 +23,7 @@
     "h1": "损失函数与模型评估",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 3234,
+    "scroll_height": 4595,
     "horizontal_overflow": false
   },
   {
@@ -32,7 +32,7 @@
     "h1": "从直觉到模型：偏差、方差与基线",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 3553,
+    "scroll_height": 3662,
     "horizontal_overflow": false
   },
   {
@@ -50,7 +50,7 @@
     "h1": "决策树如何选择分裂",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 3180,
+    "scroll_height": 4142,
     "horizontal_overflow": false
   },
   {
@@ -59,7 +59,7 @@
     "h1": "Bagging、随机森林与模型集成",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 3044,
+    "scroll_height": 3153,
     "horizontal_overflow": false
   },
   {
@@ -68,7 +68,7 @@
     "h1": "Boosting 与 GBDT",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 3028,
+    "scroll_height": 3137,
     "horizontal_overflow": false
   },
   {
@@ -77,7 +77,7 @@
     "h1": "XGBoost：目标函数与工程设计",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 3187,
+    "scroll_height": 3359,
     "horizontal_overflow": false
   },
   {
@@ -86,7 +86,7 @@
     "h1": "CatBoost：类别特征与有序提升",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 3263,
+    "scroll_height": 3400,
     "horizontal_overflow": false
   },
   {
@@ -194,7 +194,7 @@
     "h1": "TabPFN 结果解释、校准与不确定性",
     "viewport_width": 390,
     "scroll_width": 390,
-    "scroll_height": 3342,
+    "scroll_height": 3451,
     "horizontal_overflow": false
   },
   {
