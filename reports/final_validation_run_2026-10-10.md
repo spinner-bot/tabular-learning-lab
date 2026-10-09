@@ -19,7 +19,7 @@ lesson_03_06_examples.py                 PASS (deterministic teaching examples)
 lesson_12_13_examples.py                 PASS (MLP and multi-head attention minimal paths)
 course_visual_capture.py                  PASS (60 screenshots, 0 console errors, no mobile overflow)
 paper_reading_R04_tabpfn_original        PASS (course-relevant claim/evidence/boundary mapping)
-cross_browser_smoke_test.py               PARTIAL (Chromium 60/60; Firefox/WebKit executables unavailable)
+cross_browser_smoke_test.py               PASS (180/180; Chromium, Firefox, WebKit; desktop/mobile)
 ```
 
 新增的 01/02/03/04/06/07/08/10/22 控件均有命名或标签，并被全课程交互与 AX tree 审计纳入。
@@ -28,5 +28,5 @@ cross_browser_smoke_test.py               PARTIAL (Chromium 60/60; Firefox/WebKi
 
 - TabPFN 模型权重授权、checkpoint 预测和资源对照。
 - 全课程逐句事实/教学专家终审。
-- 人工视觉、真实屏幕阅读器语音输出和跨浏览器/跨内核复核。
+- 人工视觉、真实屏幕阅读器语音输出和逐像素人工视觉复核。
 - 项目级许可证选择及更广的 TabPFN 同协议实验。

@@ -604,10 +604,1207 @@
       "horizontal_overflow": false,
       "h1_count": 1,
       "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "01_tabular_learning_intro.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "02_ml_workflow.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "03_metrics.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "04_bias_variance.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "05_decision_trees.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "06_tree_splits.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "07_random_forest.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "08_gbdt.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "09_xgboost.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "10_catboost.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "11_tabular_challenges.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "12_mlp.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "13_transformer.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "14_ft_transformer.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "15_fair_comparison.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "16_tabpfn_motivation.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "17_tabpfn_inference.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "18_icl.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "19_tabpfn_prior.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "20_tabpfn_versions.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "21_tabpfn_experiment.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "22_calibration.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "23_data_processing.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "24_reproducible_benchmark.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "25_model_comparison.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "26_research_opportunities.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "27_experiment_plan.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "28_paper_workshop.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "29_capstone.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "desktop",
+      "page": "30_synthesis.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "01_tabular_learning_intro.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "02_ml_workflow.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "03_metrics.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "04_bias_variance.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "05_decision_trees.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "06_tree_splits.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "07_random_forest.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "08_gbdt.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "09_xgboost.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "10_catboost.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "11_tabular_challenges.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "12_mlp.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "13_transformer.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "14_ft_transformer.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "15_fair_comparison.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "16_tabpfn_motivation.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "17_tabpfn_inference.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "18_icl.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "19_tabpfn_prior.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "20_tabpfn_versions.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "21_tabpfn_experiment.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "22_calibration.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "23_data_processing.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "24_reproducible_benchmark.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "25_model_comparison.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "26_research_opportunities.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "27_experiment_plan.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "28_paper_workshop.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "29_capstone.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "firefox",
+      "viewport": "mobile",
+      "page": "30_synthesis.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "01_tabular_learning_intro.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "02_ml_workflow.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "03_metrics.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "04_bias_variance.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "05_decision_trees.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "06_tree_splits.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "07_random_forest.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "08_gbdt.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "09_xgboost.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "10_catboost.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "11_tabular_challenges.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "12_mlp.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "13_transformer.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "14_ft_transformer.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "15_fair_comparison.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "16_tabpfn_motivation.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "17_tabpfn_inference.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "18_icl.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "19_tabpfn_prior.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "20_tabpfn_versions.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "21_tabpfn_experiment.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "22_calibration.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "23_data_processing.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "24_reproducible_benchmark.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "25_model_comparison.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "26_research_opportunities.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "27_experiment_plan.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "28_paper_workshop.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "29_capstone.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "desktop",
+      "page": "30_synthesis.html",
+      "scroll_width": 1440,
+      "viewport_width": 1440,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "01_tabular_learning_intro.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "02_ml_workflow.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "03_metrics.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "04_bias_variance.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "05_decision_trees.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "06_tree_splits.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "07_random_forest.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "08_gbdt.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "09_xgboost.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "10_catboost.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "11_tabular_challenges.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "12_mlp.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "13_transformer.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "14_ft_transformer.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "15_fair_comparison.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "16_tabpfn_motivation.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "17_tabpfn_inference.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "18_icl.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "19_tabpfn_prior.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "20_tabpfn_versions.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "21_tabpfn_experiment.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "22_calibration.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "23_data_processing.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "24_reproducible_benchmark.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "25_model_comparison.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "26_research_opportunities.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "27_experiment_plan.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "28_paper_workshop.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "29_capstone.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
+    },
+    {
+      "engine": "webkit",
+      "viewport": "mobile",
+      "page": "30_synthesis.html",
+      "scroll_width": 390,
+      "viewport_width": 390,
+      "horizontal_overflow": false,
+      "h1_count": 1,
+      "console_errors": []
     }
   ],
-  "engine_errors": {
-    "firefox": "BrowserType.launch: Executable doesn't exist at C:\\Users\\han\\AppData\\Local\\ms-playwright\\firefox-1543\\firefox\\firefox.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
-    "webkit": "BrowserType.launch: Executable doesn't exist at C:\\Users\\han\\AppData\\Local\\ms-playwright\\webkit-2359\\Playwright.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
-  }
+  "engine_errors": {}
 }

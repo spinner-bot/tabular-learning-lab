@@ -46,14 +46,14 @@
 - 新增最终验收标准—证据矩阵，集中映射总控 Prompt 的内容、研究、技术、教学和交付要求。
 - 完成 PFN、TabPFN、XGBoost 原始论文 HTML 的核心机制核验，并保存 CatBoost 机制边界与 FT-Transformer 访问缺口。
 - 已完成第 09–10 节 XGBoost/CatBoost 主张级核验，并修正第 01–04、17 节陈旧环境状态表述；详见 `reports/xgboost_claim_verification_2026-10-10.md`、`reports/catboost_claim_verification_2026-10-10.md` 与 `reports/lesson_stale_claims_review_2026-10-10.md`。
-- 2026-10-10 全套自动门禁重跑通过：课程结构、来源、引用、交互、Edge AX tree、键盘/剪贴板、窄屏和内容深度；人工视觉、真实屏幕阅读器、跨浏览器与 TabPFN checkpoint 授权仍未完成。
+- 2026-10-10 全套自动门禁重跑通过：课程结构、来源、引用、交互、Edge AX tree、键盘/剪贴板、窄屏、三引擎跨浏览器和内容深度；人工视觉、真实屏幕阅读器与 TabPFN checkpoint 授权仍未完成。
 - 新增全课程桌面/移动视觉捕获：30/30 页面、60 张全页截图、0 条控制台错误，移动视口无横向溢出；证据与限制见 `reports/course_visual_review_2026-10-10.md`。
 - 完成第 11–15 节主张级事实核验记录，区分原始论文/官方文档支持、示意内容和未执行代码；第 14 节官方实现/API 仍未运行，详见 `reports/lesson_11_15_claim_review_2026-10-10.md`。
 - 完成第 16–22 节 TabPFN 主张级事实核验记录，分开记录论文、官方动态页面、本机导入和模型权重授权缺口；详见 `reports/lesson_16_22_claim_review_2026-10-10.md`。
 - 完成第 23–30 节研究与交付主张级核验记录，区分协议、模板、本地实验和未完成综合项目；详见 `reports/lesson_23_30_claim_review_2026-10-10.md`。
 - 完成 R04 TabPFN 原始论文的课程相关精读记录，并从第 28 节链接；保留逐表数字复核和当前 checkpoint 等价运行缺口，详见 `reports/paper_reading_R04_tabpfn_original_2026-10-10.md`。
-- 完成当前工作站验证能力核查：Edge 可用，Narrator 程序存在但未形成语音证据，NVDA/Firefox/Chrome/axe/pa11y 未找到；限制记录见 `reports/environment_capability_check_2026-10-10.md`。
-- 新增 Playwright bundled Chromium 跨浏览器自动 smoke test：30 节桌面/移动共 60/60 路径通过；Firefox/WebKit 可执行文件缺失，结果保持 PARTIAL，详见 `reports/cross_browser_smoke_2026-10-10.md`。
+- 完成当前工作站验证能力核查：Edge 可用，Narrator 程序存在但未形成语音证据，NVDA/系统 Firefox/Chrome/axe/pa11y 未找到；Playwright Firefox/WebKit 运行包已补装并完成三引擎自动验证，限制记录见 `reports/environment_capability_check_2026-10-10.md`。
+- 完成 Playwright 三引擎跨浏览器自动 smoke test：Chromium、Firefox、WebKit 覆盖 30 节课件的桌面/移动共 180/180 路径通过；仍不替代真实屏幕阅读器、逐像素人工视觉复核或独立 axe/pa11y 审计，详见 `reports/cross_browser_smoke_2026-10-10.md` 与 `reports/environment_capability_check_2026-10-10.md`。
 - 重新复核默认 Python 环境：可发现 TabPFN 包但 PyTorch `c10.dll` 导入失败；未下载权重、接受许可或生成预测，详见 `reports/tabpfn_environment_recheck_2026-10-10.md`。
 - 对照总控 Prompt 复核发现第 03、06 节基础知识覆盖不足，已补齐 ROC-AUC/Log Loss/RMSE/R²、阈值滑块、Gini/熵/信息增益公式和回归 SSE 案例；证据见 `reports/lesson_03_06_content_revision_2026-10-10.md`。
 - 已补齐第 02、04、07、08、10、22 节计划中的泄漏/复杂度/树数量/提升轮数/排列前缀/校准分箱示意控件，并通过全课程交互与可访问性审计；来源复核见 `reports/metrics_tree_claim_verification_2026-10-10.md`。
@@ -67,7 +67,7 @@
 ## 尚未完成
 
 - 第 01–30 节逐条事实核验和 HTML 实际测试。
-- 浏览器自动化已验证；人工视觉、屏幕阅读器和跨内核测试仍未完成。
+- 浏览器自动化已验证；人工视觉和屏幕阅读器仍未完成，三引擎跨内核自动 smoke test 已完成。
 - 31 个页面的静态可访问性基础审计已通过；屏幕阅读器和人工可用性审查仍未完成。
 - Edge Accessibility tree 已核对入口页和第 05 节关键控件；真实屏幕阅读器端到端审查仍未完成。
 - 已重新核对 TabPFN 官方仓库与 Models 页面，更新版本/限制/许可证事实；本机 checkpoint 运行仍未完成。

@@ -26,17 +26,17 @@
 | 资源记录 | `reports/resource_profile_2026-10-10.md`、`reports/stress_resource_profile_2026-10-10.md`、对应 JSON | 部分通过 | 已补充两档较大合成规模压力测试；仍缺 TabPFN 资源对照和生产容量测试 |
 | 许可证与数据来源边界 | `data/license_manifest.json`、`reports/license_audit_2026-10-10.md` | 部分通过 | 依赖和数据来源已列明；项目级许可证尚未决定，TabPFN 模型权重仍需按版本接受条款 |
 | 回归与更广数据集证据 | `code/regression_benchmark.py`、`reports/repeated_benchmark_diabetes_regression_2026-10-10.md`、对应 JSON | 部分通过 | 已补充 1 个回归数据集和 70 次重复运行；仍需更广任务/数据集与组件级消融 |
-| 全课程交互路径 | `code/browser_interaction_audit.py`、`reports/browser_interaction_audit_2026-10-10.md`、`reports/course_visual_review_2026-10-10.md`、对应 JSON | 部分通过 | 30 页通用交互路径与 60 张桌面/移动截图已自动核验；真实屏幕阅读器、跨浏览器和逐像素人工视觉复核仍缺 |
-| 全课程 AX tree 命名 | `code/ax_tree_course_audit.py`、`reports/ax_tree_course_audit_2026-10-10.md`、对应 JSON | 部分通过 | 30 页 Edge AX tree 已核验；屏幕阅读器语音输出和跨引擎行为仍缺 |
+| 全课程交互路径 | `code/browser_interaction_audit.py`、`reports/browser_interaction_audit_2026-10-10.md`、`reports/course_visual_review_2026-10-10.md`、`reports/cross_browser_smoke_2026-10-10.md`、对应 JSON | 部分通过 | 30 页通用交互路径、三引擎 180 条桌面/移动路径与 60 张截图已自动核验；真实屏幕阅读器和逐像素人工视觉复核仍缺 |
+| 全课程 AX tree 命名 | `code/ax_tree_course_audit.py`、`reports/ax_tree_course_audit_2026-10-10.md`、对应 JSON | 部分通过 | 30 页 Edge AX tree 已核验；屏幕阅读器语音输出仍缺 |
 
 ## 技术
 
 | 要求 | 权威证据 | 状态 | 剩余缺口 |
 |---|---|---|---|
-| HTML 可打开、导航和本地链接有效 | `code/check_html_structure.py`、浏览器 smoke test | 通过 |
-| 交互组件实际可用 | `code/browser_smoke_test.py`、`code/browser_interaction_audit.py`、`reports/lesson_03_06_content_revision_2026-10-10.md` | 部分通过 | 自动路径已覆盖阈值滑块、details、复制和 canvas；真实屏幕阅读器、跨浏览器和人工操作路径未完成 |
+| HTML 可打开、导航和本地链接有效 | `code/check_html_structure.py`、浏览器 smoke test、`reports/cross_browser_smoke_2026-10-10.md` | 通过 |
+| 交互组件实际可用 | `code/browser_smoke_test.py`、`code/browser_interaction_audit.py`、`reports/lesson_03_06_content_revision_2026-10-10.md`、`reports/cross_browser_smoke_2026-10-10.md` | 部分通过 | 自动路径已覆盖阈值滑块、details、复制和 canvas；真实屏幕阅读器和人工操作路径未完成 |
 | 代码有验证记录或明确标注未验证 | 各 lesson、`code/*_smoke_test.py`、`reports/*validation*.md` | 部分通过 | 尚未逐块执行所有课件代码 |
-| 窄屏可用 | `reports/browser_full_layout_2026-10-10.json` | 通过（自动化宽度层） | 人工视觉和跨内核仍未完成 |
+| 窄屏可用 | `reports/browser_full_layout_2026-10-10.json`、`reports/cross_browser_smoke_2026-10-10.md` | 通过（自动化宽度层） | 人工视觉仍未完成 |
 | 外部依赖和离线限制已说明 | `reports/tabpfn_validation.md`、`reports/tabpfn_probe_2026-10-10.md`、课件边界说明 | 部分通过 | TabPFN 代码导入已在隔离环境通过；模型权重授权、checkpoint/预测和资源对照仍未完成 |
 | TabPFN 隔离环境导入与授权门禁 | `reports/tabpfn_probe_2026-10-10.md` | 部分通过 | PyTorch 2.7.1+cpu 与 TabPFN 9.1.0 导入已通过；模型权重授权、checkpoint/预测和资源对照仍未完成 |
 | 无明显控制台/排版问题 | 截图、Edge smoke test、`reports/manual_visual_review_2026-10-10.md` | 部分通过 | 仅人工查看入口和第 05 节，未覆盖全课程/多内核 |
