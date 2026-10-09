@@ -16,6 +16,7 @@
 - 逐节事实主张还没有全部逐句核验。
 - TabPFN 当前工作站导入被 PyTorch c10.dll 阻塞，真实 checkpoint 实验未完成。
 - 浏览器自动化 smoke test 已通过；人工逐像素视觉审阅、屏幕阅读器审计和跨内核兼容性仍未完成，证据见 `reports/browser_validation.md`。
+- 静态可访问性基础审计已通过 31 个页面；屏幕阅读器和人工可用性审查仍未完成，证据见 `reports/accessibility_validation.md`。
 - 30 节课件仍是初版，尚未完成统一深度、引用和跨章节终审。
 - 已有合成数据的初始 benchmark；真实数据集、数据许可、完整参数预算和统计实验报告仍未完成。
 
