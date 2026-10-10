@@ -4,8 +4,8 @@
 
 | 课件 | 外部来源数 | 本地来源数 | 外部来源 |
 |---|---:|---:|---|
-| `01_tabular_learning_intro.html` | 1 | 4 | `https://scikit-learn.org/stable/supervised_learning.html` |
-| `02_ml_workflow.html` | 1 | 4 | `https://scikit-learn.org/stable/common_pitfalls.html` |
+| `01_tabular_learning_intro.html` | 1 | 5 | `https://scikit-learn.org/stable/supervised_learning.html` |
+| `02_ml_workflow.html` | 1 | 5 | `https://scikit-learn.org/stable/common_pitfalls.html` |
 | `03_metrics.html` | 1 | 6 | `https://scikit-learn.org/stable/modules/model_evaluation.html` |
 | `04_bias_variance.html` | 1 | 5 | `https://scikit-learn.org/stable/modules/cross_validation.html` |
 | `05_decision_trees.html` | 1 | 6 | `https://scikit-learn.org/stable/modules/tree.html` |
@@ -35,7 +35,7 @@
 | `29_capstone.html` | 1 | 6 | `https://github.com/PriorLabs/TabPFN` |
 | `30_synthesis.html` | 1 | 7 | `https://scikit-learn.org/stable/modules/model_evaluation.html` |
 
-合计：30 个课件，36 个外部链接，164 个本地链接。
+合计：30 个课件，36 个外部链接，166 个本地链接。
 
 ## 判定
 

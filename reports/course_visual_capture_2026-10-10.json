@@ -5,7 +5,7 @@
     "width": 1440,
     "height": 1000,
     "scroll_width": 1440,
-    "scroll_height": 3259,
+    "scroll_height": 3285,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\01_tabular_learning_intro_desktop.png"
   },
@@ -15,7 +15,7 @@
     "width": 1440,
     "height": 1000,
     "scroll_width": 1440,
-    "scroll_height": 3105,
+    "scroll_height": 3131,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\02_ml_workflow_desktop.png"
   },
@@ -305,7 +305,7 @@
     "width": 390,
     "height": 844,
     "scroll_width": 390,
-    "scroll_height": 3839,
+    "scroll_height": 3890,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\01_tabular_learning_intro_mobile.png"
   },
@@ -315,7 +315,7 @@
     "width": 390,
     "height": 844,
     "scroll_width": 390,
-    "scroll_height": 3600,
+    "scroll_height": 3651,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\02_ml_workflow_mobile.png"
   },

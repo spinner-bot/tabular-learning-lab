@@ -57,7 +57,7 @@
 - 完成 Playwright 三引擎跨浏览器自动 smoke test：Chromium、Firefox、WebKit 覆盖 30 节课件的桌面/移动共 180/180 路径通过；仍不替代真实屏幕阅读器、逐像素人工视觉复核或独立 axe/pa11y 审计，详见 `reports/cross_browser_smoke_2026-10-10.md` 与 `reports/environment_capability_check_2026-10-10.md`。
 - 重新复核默认 Python 环境：可发现 TabPFN 包但 PyTorch `c10.dll` 导入失败；未下载权重、接受许可或生成预测，详见 `reports/tabpfn_environment_recheck_2026-10-10.md`。
 - 对照总控 Prompt 复核发现第 03、06 节基础知识覆盖不足，已补齐 ROC-AUC/Log Loss/RMSE/R²、阈值滑块、Gini/熵/信息增益公式和回归 SSE 案例；证据见 `reports/lesson_03_06_content_revision_2026-10-10.md`。
-- 第 23 节修订后的回归门禁通过：30/30 lesson、31 页、217 个本地链接、36 个外部来源，三引擎桌面/移动 180/180 路径通过；最新汇总见 `reports/final_validation_run_2026-10-10.md`。
+- 第 01、02、23 节修订后的回归门禁通过：30/30 lesson、31 页、225 个本地链接、36 个外部来源，三引擎桌面/移动 180/180 路径通过；最新汇总见 `reports/final_validation_run_2026-10-10.md`。
 - 执行第 04、06–10 节页面 API 代码路径：DummyClassifier、DecisionTree、RandomForest OOB、GBDT、XGBoost 和 CatBoost 共 6/6 通过；CatBoost 原始运行日志保留于 `reports/intermediates/`，结果见 `reports/lesson_04_10_code_examples_2026-10-10.md`。
 - 执行第 01、02 节页面代码路径：DataFrame 与 `SimpleImputer + LogisticRegression` 管道共 2/2 通过；记录了 pandas 3.0.6 字符串 dtype 的实际表现，详见 `reports/lesson_01_02_code_examples_2026-10-10.md`。
 - 已补齐第 02、04、07、08、10、22 节计划中的泄漏/复杂度/树数量/提升轮数/排列前缀/校准分箱示意控件，并通过全课程交互与可访问性审计；来源复核见 `reports/metrics_tree_claim_verification_2026-10-10.md`。

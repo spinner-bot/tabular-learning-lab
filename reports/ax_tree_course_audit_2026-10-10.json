@@ -2,7 +2,7 @@
   {
     "page": "01_tabular_learning_intro.html",
     "named_heading_count": 9,
-    "interactive_count": 6,
+    "interactive_count": 7,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -23,6 +23,10 @@
       },
       {
         "role": "link",
+        "name": "01、02 节代码验证报告"
+      },
+      {
+        "role": "link",
         "name": "scikit-learn 监督学习指南"
       },
       {
@@ -34,7 +38,7 @@
   {
     "page": "02_ml_workflow.html",
     "named_heading_count": 9,
-    "interactive_count": 6,
+    "interactive_count": 7,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -52,6 +56,10 @@
       {
         "role": "link",
         "name": "下一节：03 →"
+      },
+      {
+        "role": "link",
+        "name": "01、02 节代码验证报告"
       },
       {
         "role": "link",
