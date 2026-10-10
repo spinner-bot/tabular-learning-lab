@@ -35,7 +35,7 @@
     "width": 1440,
     "height": 1000,
     "scroll_width": 1440,
-    "scroll_height": 3108,
+    "scroll_height": 3134,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\04_bias_variance_desktop.png"
   },
@@ -55,7 +55,7 @@
     "width": 1440,
     "height": 1000,
     "scroll_width": 1440,
-    "scroll_height": 3435,
+    "scroll_height": 3461,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\06_tree_splits_desktop.png"
   },
@@ -75,7 +75,7 @@
     "width": 1440,
     "height": 1000,
     "scroll_width": 1440,
-    "scroll_height": 2862,
+    "scroll_height": 2888,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\08_gbdt_desktop.png"
   },
@@ -85,7 +85,7 @@
     "width": 1440,
     "height": 1000,
     "scroll_width": 1440,
-    "scroll_height": 2810,
+    "scroll_height": 2836,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\09_xgboost_desktop.png"
   },
@@ -95,7 +95,7 @@
     "width": 1440,
     "height": 1000,
     "scroll_width": 1440,
-    "scroll_height": 2785,
+    "scroll_height": 2811,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\10_catboost_desktop.png"
   },
@@ -225,7 +225,7 @@
     "width": 1440,
     "height": 1000,
     "scroll_width": 1440,
-    "scroll_height": 2623,
+    "scroll_height": 2719,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\23_data_processing_desktop.png"
   },
@@ -335,7 +335,7 @@
     "width": 390,
     "height": 844,
     "scroll_width": 390,
-    "scroll_height": 3662,
+    "scroll_height": 3713,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\04_bias_variance_mobile.png"
   },
@@ -355,7 +355,7 @@
     "width": 390,
     "height": 844,
     "scroll_width": 390,
-    "scroll_height": 4194,
+    "scroll_height": 4245,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\06_tree_splits_mobile.png"
   },
@@ -365,7 +365,7 @@
     "width": 390,
     "height": 844,
     "scroll_width": 390,
-    "scroll_height": 3153,
+    "scroll_height": 3204,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\07_random_forest_mobile.png"
   },
@@ -375,7 +375,7 @@
     "width": 390,
     "height": 844,
     "scroll_width": 390,
-    "scroll_height": 3137,
+    "scroll_height": 3189,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\08_gbdt_mobile.png"
   },
@@ -385,7 +385,7 @@
     "width": 390,
     "height": 844,
     "scroll_width": 390,
-    "scroll_height": 3359,
+    "scroll_height": 3410,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\09_xgboost_mobile.png"
   },
@@ -395,7 +395,7 @@
     "width": 390,
     "height": 844,
     "scroll_width": 390,
-    "scroll_height": 3400,
+    "scroll_height": 3452,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\10_catboost_mobile.png"
   },
@@ -525,7 +525,7 @@
     "width": 390,
     "height": 844,
     "scroll_width": 390,
-    "scroll_height": 3023,
+    "scroll_height": 3248,
     "console_errors": [],
     "screenshot": "reports\\browser_artifacts\\course_visual_2026-10-10\\23_data_processing_mobile.png"
   },
