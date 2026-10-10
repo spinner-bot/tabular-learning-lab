@@ -1,0 +1,14 @@
+{
+  "desktop": {
+    "width": 1440,
+    "articles": 30,
+    "horizontal_overflow": false,
+    "page_errors": []
+  },
+  "mobile": {
+    "width": 390,
+    "articles": 30,
+    "horizontal_overflow": false,
+    "page_errors": []
+  }
+}
