@@ -35,7 +35,7 @@
 |---|---|---|---|
 | HTML 可打开、导航和本地链接有效 | `code/check_html_structure.py`、浏览器 smoke test、`reports/cross_browser_smoke_2026-10-10.md` | 通过 |
 | 交互组件实际可用 | `code/browser_smoke_test.py`、`code/browser_interaction_audit.py`、`reports/lesson_03_06_content_revision_2026-10-10.md`、`reports/cross_browser_smoke_2026-10-10.md` | 部分通过 | 自动路径已覆盖阈值滑块、details、复制和 canvas；真实屏幕阅读器和人工操作路径未完成 |
-| 代码有验证记录或明确标注未验证 | 各 lesson、`code/*_smoke_test.py`、`code/lesson_04_10_code_examples.py`、`code/lesson_23_preprocessing_example.py`、`reports/*validation*.md` | 部分通过 | 已补充第 04、06–10 节 6/6 页面 API 路径和第 23 节教学规模预处理链；尚未逐块执行所有课件代码 |
+| 代码有验证记录或明确标注未验证 | 各 lesson、`code/*_smoke_test.py`、`code/lesson_01_02_code_examples.py`、`code/lesson_04_10_code_examples.py`、`code/lesson_23_preprocessing_example.py`、`reports/*validation*.md` | 部分通过 | 已补充第 01–02 节 2/2、04/06–10 节 6/6 页面路径和第 23 节教学规模预处理链；尚未逐块执行所有课件代码 |
 | 窄屏可用 | `reports/browser_full_layout_2026-10-10.json`、`reports/cross_browser_smoke_2026-10-10.md` | 通过（自动化宽度层） | 人工视觉仍未完成 |
 | 外部依赖和离线限制已说明 | `reports/tabpfn_validation.md`、`reports/tabpfn_probe_2026-10-10.md`、课件边界说明 | 部分通过 | TabPFN 代码导入已在隔离环境通过；模型权重授权、checkpoint/预测和资源对照仍未完成 |
 | TabPFN 隔离环境导入与授权门禁 | `reports/tabpfn_probe_2026-10-10.md` | 部分通过 | PyTorch 2.7.1+cpu 与 TabPFN 9.1.0 导入已通过；模型权重授权、checkpoint/预测和资源对照仍未完成 |

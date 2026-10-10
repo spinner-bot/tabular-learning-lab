@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "lesson_01": {
+    "rows": 2,
+    "columns": [
+      "area",
+      "region",
+      "price"
+    ],
+    "dtypes": [
+      "int64",
+      "str",
+      "int64"
+    ]
+  },
+  "lesson_02": {
+    "train_rows": 120,
+    "test_rows": 30,
+    "predictions": 30
+  },
+  "python": "3.13.5",
+  "pandas": "3.0.6",
+  "scikit_learn": "1.9.1",
+  "seed": 42,
+  "note": "Teaching snippet execution only; not a benchmark or a complete data workflow audit."
+}

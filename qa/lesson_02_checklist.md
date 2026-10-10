@@ -5,4 +5,5 @@
 - [x] 目标、训练/验证/测试、泄漏案例、流程图、3 个误区、5 道自测、前后连接已覆盖。
 - [x] 已增加泄漏开关并通过可访问性名称检查；详见 `reports/lesson_02_09_content_revision_2026-10-10.md`。
 - [x] 代码示例对应的基础依赖已通过批次 smoke test。
-- [ ] 代码块逐块运行、人工视觉/屏幕阅读器和逐句事实终审待完成；自动证据见 `reports/final_validation_run_2026-10-10.md`。
+- [x] `SimpleImputer + LogisticRegression` 页面管道已执行，记录见 `reports/lesson_01_02_code_examples_2026-10-10.md`。
+- [ ] 人工视觉/屏幕阅读器和逐句事实终审待完成。

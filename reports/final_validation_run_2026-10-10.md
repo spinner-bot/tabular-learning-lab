@@ -6,6 +6,7 @@
 
 ```text
 audit_lessons.py                         PASS (30 lessons, index links 30/30)
+lesson_01_02_code_examples.py             PASS (2/2 page code paths)
 check_html_structure.py                   PASS (31 pages, 223 local links)
 cross_lesson_audit.py                    PASS (30 plans linked to 30 pages)
 content_depth_audit.py                   PASS (30 pages and plans)
