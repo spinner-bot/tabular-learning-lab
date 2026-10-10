@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "records": [
+    {
+      "lesson": 4,
+      "model": "DummyClassifier",
+      "status": "PASS",
+      "cv_folds": 5
+    },
+    {
+      "lesson": 6,
+      "model": "DecisionTreeClassifier",
+      "status": "PASS",
+      "predictions": 30
+    },
+    {
+      "lesson": 7,
+      "model": "RandomForestClassifier",
+      "status": "PASS",
+      "oob_score": 0.95
+    },
+    {
+      "lesson": 8,
+      "model": "GradientBoostingRegressor",
+      "status": "PASS",
+      "predictions": 30
+    },
+    {
+      "lesson": 9,
+      "model": "XGBClassifier",
+      "status": "PASS",
+      "predictions": 30
+    },
+    {
+      "lesson": 10,
+      "model": "CatBoostClassifier",
+      "status": "PASS",
+      "predictions": 120
+    }
+  ],
+  "python": "3.13.5",
+  "scikit_learn": "1.9.1",
+  "xgboost": "3.4.1",
+  "catboost": "catboost",
+  "seed": 42,
+  "note": "Executable teaching paths only; not a comparative benchmark or a claim of universal model superiority."
+}

@@ -5,4 +5,5 @@
 - [x] 目标、偏差/方差、基线、交叉验证、比较协议、3 个误区、5 道自测、前后连接已覆盖。
 - [x] 已增加复杂度滑块示意；详见 `reports/lesson_04_07_08_10_22_interaction_revision_2026-10-10.md`。
 - [x] 代码示例对应的基础依赖已通过批次 smoke test。
-- [ ] 代码块逐块运行、人工视觉/屏幕阅读器和逐句事实终审待完成；自动证据见 `reports/final_validation_run_2026-10-10.md`。
+- [x] DummyClassifier + 5 折交叉验证教学路径已执行，记录见 `reports/lesson_04_10_code_examples_2026-10-10.md`。
+- [ ] 人工视觉/屏幕阅读器和逐句事实终审待完成。

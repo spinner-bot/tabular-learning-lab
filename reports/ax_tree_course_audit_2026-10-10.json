@@ -106,7 +106,7 @@
   {
     "page": "04_bias_variance.html",
     "named_heading_count": 9,
-    "interactive_count": 6,
+    "interactive_count": 7,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -124,6 +124,10 @@
       {
         "role": "link",
         "name": "下一节：05 →"
+      },
+      {
+        "role": "link",
+        "name": "04、06–10 节代码验证报告"
       },
       {
         "role": "link",
@@ -222,7 +226,7 @@
   {
     "page": "06_tree_splits.html",
     "named_heading_count": 9,
-    "interactive_count": 8,
+    "interactive_count": 9,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -240,6 +244,10 @@
       {
         "role": "link",
         "name": "下一节：07 →"
+      },
+      {
+        "role": "link",
+        "name": "04、06–10 节代码验证报告"
       },
       {
         "role": "link",
@@ -262,7 +270,7 @@
   {
     "page": "07_random_forest.html",
     "named_heading_count": 8,
-    "interactive_count": 6,
+    "interactive_count": 7,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -283,6 +291,10 @@
       },
       {
         "role": "link",
+        "name": "04、06–10 节代码验证报告"
+      },
+      {
+        "role": "link",
         "name": "本节计划"
       },
       {
@@ -294,7 +306,7 @@
   {
     "page": "08_gbdt.html",
     "named_heading_count": 8,
-    "interactive_count": 6,
+    "interactive_count": 7,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -315,6 +327,10 @@
       },
       {
         "role": "link",
+        "name": "04、06–10 节代码验证报告"
+      },
+      {
+        "role": "link",
         "name": "scikit-learn Gradient Boosting 文档"
       },
       {
@@ -326,7 +342,7 @@
   {
     "page": "09_xgboost.html",
     "named_heading_count": 8,
-    "interactive_count": 6,
+    "interactive_count": 7,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -340,6 +356,10 @@
       {
         "role": "link",
         "name": "下一节：10 →"
+      },
+      {
+        "role": "link",
+        "name": "04、06–10 节代码验证报告"
       },
       {
         "role": "link",
@@ -358,7 +378,7 @@
   {
     "page": "10_catboost.html",
     "named_heading_count": 8,
-    "interactive_count": 8,
+    "interactive_count": 9,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -376,6 +396,10 @@
       {
         "role": "link",
         "name": "下一节：11 →"
+      },
+      {
+        "role": "link",
+        "name": "04、06–10 节代码验证报告"
       },
       {
         "role": "link",
@@ -814,7 +838,7 @@
   {
     "page": "23_data_processing.html",
     "named_heading_count": 8,
-    "interactive_count": 7,
+    "interactive_count": 8,
     "unnamed_interactive_count": 0,
     "interactive_roles": [
       {
@@ -832,6 +856,10 @@
       {
         "role": "link",
         "name": "Rubin (1976)"
+      },
+      {
+        "role": "link",
+        "name": "第 23 节代码验证报告"
       },
       {
         "role": "link",

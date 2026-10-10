@@ -5,4 +5,5 @@
 - [x] 目标、加法模型、梯度/残差边界、流程图、3 个误区、5 道自测、前后连接已覆盖。
 - [x] 已增加提升轮数与加法模型示意滑块；详见 `reports/lesson_04_07_08_10_22_interaction_revision_2026-10-10.md`。
 - [x] GBDT 代码已通过 tree_models_smoke_test。
-- [ ] 代码块逐块运行、人工视觉/屏幕阅读器和逐句事实终审待完成；GBDT 路径已有批次 smoke test。
+- [x] GradientBoostingRegressor 页面参数路径已执行，记录见 `reports/lesson_04_10_code_examples_2026-10-10.md`。
+- [ ] 人工视觉/屏幕阅读器和逐句事实终审待完成。

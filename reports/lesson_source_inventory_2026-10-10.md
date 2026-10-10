@@ -7,13 +7,13 @@
 | `01_tabular_learning_intro.html` | 1 | 4 | `https://scikit-learn.org/stable/supervised_learning.html` |
 | `02_ml_workflow.html` | 1 | 4 | `https://scikit-learn.org/stable/common_pitfalls.html` |
 | `03_metrics.html` | 1 | 6 | `https://scikit-learn.org/stable/modules/model_evaluation.html` |
-| `04_bias_variance.html` | 1 | 4 | `https://scikit-learn.org/stable/modules/cross_validation.html` |
+| `04_bias_variance.html` | 1 | 5 | `https://scikit-learn.org/stable/modules/cross_validation.html` |
 | `05_decision_trees.html` | 1 | 6 | `https://scikit-learn.org/stable/modules/tree.html` |
-| `06_tree_splits.html` | 1 | 6 | `https://scikit-learn.org/stable/modules/tree.html` |
-| `07_random_forest.html` | 1 | 4 | `https://scikit-learn.org/stable/modules/ensemble.html` |
-| `08_gbdt.html` | 1 | 4 | `https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting` |
-| `09_xgboost.html` | 1 | 5 | `https://xgboost.readthedocs.io/` |
-| `10_catboost.html` | 2 | 5 | `https://catboost.ai/docs/en/concepts/algorithm-main-stages_fighting-biases`<br>`https://catboost.ai/docs/en/concepts/algorithm-main-stages_cat-to-numberic` |
+| `06_tree_splits.html` | 1 | 7 | `https://scikit-learn.org/stable/modules/tree.html` |
+| `07_random_forest.html` | 1 | 5 | `https://scikit-learn.org/stable/modules/ensemble.html` |
+| `08_gbdt.html` | 1 | 5 | `https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting` |
+| `09_xgboost.html` | 1 | 6 | `https://xgboost.readthedocs.io/` |
+| `10_catboost.html` | 2 | 6 | `https://catboost.ai/docs/en/concepts/algorithm-main-stages_fighting-biases`<br>`https://catboost.ai/docs/en/concepts/algorithm-main-stages_cat-to-numberic` |
 | `11_tabular_challenges.html` | 1 | 5 | `https://openreview.net/forum?id=i_Q1yrOegLY` |
 | `12_mlp.html` | 1 | 6 | `https://scikit-learn.org/stable/modules/neural_networks_supervised.html` |
 | `13_transformer.html` | 1 | 6 | `https://arxiv.org/abs/1706.03762` |
@@ -35,7 +35,7 @@
 | `29_capstone.html` | 1 | 6 | `https://github.com/PriorLabs/TabPFN` |
 | `30_synthesis.html` | 1 | 7 | `https://scikit-learn.org/stable/modules/model_evaluation.html` |
 
-合计：30 个课件，36 个外部链接，158 个本地链接。
+合计：30 个课件，36 个外部链接，164 个本地链接。
 
 ## 判定
 
