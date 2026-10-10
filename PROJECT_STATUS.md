@@ -60,6 +60,7 @@
 - 第 01、02、23 节修订后的回归门禁通过：30/30 lesson、31 页、225 个本地链接、36 个外部来源，三引擎桌面/移动 180/180 路径通过；最新汇总见 `reports/final_validation_run_2026-10-10.md`。
 - 执行第 04、06–10 节页面 API 代码路径：DummyClassifier、DecisionTree、RandomForest OOB、GBDT、XGBoost 和 CatBoost 共 6/6 通过；CatBoost 原始运行日志保留于 `reports/intermediates/`，结果见 `reports/lesson_04_10_code_examples_2026-10-10.md`。
 - 执行第 01、02 节页面代码路径：DataFrame 与 `SimpleImputer + LogisticRegression` 管道共 2/2 通过；记录了 pandas 3.0.6 字符串 dtype 的实际表现，详见 `reports/lesson_01_02_code_examples_2026-10-10.md`。
+- 按用户收紧的验收边界完成“基本阅读学习用途”判定：入口、30 节阅读内容、导航/本地链接、基础交互、自测、窄屏和三引擎自动打开均通过；终止记录见 `reports/basic_learning_use_acceptance_2026-10-10.md`。TabPFN 权重、人工专家/屏幕阅读器和更广研究实验仍作为扩展未完成项保留。
 - 已补齐第 02、04、07、08、10、22 节计划中的泄漏/复杂度/树数量/提升轮数/排列前缀/校准分箱示意控件，并通过全课程交互与可访问性审计；来源复核见 `reports/metrics_tree_claim_verification_2026-10-10.md`。
 
 ## 阶段状态

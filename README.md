@@ -4,7 +4,7 @@
 
 ## 当前状态
 
-30 节 HTML 课件和逐节计划已建立初版。2026-10-10 的结构、来源、可访问性、全课程交互、Edge AX tree、键盘/剪贴板、390px 和 Chromium/Firefox/WebKit 三引擎自动测试均通过；逐句教学终审、人工视觉/屏幕阅读器审查和 TabPFN checkpoint 授权实验仍未完成。不能把“文件存在”视为项目完成。
+30 节 HTML 课件和逐节计划已建立初版。按 `reports/basic_learning_use_acceptance_2026-10-10.md` 的范围，入口、阅读导航、基础交互、自测、窄屏和 Chromium/Firefox/WebKit 自动打开均通过，基本阅读学习用途已确认。逐句教学终审、人工视觉/屏幕阅读器审查、TabPFN checkpoint 授权实验和更广研究仍属于扩展未完成项。
 
 ## 如何阅读
 
